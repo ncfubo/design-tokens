@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 13 Apr 2022 20:39:00 GMT
+// Generated on Wed, 13 Apr 2022 20:39:25 GMT
 
 
 import UIKit
@@ -112,7 +112,6 @@ internal struct StyleDictionaryStruct {
     internal static let letterSpacing3 = 2%
     internal static let letterSpacing4 = 4%
     internal static let lineHeights0 = 92
-    internal static let opacityTest = 1
     internal static let orangeOrange000 = #110400
     internal static let orangeOrange020 = #220801
     internal static let orangeOrange040 = #430f01

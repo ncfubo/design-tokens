@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 13 Apr 2022 20:39:00 GMT
+// Generated on Wed, 13 Apr 2022 20:39:25 GMT
 
 
 import UIKit
@@ -112,7 +112,6 @@ public enum StyleDictionaryEnum {
     public static let letterSpacing3 = 2%
     public static let letterSpacing4 = 4%
     public static let lineHeights0 = 92
-    public static let opacityTest = 1
     public static let orangeOrange000 = #110400
     public static let orangeOrange020 = #220801
     public static let orangeOrange040 = #430f01
