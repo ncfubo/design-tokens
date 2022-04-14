@@ -1905,9 +1905,5 @@
       "type": "color",
       "description": "#FAFAFA (18.23b, 1.19w)"
     }
-  },
-  "temp": {
-    "value": 1,
-    "type": "opacity"
   }
 }
