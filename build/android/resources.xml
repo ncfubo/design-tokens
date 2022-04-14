@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Thu, 14 Apr 2022 17:45:18 GMT
+  Generated on Thu, 14 Apr 2022 17:57:30 GMT
 -->
 <resources>
   <string name="font_families_qanelas">Qanelas</string>
@@ -12,7 +12,7 @@
   <string name="font_families_gotham_book">Gotham Book</string>
   <string name="font_families_sf_pro_text">SF Pro Text</string>
   <string name="line_heights_0">92</string>
-  <string name="font_weights_qanelas_0">ExtraBold</string>
+  <string name="font_weights_extrabold">ExtraBold</string>
   <string name="font_weights_qanelas_1">Bold</string>
   <string name="font_size_0">10</string>
   <string name="letter_spacing_0">0%</string>

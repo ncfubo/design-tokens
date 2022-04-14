@@ -32,7 +32,7 @@
     }
   },
   "fontWeights": {
-    "qanelas-0": {
+    "extrabold": {
       "value": "ExtraBold",
       "type": "fontWeights"
     },
