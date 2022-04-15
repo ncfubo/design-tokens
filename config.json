@@ -12,10 +12,19 @@
     "android": {
       "transformGroup": "android",
       "buildPath": "build/android/",
-      "files": [{
-        "destination": "resources.xml",
-        "format": "android/resources"
-      }]
+       "files": [
+        {
+          "destination": "tokens-all.xml",
+          "format": "android/resources"
+        },
+        {
+          "destination": "tokens-colors.xml",
+          "format": "android/resources",
+          "filter":{
+              "type": "color"
+          }
+        }
+      ]
     },
     "json": {
       "buildPath": "build/json/",

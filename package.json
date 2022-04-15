@@ -4,6 +4,6 @@
     "token-transformer": "^0.0.20"
   },
   "scripts": {
-    "build": "style-dictionary build"
+    "build": "token-transformer data/tokens.json data/output.json && style-dictionary build"
   }
 }
