@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Fri, 15 Apr 2022 18:32:49 GMT
+  Generated on Mon, 18 Apr 2022 15:49:35 GMT
 -->
 <resources>
   <string name="font_families_qanelas">Qanelas</string>
@@ -229,6 +229,5 @@
   <string name="grey_grey_400">#e5e6e6</string>
   <string name="grey_grey_420">#eff0f0</string>
   <string name="grey_grey_440">#fafafa</string>
-  <string name="temp">1</string>
   
 </resources>
