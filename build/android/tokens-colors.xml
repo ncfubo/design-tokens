@@ -2,9 +2,10 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 18 Apr 2022 19:25:57 GMT
+  Generated on Mon, 18 Apr 2022 20:02:19 GMT
 -->
 <resources>
+  <string name="color_live">#fa4616</string>
   <string name="orange_orange_000">#110400</string>
   <string name="orange_orange_020">#220801</string>
   <string name="orange_orange_040">#430f01</string>

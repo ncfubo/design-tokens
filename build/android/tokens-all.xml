@@ -2,9 +2,10 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 18 Apr 2022 19:25:57 GMT
+  Generated on Mon, 18 Apr 2022 20:02:19 GMT
 -->
 <resources>
+  <string name="color_live">#fa4616</string>
   <string name="font_families_qanelas">Qanelas</string>
   <string name="font_families_sf_pro_display">SF Pro Display</string>
   <string name="font_families_roboto">Roboto</string>

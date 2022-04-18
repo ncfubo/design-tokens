@@ -1,4 +1,8 @@
 {
+  "color--live": {
+    "value": "#fa4616",
+    "type": "color"
+  },
   "fontFamilies": {
     "qanelas": {
       "value": "Qanelas",
