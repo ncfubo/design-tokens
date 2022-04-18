@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 18 Apr 2022 15:49:35 GMT
+  Generated on Mon, 18 Apr 2022 16:00:43 GMT
 -->
 <resources>
   <string name="font_families_qanelas">Qanelas</string>
@@ -188,18 +188,18 @@
   <string name="red_red_180">#fcbaba</string>
   <string name="red_red_200">#fdd6d6</string>
   <string name="red_red_220">#fff2f2</string>
-  <string name="yellow_yellow_000">#a18102</string>
-  <string name="yellow_yellow_020">#b28f04</string>
-  <string name="yellow_yellow_040">#c39d09</string>
-  <string name="yellow_yellow_060">#d3aa11</string>
-  <string name="yellow_yellow_080">#dfb71d</string>
-  <string name="yellow_yellow_100">#e9c22e</string>
-  <string name="yellow_yellow_120">#f1cc45</string>
-  <string name="yellow_yellow_140">#f7d762</string>
-  <string name="yellow_yellow_160">#fbe184</string>
-  <string name="yellow_yellow_180">#fdecac</string>
-  <string name="yellow_yellow_200">#fef1c0</string>
-  <string name="yellow_yellow_220">#fff6d4</string>
+  <string name="yellow_100">#e9c22e</string>
+  <string name="yellow_120">#f1cc45</string>
+  <string name="yellow_140">#f7d762</string>
+  <string name="yellow_160">#fbe184</string>
+  <string name="yellow_180">#fdecac</string>
+  <string name="yellow_200">#fef1c0</string>
+  <string name="yellow_220">#fff6d4</string>
+  <string name="yellow_000">#a18102</string>
+  <string name="yellow_020">#b28f04</string>
+  <string name="yellow_040">#c39d09</string>
+  <string name="yellow_060">#d3aa11</string>
+  <string name="yellow_080">#dfb71d</string>
   <string name="gradients_sunset">linear-gradient(135deg, #fa4616 0%, #721e4e 100%)</string>
   <string name="gradients_dusk">linear-gradient(135deg, #6a11cb 0%, #2575fc 100%)</string>
   <string name="gradients_dawn">linear-gradient(135deg, #667eea 0%, #764ba2 100%)</string>

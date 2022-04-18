@@ -1698,65 +1698,65 @@
     }
   },
   "Yellow": {
-    "yellow-000": {
-      "value": "#a18102",
-      "type": "color",
-      "description": "#1A190D"
-    },
-    "yellow-020": {
-      "value": "#b28f04",
-      "type": "color",
-      "description": "#B28F04"
-    },
-    "yellow-040": {
-      "value": "#c39d09",
-      "type": "color",
-      "description": "#C39D09"
-    },
-    "yellow-060": {
-      "value": "#d3aa11",
-      "type": "color",
-      "description": "#D3AA11"
-    },
-    "yellow-080": {
-      "value": "#dfb71d",
-      "type": "color",
-      "description": "#DFB71D"
-    },
-    "yellow-100": {
+    "100": {
       "value": "#e9c22e",
       "type": "color",
       "description": "#E9C22E"
     },
-    "yellow-120": {
+    "120": {
       "value": "#f1cc45",
       "type": "color",
       "description": "#F1CC45"
     },
-    "yellow-140": {
+    "140": {
       "value": "#f7d762",
       "type": "color",
       "description": "#F7D762"
     },
-    "yellow-160": {
+    "160": {
       "value": "#fbe184",
       "type": "color",
       "description": "#FBE184"
     },
-    "yellow-180": {
+    "180": {
       "value": "#fdecac",
       "type": "color",
       "description": "#FDECAC"
     },
-    "yellow-200": {
+    "200": {
       "value": "#fef1c0",
       "type": "color",
       "description": "#FEF1C0"
     },
-    "yellow-220": {
+    "220": {
       "value": "#fff6d4",
       "type": "color",
       "description": "#FFF6D4"
+    },
+    "000": {
+      "value": "#a18102",
+      "type": "color",
+      "description": "#1A190D"
+    },
+    "020": {
+      "value": "#b28f04",
+      "type": "color",
+      "description": "#B28F04"
+    },
+    "040": {
+      "value": "#c39d09",
+      "type": "color",
+      "description": "#C39D09"
+    },
+    "060": {
+      "value": "#d3aa11",
+      "type": "color",
+      "description": "#D3AA11"
+    },
+    "080": {
+      "value": "#dfb71d",
+      "type": "color",
+      "description": "#DFB71D"
     }
   },
   "Gradients": {
