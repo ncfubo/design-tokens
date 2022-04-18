@@ -223,5 +223,6 @@
   "Grey-380": "#dbdcdc",
   "Grey-400": "#e5e6e6",
   "Grey-420": "#eff0f0",
-  "Grey-440": "#fafafa"
+  "Grey-440": "#fafafa",
+  "font-size-01": "10px"
 }

@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 18 Apr 2022 20:02:19 GMT
+  Generated on Mon, 18 Apr 2022 21:02:40 GMT
 -->
 <resources>
   <string name="color_live">#fa4616</string>
@@ -230,5 +230,6 @@
   <string name="grey_grey_400">#e5e6e6</string>
   <string name="grey_grey_420">#eff0f0</string>
   <string name="grey_grey_440">#fafafa</string>
+  <string name="font_size_01">10px</string>
   
 </resources>

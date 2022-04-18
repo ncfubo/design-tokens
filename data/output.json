@@ -1909,5 +1909,9 @@
       "type": "color",
       "description": "#FAFAFA (18.23b, 1.19w)"
     }
+  },
+  "font-size-01": {
+    "value": "10px",
+    "type": "fontSizes"
   }
 }
