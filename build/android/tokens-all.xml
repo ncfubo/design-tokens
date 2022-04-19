@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 18 Apr 2022 21:02:40 GMT
+  Generated on Tue, 19 Apr 2022 14:35:47 GMT
 -->
 <resources>
   <string name="color_live">#fa4616</string>
@@ -15,7 +15,6 @@
   <string name="line_heights_0">92</string>
   <string name="font_weights_extrabold">ExtraBold</string>
   <string name="font_weights_qanelas_1">Bold</string>
-  <string name="font_size_0">10</string>
   <string name="letter_spacing_0">0%</string>
   <string name="letter_spacing_1">1%</string>
   <string name="letter_spacing_2">3%</string>
@@ -230,6 +229,37 @@
   <string name="grey_grey_400">#e5e6e6</string>
   <string name="grey_grey_420">#eff0f0</string>
   <string name="grey_grey_440">#fafafa</string>
-  <string name="font_size_01">10px</string>
+  <string name="mobile_and_web_ftv_mbl_dsktop_font_size_01">10px</string>
+  <string name="mobile_and_web_ftv_mbl_dsktop_font_size_02">11px</string>
+  <string name="mobile_and_web_ftv_mbl_dsktop_font_size_03">12px</string>
+  <string name="mobile_and_web_ftv_mbl_dsktop_font_size_04">14px</string>
+  <string name="mobile_and_web_ftv_mbl_dsktop_font_size_05">16px</string>
+  <string name="mobile_and_web_ftv_mbl_dsktop_font_size_06">18px</string>
+  <string name="mobile_and_web_ftv_mbl_dsktop_font_size_07">20px</string>
+  <string name="mobile_and_web_ftv_mbl_dsktop_font_size_08">22px</string>
+  <string name="mobile_and_web_ftv_mbl_dsktop_font_size_09">24px</string>
+  <string name="mobile_and_web_ftv_mbl_dsktop_font_size_10">28px</string>
+  <string name="mobile_and_web_ftv_mbl_dsktop_font_size_11">32px</string>
+  <string name="mobile_and_web_ftv_mbl_dsktop_font_size_12">36px</string>
+  <string name="mobile_and_web_ftv_mbl_dsktop_font_size_13">40px</string>
+  <string name="mobile_and_web_ftv_mbl_dsktop_font_size_14">46px</string>
+  <string name="mobile_and_web_ftv_mbl_dsktop_font_size_15">52px</string>
+  <string name="mobile_and_web_ftv_mbl_dsktop_font_size_16">58px</string>
+  <string name="mobile_and_web_ftv_mbl_dsktop_font_size_17">66px</string>
+  <string name="tv_ftv_tv_font_size_01">18px</string>
+  <string name="tv_ftv_tv_font_size_02">20px</string>
+  <string name="tv_ftv_tv_font_size_03">22px</string>
+  <string name="tv_ftv_tv_font_size_04">24px</string>
+  <string name="tv_ftv_tv_font_size_05">28px</string>
+  <string name="tv_ftv_tv_font_size_06">32px</string>
+  <string name="tv_ftv_tv_font_size_07">36px</string>
+  <string name="tv_ftv_tv_font_size_08">40px</string>
+  <string name="tv_ftv_tv_font_size_09">44px</string>
+  <string name="tv_ftv_tv_font_size_10">50px</string>
+  <string name="tv_ftv_tv_font_size_11">56px</string>
+  <string name="tv_ftv_tv_font_size_12">64px</string>
+  <string name="tv_ftv_tv_font_size_13">72px</string>
+  <string name="tv_ftv_tv_font_size_14">80px</string>
+  <string name="tv_ftv_tv_font_size_15">90px</string>
   
 </resources>
