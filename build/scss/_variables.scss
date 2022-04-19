@@ -1,17 +1,21 @@
 
 // Do not edit directly
-// Generated on Tue, 19 Apr 2022 14:35:47 GMT
+// Generated on Tue, 19 Apr 2022 16:34:41 GMT
 
 $color-live: #fa4616;
-$font-families-qanelas: Qanelas;
-$font-families-sf-pro-display: SF Pro Display;
-$font-families-roboto: Roboto;
-$font-families-helvetica: Helvetica;
-$font-families-gotham-book: Gotham Book;
-$font-families-sf-pro-text: SF Pro Text;
-$line-heights-0: 92;
-$font-weights-extrabold: ExtraBold;
-$font-weights-qanelas-1: Bold;
+$font-families-primary: Qanelas;
+$font-families-system-android-fire-tv: Roboto;
+$font-families-system-web: Helvetica;
+$font-families-system-roku: Gotham Book;
+$font-families-system-i-os-tv-os: SF Pro Text;
+$line-heights-xs: 100%;
+$line-heights-sm: 125%;
+$line-heights-md: 150%;
+$line-heights-lg: 175%;
+$font-weights-medium: 500;
+$font-weights-semibold: 600;
+$font-weights-bold: 700;
+$font-weights-extrabold: 800;
 $letter-spacing-0: 0%;
 $letter-spacing-1: 1%;
 $letter-spacing-2: 3%;
@@ -116,7 +120,12 @@ $tablet-alpha-label-xs-bold: [object Object];
 $tablet-alpha-label-xs: [object Object];
 $tablet-alpha-paragraph-mobile-web: [object Object];
 $text-case-none: none;
+$text-case-uppercase: uppercase;
+$text-case-lowercase: lowercase;
+$text-case-titlecase: titlecase;
 $text-decoration-none: none;
+$text-decoration-underline: underline;
+$text-decoration-strikethrough: strikethrough;
 $orange-orange-000: #110400;
 $orange-orange-020: #220801;
 $orange-orange-040: #430f01;

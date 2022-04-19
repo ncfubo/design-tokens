@@ -4,44 +4,60 @@
     "type": "color"
   },
   "fontFamilies": {
-    "qanelas": {
+    "primary": {
       "value": "Qanelas",
       "type": "fontFamilies"
     },
-    "sf-pro-display": {
-      "value": "SF Pro Display",
-      "type": "fontFamilies"
-    },
-    "roboto": {
+    "system--Android-FireTV": {
       "value": "Roboto",
       "type": "fontFamilies"
     },
-    "helvetica": {
+    "system--Web": {
       "value": "Helvetica",
       "type": "fontFamilies"
     },
-    "gotham-book": {
+    "system--Roku": {
       "value": "Gotham Book",
       "type": "fontFamilies"
     },
-    "sf-pro-text": {
+    "system--iOS-tvOS": {
       "value": "SF Pro Text",
       "type": "fontFamilies"
     }
   },
   "lineHeights": {
-    "0": {
-      "value": 92,
+    "xs": {
+      "value": "100%",
+      "type": "lineHeights"
+    },
+    "sm": {
+      "value": "125%",
+      "type": "lineHeights"
+    },
+    "md": {
+      "value": "150%",
+      "type": "lineHeights"
+    },
+    "lg": {
+      "value": "175%",
       "type": "lineHeights"
     }
   },
   "fontWeights": {
-    "extrabold": {
-      "value": "ExtraBold",
+    "medium": {
+      "value": 500,
       "type": "fontWeights"
     },
-    "qanelas-1": {
-      "value": "Bold",
+    "semibold": {
+      "value": 600,
+      "type": "fontWeights"
+    },
+    "bold": {
+      "value": 700,
+      "type": "fontWeights"
+    },
+    "extrabold": {
+      "value": 800,
       "type": "fontWeights"
     }
   },
@@ -76,9 +92,9 @@
   "TV (Alpha)": {
     "Heading-XXXL": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "ExtraBold",
-        "lineHeight": 92,
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": 800,
+        "lineHeight": "$lineHeights.0",
         "fontSize": "$fontSize.16",
         "letterSpacing": "0%",
         "paragraphSpacing": 0,
@@ -89,8 +105,8 @@
     },
     "Heading-XXL": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "ExtraBold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": 800,
         "lineHeight": "$lineHeights.1",
         "fontSize": "$fontSize.15",
         "letterSpacing": "0%",
@@ -102,8 +118,8 @@
     },
     "Heading-XL": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "ExtraBold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": 800,
         "lineHeight": "$lineHeights.2",
         "fontSize": "$fontSize.14",
         "letterSpacing": "0%",
@@ -115,8 +131,8 @@
     },
     "Heading-L": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "ExtraBold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": 800,
         "lineHeight": "$lineHeights.3",
         "fontSize": "$fontSize.11",
         "letterSpacing": "0%",
@@ -128,8 +144,8 @@
     },
     "Heading-M": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.4",
         "fontSize": "$fontSize.9",
         "letterSpacing": "0%",
@@ -141,8 +157,8 @@
     },
     "Heading-S": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.5",
         "fontSize": "$fontSize.8",
         "letterSpacing": "1%",
@@ -154,8 +170,8 @@
     },
     "Heading-XS": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.6",
         "fontSize": "$fontSize.7",
         "letterSpacing": "1%",
@@ -167,7 +183,7 @@
     },
     "Paragraph_tvOS": {
       "value": {
-        "fontFamily": "SF Pro Display",
+        "fontFamily": "$fontFamilies.sf-pro-display",
         "fontWeight": "$fontWeights.sf-pro-display-2",
         "lineHeight": "$lineHeights.7",
         "fontSize": "$fontSize.7",
@@ -180,7 +196,7 @@
     },
     "Paragraph_FireTV": {
       "value": {
-        "fontFamily": "Roboto",
+        "fontFamily": "$fontFamilies.roboto",
         "fontWeight": "$fontWeights.roboto-3",
         "lineHeight": "$lineHeights.7",
         "fontSize": "$fontSize.7",
@@ -193,7 +209,7 @@
     },
     "Paragraph_SmartTV": {
       "value": {
-        "fontFamily": "Helvetica",
+        "fontFamily": "$fontFamilies.helvetica",
         "fontWeight": "$fontWeights.helvetica-4",
         "lineHeight": "$lineHeights.7",
         "fontSize": "$fontSize.7",
@@ -206,7 +222,7 @@
     },
     "Paragraph_Roku": {
       "value": {
-        "fontFamily": "Gotham Book",
+        "fontFamily": "$fontFamilies.gotham-book",
         "fontWeight": "$fontWeights.gotham-book-5",
         "lineHeight": "$lineHeights.7",
         "fontSize": "$fontSize.7",
@@ -219,7 +235,7 @@
     },
     "Body-XL": {
       "value": {
-        "fontFamily": "Qanelas",
+        "fontFamily": "$fontFamilies.qanelas",
         "fontWeight": "$fontWeights.qanelas-6",
         "lineHeight": "$lineHeights.4",
         "fontSize": "$fontSize.9",
@@ -232,7 +248,7 @@
     },
     "Body-L": {
       "value": {
-        "fontFamily": "Qanelas",
+        "fontFamily": "$fontFamilies.qanelas",
         "fontWeight": "$fontWeights.qanelas-6",
         "lineHeight": "$lineHeights.8",
         "fontSize": "$fontSize.8",
@@ -245,7 +261,7 @@
     },
     "Body-M": {
       "value": {
-        "fontFamily": "Qanelas",
+        "fontFamily": "$fontFamilies.qanelas",
         "fontWeight": "$fontWeights.qanelas-6",
         "lineHeight": "$lineHeights.6",
         "fontSize": "$fontSize.7",
@@ -258,7 +274,7 @@
     },
     "Body-S": {
       "value": {
-        "fontFamily": "Qanelas",
+        "fontFamily": "$fontFamilies.qanelas",
         "fontWeight": "$fontWeights.qanelas-6",
         "lineHeight": "$lineHeights.9",
         "fontSize": "$fontSize.6",
@@ -271,8 +287,8 @@
     },
     "Interactive-L": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.5",
         "fontSize": "$fontSize.8",
         "letterSpacing": "0%",
@@ -284,8 +300,8 @@
     },
     "Interactive-M": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.6",
         "fontSize": "$fontSize.7",
         "letterSpacing": "1%",
@@ -297,8 +313,8 @@
     },
     "Interactive-S": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.10",
         "fontSize": "$fontSize.6",
         "letterSpacing": "1%",
@@ -310,8 +326,8 @@
     },
     "Label-L (Bold)": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.11",
         "fontSize": "$fontSize.7",
         "letterSpacing": "1%",
@@ -323,7 +339,7 @@
     },
     "Label-L": {
       "value": {
-        "fontFamily": "Qanelas",
+        "fontFamily": "$fontFamilies.qanelas",
         "fontWeight": "$fontWeights.qanelas-6",
         "lineHeight": "$lineHeights.11",
         "fontSize": "$fontSize.7",
@@ -336,8 +352,8 @@
     },
     "Label-M (Bold)": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.10",
         "fontSize": "$fontSize.6",
         "letterSpacing": "1%",
@@ -349,7 +365,7 @@
     },
     "Label-M": {
       "value": {
-        "fontFamily": "Qanelas",
+        "fontFamily": "$fontFamilies.qanelas",
         "fontWeight": "$fontWeights.qanelas-6",
         "lineHeight": "$lineHeights.10",
         "fontSize": "$fontSize.6",
@@ -362,8 +378,8 @@
     },
     "Label-S (Bold)": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.12",
         "fontSize": "$fontSize.5",
         "letterSpacing": "1%",
@@ -375,7 +391,7 @@
     },
     "Label-S": {
       "value": {
-        "fontFamily": "Qanelas",
+        "fontFamily": "$fontFamilies.qanelas",
         "fontWeight": "$fontWeights.qanelas-6",
         "lineHeight": "$lineHeights.12",
         "fontSize": "$fontSize.5",
@@ -388,8 +404,8 @@
     },
     "Label-XS (Bold)": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.13",
         "fontSize": "$fontSize.4",
         "letterSpacing": "3%",
@@ -401,7 +417,7 @@
     },
     "Label-XS": {
       "value": {
-        "fontFamily": "Qanelas",
+        "fontFamily": "$fontFamilies.qanelas",
         "fontWeight": "$fontWeights.qanelas-6",
         "lineHeight": "$lineHeights.13",
         "fontSize": "$fontSize.4",
@@ -416,8 +432,8 @@
   "Desktop (Alpha)": {
     "Heading-XXXL": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "ExtraBold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": 800,
         "lineHeight": "$lineHeights.14",
         "fontSize": "$fontSize.13",
         "letterSpacing": "0%",
@@ -429,8 +445,8 @@
     },
     "Heading-XXL": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "ExtraBold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": 800,
         "lineHeight": "$lineHeights.15",
         "fontSize": "$fontSize.10",
         "letterSpacing": "0%",
@@ -442,8 +458,8 @@
     },
     "Heading-XL": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "ExtraBold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": 800,
         "lineHeight": "$lineHeights.5",
         "fontSize": "$fontSize.8",
         "letterSpacing": "0%",
@@ -455,8 +471,8 @@
     },
     "Heading-L": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "ExtraBold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": 800,
         "lineHeight": "$lineHeights.10",
         "fontSize": "$fontSize.6",
         "letterSpacing": "0%",
@@ -468,8 +484,8 @@
     },
     "Heading-M": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.16",
         "fontSize": "$fontSize.5",
         "letterSpacing": "0%",
@@ -481,8 +497,8 @@
     },
     "Heading-S": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.17",
         "fontSize": "$fontSize.3",
         "letterSpacing": "1%",
@@ -494,8 +510,8 @@
     },
     "Heading-XS": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.18",
         "fontSize": "$fontSize.2",
         "letterSpacing": "1%",
@@ -507,7 +523,7 @@
     },
     "Paragraph-M": {
       "value": {
-        "fontFamily": "Helvetica",
+        "fontFamily": "$fontFamilies.helvetica",
         "fontWeight": "$fontWeights.helvetica-4",
         "lineHeight": "$lineHeights.12",
         "fontSize": "$fontSize.3",
@@ -520,7 +536,7 @@
     },
     "Paragraph-S": {
       "value": {
-        "fontFamily": "Helvetica",
+        "fontFamily": "$fontFamilies.helvetica",
         "fontWeight": "$fontWeights.helvetica-4",
         "lineHeight": "$lineHeights.17",
         "fontSize": "$fontSize.2",
@@ -533,7 +549,7 @@
     },
     "Body-XL": {
       "value": {
-        "fontFamily": "Qanelas",
+        "fontFamily": "$fontFamilies.qanelas",
         "fontWeight": "$fontWeights.qanelas-6",
         "lineHeight": "$lineHeights.10",
         "fontSize": "$fontSize.6",
@@ -546,7 +562,7 @@
     },
     "Body-L": {
       "value": {
-        "fontFamily": "Qanelas",
+        "fontFamily": "$fontFamilies.qanelas",
         "fontWeight": "$fontWeights.qanelas-6",
         "lineHeight": "$lineHeights.12",
         "fontSize": "$fontSize.4",
@@ -559,7 +575,7 @@
     },
     "Body-M": {
       "value": {
-        "fontFamily": "Qanelas",
+        "fontFamily": "$fontFamilies.qanelas",
         "fontWeight": "$fontWeights.qanelas-6",
         "lineHeight": "$lineHeights.17",
         "fontSize": "$fontSize.3",
@@ -572,7 +588,7 @@
     },
     "Body-S": {
       "value": {
-        "fontFamily": "Qanelas",
+        "fontFamily": "$fontFamilies.qanelas",
         "fontWeight": "$fontWeights.qanelas-6",
         "lineHeight": "$lineHeights.18",
         "fontSize": "$fontSize.2",
@@ -585,7 +601,7 @@
     },
     "Body-XS": {
       "value": {
-        "fontFamily": "Qanelas",
+        "fontFamily": "$fontFamilies.qanelas",
         "fontWeight": "$fontWeights.qanelas-6",
         "lineHeight": "$lineHeights.19",
         "fontSize": "$fontSize.1",
@@ -598,8 +614,8 @@
     },
     "Interactive-L": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.12",
         "fontSize": "$fontSize.4",
         "letterSpacing": "0%",
@@ -611,8 +627,8 @@
     },
     "Interactive-M": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.17",
         "fontSize": "$fontSize.3",
         "letterSpacing": "1%",
@@ -624,8 +640,8 @@
     },
     "Interactive-S": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.18",
         "fontSize": "$fontSize.2",
         "letterSpacing": "1%",
@@ -637,8 +653,8 @@
     },
     "Label-L (Bold)": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.17",
         "fontSize": "$fontSize.3",
         "letterSpacing": "1%",
@@ -650,7 +666,7 @@
     },
     "Label-L": {
       "value": {
-        "fontFamily": "Qanelas",
+        "fontFamily": "$fontFamilies.qanelas",
         "fontWeight": "$fontWeights.qanelas-6",
         "lineHeight": "$lineHeights.17",
         "fontSize": "$fontSize.3",
@@ -663,8 +679,8 @@
     },
     "Label-M (Bold)": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.17",
         "fontSize": "$fontSize.2",
         "letterSpacing": "1%",
@@ -676,7 +692,7 @@
     },
     "Label-M": {
       "value": {
-        "fontFamily": "Qanelas",
+        "fontFamily": "$fontFamilies.qanelas",
         "fontWeight": "$fontWeights.qanelas-6",
         "lineHeight": "$lineHeights.17",
         "fontSize": "$fontSize.2",
@@ -689,8 +705,8 @@
     },
     "Label-S (Bold)": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.19",
         "fontSize": "$fontSize.1",
         "letterSpacing": "2%",
@@ -702,7 +718,7 @@
     },
     "Label-S": {
       "value": {
-        "fontFamily": "Qanelas",
+        "fontFamily": "$fontFamilies.qanelas",
         "fontWeight": "$fontWeights.qanelas-6",
         "lineHeight": "$lineHeights.19",
         "fontSize": "$fontSize.1",
@@ -715,8 +731,8 @@
     },
     "Label-XS (Bold)": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.20",
         "fontSize": "$fontSize.0",
         "letterSpacing": "4%",
@@ -728,7 +744,7 @@
     },
     "Label-XS": {
       "value": {
-        "fontFamily": "Qanelas",
+        "fontFamily": "$fontFamilies.qanelas",
         "fontWeight": "$fontWeights.qanelas-6",
         "lineHeight": "$lineHeights.20",
         "fontSize": "$fontSize.0",
@@ -743,8 +759,8 @@
   "Phone (Alpha)": {
     "Heading-XXL": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "ExtraBold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": 800,
         "lineHeight": "$lineHeights.6",
         "fontSize": "$fontSize.8",
         "letterSpacing": "0%",
@@ -756,8 +772,8 @@
     },
     "Heading-XL": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "ExtraBold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": 800,
         "lineHeight": "$lineHeights.11",
         "fontSize": "$fontSize.7",
         "letterSpacing": "0%",
@@ -769,8 +785,8 @@
     },
     "Heading-L": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "ExtraBold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": 800,
         "lineHeight": "$lineHeights.10",
         "fontSize": "$fontSize.6",
         "letterSpacing": "0%",
@@ -782,8 +798,8 @@
     },
     "Heading-M": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.16",
         "fontSize": "$fontSize.5",
         "letterSpacing": "0%",
@@ -795,8 +811,8 @@
     },
     "Heading-S": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.17",
         "fontSize": "$fontSize.3",
         "letterSpacing": "1%",
@@ -808,8 +824,8 @@
     },
     "Heading-XS": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.18",
         "fontSize": "$fontSize.2",
         "letterSpacing": "1%",
@@ -821,7 +837,7 @@
     },
     "Paragraph_iOS": {
       "value": {
-        "fontFamily": "SF Pro Text",
+        "fontFamily": "$fontFamilies.sf-pro-text",
         "fontWeight": "$fontWeights.sf-pro-text-7",
         "lineHeight": "$lineHeights.12",
         "fontSize": "$fontSize.3",
@@ -834,7 +850,7 @@
     },
     "Paragraph_Android": {
       "value": {
-        "fontFamily": "Roboto",
+        "fontFamily": "$fontFamilies.roboto",
         "fontWeight": "$fontWeights.roboto-3",
         "lineHeight": "$lineHeights.12",
         "fontSize": "$fontSize.3",
@@ -847,7 +863,7 @@
     },
     "Paragraph Mobile Web": {
       "value": {
-        "fontFamily": "Helvetica",
+        "fontFamily": "$fontFamilies.helvetica",
         "fontWeight": "$fontWeights.helvetica-4",
         "lineHeight": "$lineHeights.12",
         "fontSize": "$fontSize.3",
@@ -860,7 +876,7 @@
     },
     "Body-M": {
       "value": {
-        "fontFamily": "Qanelas",
+        "fontFamily": "$fontFamilies.qanelas",
         "fontWeight": "$fontWeights.qanelas-6",
         "lineHeight": "$lineHeights.17",
         "fontSize": "$fontSize.3",
@@ -873,7 +889,7 @@
     },
     "Body-S": {
       "value": {
-        "fontFamily": "Qanelas",
+        "fontFamily": "$fontFamilies.qanelas",
         "fontWeight": "$fontWeights.qanelas-6",
         "lineHeight": "$lineHeights.18",
         "fontSize": "$fontSize.2",
@@ -886,7 +902,7 @@
     },
     "Body-XS": {
       "value": {
-        "fontFamily": "Qanelas",
+        "fontFamily": "$fontFamilies.qanelas",
         "fontWeight": "$fontWeights.qanelas-6",
         "lineHeight": "$lineHeights.19",
         "fontSize": "$fontSize.1",
@@ -899,8 +915,8 @@
     },
     "Interactive-L": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.12",
         "fontSize": "$fontSize.4",
         "letterSpacing": "0%",
@@ -912,8 +928,8 @@
     },
     "Interactive-M": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.12",
         "fontSize": "$fontSize.3",
         "letterSpacing": "1%",
@@ -925,8 +941,8 @@
     },
     "Interactive-S": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.18",
         "fontSize": "$fontSize.2",
         "letterSpacing": "1%",
@@ -938,8 +954,8 @@
     },
     "Label-L (Bold)": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.17",
         "fontSize": "$fontSize.3",
         "letterSpacing": "1%",
@@ -951,7 +967,7 @@
     },
     "Label-L": {
       "value": {
-        "fontFamily": "Qanelas",
+        "fontFamily": "$fontFamilies.qanelas",
         "fontWeight": "$fontWeights.qanelas-6",
         "lineHeight": "$lineHeights.17",
         "fontSize": "$fontSize.3",
@@ -964,8 +980,8 @@
     },
     "Label-M (Bold)": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.18",
         "fontSize": "$fontSize.2",
         "letterSpacing": "1%",
@@ -977,7 +993,7 @@
     },
     "Label-M": {
       "value": {
-        "fontFamily": "Qanelas",
+        "fontFamily": "$fontFamilies.qanelas",
         "fontWeight": "$fontWeights.qanelas-6",
         "lineHeight": "$lineHeights.18",
         "fontSize": "$fontSize.2",
@@ -990,8 +1006,8 @@
     },
     "Label-S (Bold)": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.19",
         "fontSize": "$fontSize.1",
         "letterSpacing": "2%",
@@ -1003,7 +1019,7 @@
     },
     "Label-S": {
       "value": {
-        "fontFamily": "Qanelas",
+        "fontFamily": "$fontFamilies.qanelas",
         "fontWeight": "$fontWeights.qanelas-6",
         "lineHeight": "$lineHeights.18",
         "fontSize": "$fontSize.1",
@@ -1016,8 +1032,8 @@
     },
     "Label-XS (Bold)": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.20",
         "fontSize": "$fontSize.0",
         "letterSpacing": "4%",
@@ -1029,7 +1045,7 @@
     },
     "Label-XS": {
       "value": {
-        "fontFamily": "Qanelas",
+        "fontFamily": "$fontFamilies.qanelas",
         "fontWeight": "$fontWeights.qanelas-6",
         "lineHeight": "$lineHeights.20",
         "fontSize": "$fontSize.0",
@@ -1044,8 +1060,8 @@
   "Tablet (Alpha)": {
     "Heading-XXL": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "ExtraBold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": 800,
         "lineHeight": "$lineHeights.21",
         "fontSize": "$fontSize.12",
         "letterSpacing": "0%",
@@ -1057,8 +1073,8 @@
     },
     "Heading-XL": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "ExtraBold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": 800,
         "lineHeight": "$lineHeights.5",
         "fontSize": "$fontSize.8",
         "letterSpacing": "0%",
@@ -1070,8 +1086,8 @@
     },
     "Heading-L": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "ExtraBold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": 800,
         "lineHeight": "$lineHeights.10",
         "fontSize": "$fontSize.6",
         "letterSpacing": "0%",
@@ -1083,8 +1099,8 @@
     },
     "Heading-M": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.16",
         "fontSize": "$fontSize.5",
         "letterSpacing": "0%",
@@ -1096,8 +1112,8 @@
     },
     "Heading-S": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.17",
         "fontSize": "$fontSize.3",
         "letterSpacing": "1%",
@@ -1109,8 +1125,8 @@
     },
     "Heading-XS": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.18",
         "fontSize": "$fontSize.2",
         "letterSpacing": "1%",
@@ -1122,7 +1138,7 @@
     },
     "Paragraph_iOS": {
       "value": {
-        "fontFamily": "SF Pro Display",
+        "fontFamily": "$fontFamilies.sf-pro-display",
         "fontWeight": "$fontWeights.sf-pro-display-2",
         "lineHeight": "$lineHeights.12",
         "fontSize": "$fontSize.3",
@@ -1135,7 +1151,7 @@
     },
     "Paragraph_Android": {
       "value": {
-        "fontFamily": "Roboto",
+        "fontFamily": "$fontFamilies.roboto",
         "fontWeight": "$fontWeights.roboto-3",
         "lineHeight": "$lineHeights.12",
         "fontSize": "$fontSize.3",
@@ -1148,7 +1164,7 @@
     },
     "Body-M": {
       "value": {
-        "fontFamily": "Qanelas",
+        "fontFamily": "$fontFamilies.qanelas",
         "fontWeight": "$fontWeights.qanelas-6",
         "lineHeight": "$lineHeights.17",
         "fontSize": "$fontSize.3",
@@ -1161,7 +1177,7 @@
     },
     "Body-S": {
       "value": {
-        "fontFamily": "Qanelas",
+        "fontFamily": "$fontFamilies.qanelas",
         "fontWeight": "$fontWeights.qanelas-6",
         "lineHeight": "$lineHeights.18",
         "fontSize": "$fontSize.2",
@@ -1174,7 +1190,7 @@
     },
     "Body-XS": {
       "value": {
-        "fontFamily": "Qanelas",
+        "fontFamily": "$fontFamilies.qanelas",
         "fontWeight": "$fontWeights.qanelas-6",
         "lineHeight": "$lineHeights.19",
         "fontSize": "$fontSize.1",
@@ -1187,8 +1203,8 @@
     },
     "Interactive-L": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.12",
         "fontSize": "$fontSize.4",
         "letterSpacing": "0%",
@@ -1200,8 +1216,8 @@
     },
     "Interactive-M": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.12",
         "fontSize": "$fontSize.3",
         "letterSpacing": "1%",
@@ -1213,8 +1229,8 @@
     },
     "Interactive-S": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.18",
         "fontSize": "$fontSize.2",
         "letterSpacing": "1%",
@@ -1226,8 +1242,8 @@
     },
     "Label-L (Bold)": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.17",
         "fontSize": "$fontSize.3",
         "letterSpacing": "1%",
@@ -1239,7 +1255,7 @@
     },
     "Label-L": {
       "value": {
-        "fontFamily": "Qanelas",
+        "fontFamily": "$fontFamilies.qanelas",
         "fontWeight": "$fontWeights.qanelas-6",
         "lineHeight": "$lineHeights.17",
         "fontSize": "$fontSize.3",
@@ -1252,8 +1268,8 @@
     },
     "Label-M (Bold)": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.18",
         "fontSize": "$fontSize.2",
         "letterSpacing": "1%",
@@ -1265,7 +1281,7 @@
     },
     "Label-M": {
       "value": {
-        "fontFamily": "Qanelas",
+        "fontFamily": "$fontFamilies.qanelas",
         "fontWeight": "$fontWeights.qanelas-6",
         "lineHeight": "$lineHeights.18",
         "fontSize": "$fontSize.2",
@@ -1278,8 +1294,8 @@
     },
     "Label-S (Bold)": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.19",
         "fontSize": "$fontSize.1",
         "letterSpacing": "2%",
@@ -1291,7 +1307,7 @@
     },
     "Label-S": {
       "value": {
-        "fontFamily": "Qanelas",
+        "fontFamily": "$fontFamilies.qanelas",
         "fontWeight": "$fontWeights.qanelas-6",
         "lineHeight": "$lineHeights.19",
         "fontSize": "$fontSize.1",
@@ -1304,8 +1320,8 @@
     },
     "Label-XS (Bold)": {
       "value": {
-        "fontFamily": "Qanelas",
-        "fontWeight": "Bold",
+        "fontFamily": "$fontFamilies.qanelas",
+        "fontWeight": "$fontWeights.qanelas-1",
         "lineHeight": "$lineHeights.20",
         "fontSize": "$fontSize.0",
         "letterSpacing": "4%",
@@ -1317,7 +1333,7 @@
     },
     "Label-XS": {
       "value": {
-        "fontFamily": "Qanelas",
+        "fontFamily": "$fontFamilies.qanelas",
         "fontWeight": "$fontWeights.qanelas-6",
         "lineHeight": "$lineHeights.20",
         "fontSize": "$fontSize.0",
@@ -1330,7 +1346,7 @@
     },
     "Paragraph Mobile Web": {
       "value": {
-        "fontFamily": "Helvetica",
+        "fontFamily": "$fontFamilies.helvetica",
         "fontWeight": "$fontWeights.helvetica-4",
         "lineHeight": "$lineHeights.12",
         "fontSize": "$fontSize.3",
@@ -1346,11 +1362,31 @@
     "none": {
       "value": "none",
       "type": "textCase"
+    },
+    "uppercase": {
+      "value": "uppercase",
+      "type": "textCase"
+    },
+    "lowercase": {
+      "value": "lowercase",
+      "type": "textCase"
+    },
+    "titlecase": {
+      "value": "titlecase",
+      "type": "textCase"
     }
   },
   "textDecoration": {
     "none": {
       "value": "none",
+      "type": "textDecoration"
+    },
+    "underline": {
+      "value": "underline",
+      "type": "textDecoration"
+    },
+    "strikethrough": {
+      "value": "strikethrough",
       "type": "textDecoration"
     }
   },

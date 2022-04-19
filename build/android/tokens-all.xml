@@ -2,19 +2,23 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 19 Apr 2022 14:35:47 GMT
+  Generated on Tue, 19 Apr 2022 16:34:41 GMT
 -->
 <resources>
   <string name="color_live">#fa4616</string>
-  <string name="font_families_qanelas">Qanelas</string>
-  <string name="font_families_sf_pro_display">SF Pro Display</string>
-  <string name="font_families_roboto">Roboto</string>
-  <string name="font_families_helvetica">Helvetica</string>
-  <string name="font_families_gotham_book">Gotham Book</string>
-  <string name="font_families_sf_pro_text">SF Pro Text</string>
-  <string name="line_heights_0">92</string>
-  <string name="font_weights_extrabold">ExtraBold</string>
-  <string name="font_weights_qanelas_1">Bold</string>
+  <string name="font_families_primary">Qanelas</string>
+  <string name="font_families_system_android_fire_tv">Roboto</string>
+  <string name="font_families_system_web">Helvetica</string>
+  <string name="font_families_system_roku">Gotham Book</string>
+  <string name="font_families_system_i_os_tv_os">SF Pro Text</string>
+  <string name="line_heights_xs">100%</string>
+  <string name="line_heights_sm">125%</string>
+  <string name="line_heights_md">150%</string>
+  <string name="line_heights_lg">175%</string>
+  <string name="font_weights_medium">500</string>
+  <string name="font_weights_semibold">600</string>
+  <string name="font_weights_bold">700</string>
+  <string name="font_weights_extrabold">800</string>
   <string name="letter_spacing_0">0%</string>
   <string name="letter_spacing_1">1%</string>
   <string name="letter_spacing_2">3%</string>
@@ -119,7 +123,12 @@
   <string name="tablet_alpha_label_xs">[object Object]</string>
   <string name="tablet_alpha_paragraph_mobile_web">[object Object]</string>
   <string name="text_case_none">none</string>
+  <string name="text_case_uppercase">uppercase</string>
+  <string name="text_case_lowercase">lowercase</string>
+  <string name="text_case_titlecase">titlecase</string>
   <string name="text_decoration_none">none</string>
+  <string name="text_decoration_underline">underline</string>
+  <string name="text_decoration_strikethrough">strikethrough</string>
   <string name="orange_orange_000">#110400</string>
   <string name="orange_orange_020">#220801</string>
   <string name="orange_orange_040">#430f01</string>
