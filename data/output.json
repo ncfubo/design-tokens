@@ -1,6 +1,78 @@
 {
   "ftv": {
     "tv": {
+      "button-primary": {
+        "color": {
+          "bg": {
+            "default": {
+              "value": "#2d2f2f",
+              "type": "color"
+            }
+          },
+          "text": {
+            "default": {
+              "value": "#fafafa",
+              "type": "color"
+            }
+          },
+          "icon": {
+            "default": {
+              "value": "#fafafa",
+              "type": "color"
+            }
+          }
+        },
+        "border-radius": {
+          "value": "100%",
+          "type": "borderRadius"
+        },
+        "padding": {
+          "top-btm": {
+            "value": "24px",
+            "type": "spacing"
+          },
+          "l-r": {
+            "value": "36px",
+            "type": "spacing"
+          }
+        },
+        "label": {
+          "font-face": {
+            "value": "Qanelas",
+            "type": "fontFamilies"
+          },
+          "font-weight": {
+            "value": 700,
+            "type": "fontWeights"
+          },
+          "font-size": {
+            "value": "28px",
+            "type": "fontSizes"
+          },
+          "line-height": {
+            "value": "125%",
+            "type": "lineHeights"
+          },
+          "letter-spacing": {
+            "value": "1%",
+            "type": "letterSpacing"
+          },
+          "text-case": {
+            "value": "titlecase",
+            "type": "textCase"
+          },
+          "text-align": {
+            "value": "left",
+            "type": "other"
+          }
+        },
+        "icon": {
+          "size": {
+            "value": "32px",
+            "type": "sizing"
+          }
+        }
+      },
       "font-weight": {
         "interactive": {
           "m": {

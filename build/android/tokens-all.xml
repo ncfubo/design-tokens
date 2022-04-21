@@ -2,9 +2,23 @@
 
 <!--
   Do not edit directly
-  Generated on Thu, 21 Apr 2022 20:37:44 GMT
+  Generated on Thu, 21 Apr 2022 21:02:29 GMT
 -->
 <resources>
+  <string name="ftv_tv_button_primary_color_bg_default">#2d2f2f</string>
+  <string name="ftv_tv_button_primary_color_text_default">#fafafa</string>
+  <string name="ftv_tv_button_primary_color_icon_default">#fafafa</string>
+  <string name="ftv_tv_button_primary_border_radius">100%</string>
+  <string name="ftv_tv_button_primary_padding_top_btm">24px</string>
+  <string name="ftv_tv_button_primary_padding_l_r">36px</string>
+  <string name="ftv_tv_button_primary_label_font_face">Qanelas</string>
+  <string name="ftv_tv_button_primary_label_font_weight">700</string>
+  <string name="ftv_tv_button_primary_label_font_size">28px</string>
+  <string name="ftv_tv_button_primary_label_line_height">125%</string>
+  <string name="ftv_tv_button_primary_label_letter_spacing">1%</string>
+  <string name="ftv_tv_button_primary_label_text_case">titlecase</string>
+  <string name="ftv_tv_button_primary_label_text_align">left</string>
+  <string name="ftv_tv_button_primary_icon_size">32px</string>
   <string name="ftv_tv_font_weight_interactive_m">700</string>
   <string name="ftv_tv_font_size_interactive_m">28px</string>
   <string name="ftv_tv_line_height_interactive_m">125%</string>
