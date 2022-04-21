@@ -860,6 +860,66 @@
         },
         "type": "boxShadow"
       }
+    },
+    "space": {
+      "xxs": {
+        "value": "4px",
+        "type": "spacing"
+      },
+      "xs": {
+        "value": "8px",
+        "type": "spacing"
+      },
+      "sm": {
+        "value": "16px",
+        "type": "spacing"
+      },
+      "md": {
+        "value": "24px",
+        "type": "spacing"
+      },
+      "lg": {
+        "value": "36px",
+        "type": "spacing"
+      },
+      "xl": {
+        "value": "48px",
+        "type": "spacing"
+      },
+      "xxl": {
+        "value": "64px",
+        "type": "spacing"
+      }
+    },
+    "opacity": {
+      "0": {
+        "value": 0,
+        "type": "opacity"
+      },
+      "8": {
+        "value": "80%",
+        "type": "opacity"
+      },
+      "10": {
+        "value": "10%",
+        "type": "opacity"
+      },
+      "25": {
+        "value": "25%",
+        "type": "opacity"
+      },
+      "50": {
+        "value": "50%",
+        "type": "opacity"
+      },
+      "80": {
+        "value": "80%",
+        "type": "opacity"
+      },
+      "100": {
+        "value": "100%",
+        "type": "opacity"
+      }
     }
   }
 }

@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 20 Apr 2022 21:18:45 GMT
+  Generated on Thu, 21 Apr 2022 15:24:22 GMT
 -->
 <resources>
   <string name="ftv_font_face_primary">Qanelas</string>
@@ -183,5 +183,19 @@
   <string name="ftv_border_width_3">3px</string>
   <string name="ftv_border_width_4">4px</string>
   <string name="ftv_drop_shadow_xs">[object Object]</string>
+  <string name="ftv_space_xxs">4px</string>
+  <string name="ftv_space_xs">8px</string>
+  <string name="ftv_space_sm">16px</string>
+  <string name="ftv_space_md">24px</string>
+  <string name="ftv_space_lg">36px</string>
+  <string name="ftv_space_xl">48px</string>
+  <string name="ftv_space_xxl">64px</string>
+  <string name="ftv_opacity_0">0</string>
+  <string name="ftv_opacity_8">80%</string>
+  <string name="ftv_opacity_10">10%</string>
+  <string name="ftv_opacity_25">25%</string>
+  <string name="ftv_opacity_50">50%</string>
+  <string name="ftv_opacity_80">80%</string>
+  <string name="ftv_opacity_100">100%</string>
   
 </resources>
