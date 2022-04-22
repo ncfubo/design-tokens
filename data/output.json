@@ -69,7 +69,8 @@
         "icon": {
           "size": {
             "value": "32px",
-            "type": "sizing"
+            "type": "sizing",
+            "description": "Example description"
           }
         }
       },
