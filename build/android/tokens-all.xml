@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 25 Apr 2022 16:36:48 GMT
+  Generated on Mon, 25 Apr 2022 16:39:25 GMT
 -->
 <resources>
   <string name="ftv_tv_button_primary_color_bg_default">#2d2f2f</string>
@@ -221,5 +221,6 @@
   <string name="ftv_opacity_80">80%</string>
   <string name="ftv_opacity_100">100%</string>
   <string name="ftv_text_align_left">left</string>
+  <string name="test">1</string>
   
 </resources>
