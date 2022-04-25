@@ -1070,9 +1070,5 @@
         "type": "other"
       }
     }
-  },
-  "TEST": {
-    "value": 1,
-    "type": "paragraphSpacing"
   }
 }
