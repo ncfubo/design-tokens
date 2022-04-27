@@ -1157,6 +1157,16 @@
           "value": "linear-gradient(135deg, #1c7ae4 0%, #145aa8 100%)",
           "type": "color"
         }
+      },
+      "scrim": {
+        "fade": {
+          "value": "linear-gradient(180deg, #0000000d 0.25%, #0000008b 49.73%, #000000 100%)",
+          "type": "color"
+        },
+        "solid": {
+          "value": "#000000cc",
+          "type": "color"
+        }
       }
     },
     "action": {
@@ -1490,16 +1500,6 @@
       "left": {
         "value": "left",
         "type": "other"
-      }
-    },
-    "scrim": {
-      "fade": {
-        "value": "linear-gradient(180deg, #0000000d 0.25%, #0000008b 49.73%, #000000 100%)",
-        "type": "color"
-      },
-      "solid": {
-        "value": "#000000cc",
-        "type": "color"
       }
     }
   }

@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Wed, 27 Apr 2022 22:08:29 GMT
+// Generated on Wed, 27 Apr 2022 22:22:31 GMT
 
 $ftv-tv-button-primary-color-bg-default: #232424;
 $ftv-tv-button-primary-color-text-default: #fafafa;
@@ -230,6 +230,8 @@ $ftv-color-gradients-sunset: linear-gradient(135deg, #fa4616 0%, #721e4e 100%);
 $ftv-color-gradients-dusk: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
 $ftv-color-gradients-dawn: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
 $ftv-color-gradients-blue-gradient: linear-gradient(135deg, #1c7ae4 0%, #145aa8 100%);
+$ftv-color-scrim-fade: linear-gradient(180deg, #0000000d 0.25%, #0000008b 49.73%, #000000 100%);
+$ftv-color-scrim-solid: #000000cc;
 $ftv-action-border-radius: 100%;
 $ftv-font-face-primary: Qanelas;
 $ftv-font-face-system-android-fire-tv: Roboto;
@@ -303,5 +305,3 @@ $ftv-opacity-50: 50%;
 $ftv-opacity-80: 80%;
 $ftv-opacity-100: 100%;
 $ftv-text-align-left: left;
-$ftv-scrim-fade: linear-gradient(180deg, #0000000d 0.25%, #0000008b 49.73%, #000000 100%);
-$ftv-scrim-solid: #000000cc;
