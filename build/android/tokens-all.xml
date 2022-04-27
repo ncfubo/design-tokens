@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 25 Apr 2022 17:34:13 GMT
+  Generated on Wed, 27 Apr 2022 19:00:26 GMT
 -->
 <resources>
   <string name="ftv_tv_button_primary_color_bg_default">#2d2f2f</string>
@@ -20,13 +20,34 @@
   <string name="ftv_tv_button_primary_label_text_align">left</string>
   <string name="ftv_tv_button_primary_icon_size">32px</string>
   <string name="ftv_tv_font_weight_interactive_m">700</string>
+  <string name="ftv_tv_font_size_1">18px</string>
+  <string name="ftv_tv_font_size_2">20px</string>
+  <string name="ftv_tv_font_size_3">22px</string>
+  <string name="ftv_tv_font_size_4">24px</string>
+  <string name="ftv_tv_font_size_5">28px</string>
+  <string name="ftv_tv_font_size_6">32px</string>
+  <string name="ftv_tv_font_size_7">36px</string>
+  <string name="ftv_tv_font_size_8">40px</string>
+  <string name="ftv_tv_font_size_9">44px</string>
+  <string name="ftv_tv_font_size_10">50px</string>
+  <string name="ftv_tv_font_size_11">56px</string>
+  <string name="ftv_tv_font_size_12">64px</string>
+  <string name="ftv_tv_font_size_13">72px</string>
+  <string name="ftv_tv_font_size_14">80px</string>
+  <string name="ftv_tv_font_size_15">90px</string>
   <string name="ftv_tv_font_size_interactive_m">28px</string>
+  <string name="ftv_tv_font_size_label_xs">18px</string>
   <string name="ftv_tv_line_height_interactive_m">125%</string>
+  <string name="ftv_tv_line_height_label_xs">125%</string>
   <string name="ftv_tv_letter_spacing_interactive_m">1%</string>
+  <string name="ftv_tv_letter_spacing_label_xs">3%</string>
   <string name="ftv_tv_font_face_interactive_m">Qanelas</string>
+  <string name="ftv_tv_font_face_label_xs">Qanelas</string>
+  <string name="ftv_tv_font_face_label_xs_bold">700</string>
   <string name="ftv_color_text_primary_on_dark">#fafafa</string>
   <string name="ftv_color_bg_elevation_2">#2d2f2f</string>
   <string name="ftv_color_icon_primary_on_dark">#fafafa</string>
+  <string name="ftv_color_semantic_live">#fa4616</string>
   <string name="ftv_color_orange_100">#fa4616</string>
   <string name="ftv_color_orange_120">#fb6e48</string>
   <string name="ftv_color_orange_140">#fca28a</string>
@@ -155,38 +176,23 @@
   <string name="ftv_letter_spacing_2">2%</string>
   <string name="ftv_letter_spacing_3">3%</string>
   <string name="ftv_letter_spacing_4">4%</string>
-  <string name="ftv_font_size_tv_10">50px</string>
-  <string name="ftv_font_size_tv_11">56px</string>
-  <string name="ftv_font_size_tv_12">64px</string>
-  <string name="ftv_font_size_tv_13">72px</string>
-  <string name="ftv_font_size_tv_14">80px</string>
-  <string name="ftv_font_size_tv_15">90px</string>
-  <string name="ftv_font_size_tv_01">18px</string>
-  <string name="ftv_font_size_tv_02">20px</string>
-  <string name="ftv_font_size_tv_03">22px</string>
-  <string name="ftv_font_size_tv_04">24px</string>
-  <string name="ftv_font_size_tv_05">28px</string>
-  <string name="ftv_font_size_tv_06">32px</string>
-  <string name="ftv_font_size_tv_07">36px</string>
-  <string name="ftv_font_size_tv_08">40px</string>
-  <string name="ftv_font_size_tv_09">44px</string>
-  <string name="ftv_font_size_mobile_or_web_10">28px</string>
-  <string name="ftv_font_size_mobile_or_web_11">32px</string>
-  <string name="ftv_font_size_mobile_or_web_12">36px</string>
-  <string name="ftv_font_size_mobile_or_web_13">40px</string>
-  <string name="ftv_font_size_mobile_or_web_14">46px</string>
-  <string name="ftv_font_size_mobile_or_web_15">52px</string>
-  <string name="ftv_font_size_mobile_or_web_16">58px</string>
-  <string name="ftv_font_size_mobile_or_web_17">66px</string>
-  <string name="ftv_font_size_mobile_or_web_01">10px</string>
-  <string name="ftv_font_size_mobile_or_web_02">11px</string>
-  <string name="ftv_font_size_mobile_or_web_03">12px</string>
-  <string name="ftv_font_size_mobile_or_web_04">14px</string>
-  <string name="ftv_font_size_mobile_or_web_05">16px</string>
-  <string name="ftv_font_size_mobile_or_web_06">18px</string>
-  <string name="ftv_font_size_mobile_or_web_07">20px</string>
-  <string name="ftv_font_size_mobile_or_web_08">22px</string>
-  <string name="ftv_font_size_mobile_or_web_09">24px</string>
+  <string name="ftv_mbl_or_web_font_size_1">10px</string>
+  <string name="ftv_mbl_or_web_font_size_2">11px</string>
+  <string name="ftv_mbl_or_web_font_size_3">12px</string>
+  <string name="ftv_mbl_or_web_font_size_4">14px</string>
+  <string name="ftv_mbl_or_web_font_size_5">16px</string>
+  <string name="ftv_mbl_or_web_font_size_6">18px</string>
+  <string name="ftv_mbl_or_web_font_size_7">20px</string>
+  <string name="ftv_mbl_or_web_font_size_8">22px</string>
+  <string name="ftv_mbl_or_web_font_size_9">24px</string>
+  <string name="ftv_mbl_or_web_font_size_10">28px</string>
+  <string name="ftv_mbl_or_web_font_size_11">32px</string>
+  <string name="ftv_mbl_or_web_font_size_12">36px</string>
+  <string name="ftv_mbl_or_web_font_size_13">40px</string>
+  <string name="ftv_mbl_or_web_font_size_14">46px</string>
+  <string name="ftv_mbl_or_web_font_size_15">52px</string>
+  <string name="ftv_mbl_or_web_font_size_16">58px</string>
+  <string name="ftv_mbl_or_web_font_size_17">66px</string>
   <string name="ftv_text_case_none">none</string>
   <string name="ftv_text_case_uppercase">uppercase</string>
   <string name="ftv_text_case_lowercase">lowercase</string>
