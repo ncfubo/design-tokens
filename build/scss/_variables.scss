@@ -1,8 +1,8 @@
 
 // Do not edit directly
-// Generated on Wed, 27 Apr 2022 21:28:57 GMT
+// Generated on Wed, 27 Apr 2022 21:53:23 GMT
 
-$ftv-tv-button-primary-color-bg-default: #2d2f2f;
+$ftv-tv-button-primary-color-bg-default: #232424;
 $ftv-tv-button-primary-color-text-default: #fafafa;
 $ftv-tv-button-primary-color-icon-default: #fafafa;
 $ftv-tv-button-primary-border-radius: 100%;
@@ -54,6 +54,18 @@ $ftv-tv-content-meta-subhead-sm-font-size: 20px;
 $ftv-tv-content-meta-subhead-sm-letter-spacing: 125%;
 $ftv-tv-content-meta-subhead-sm-font-face: Qanelas;
 $ftv-tv-content-meta-subhead-sm-font-weight: 700;
+$ftv-tv-card-live-tv-border-radius: 8px;
+$ftv-tv-card-color-header-bg-default: #191a1a;
+$ftv-tv-card-color-header-bg-focus: #fafafa;
+$ftv-tv-card-color-icon-fav-active: #2bb1e3;
+$ftv-tv-card-color-scrim-overlay-default: linear-gradient(180deg, #0000000d 0.25%, #0000008b 49.73%, #000000 100%);
+$ftv-tv-card-color-scrim-overlay-focus: #000000cc;
+$ftv-tv-card-color-border-focus: #fafafa;
+$ftv-tv-card-color-base-bg-default: #191a1a;
+$ftv-tv-card-color-base-bg-focus: #fafafa;
+$ftv-tv-card-spotlight-border-radius: 12px;
+$ftv-tv-card-show-border-radius: 8px;
+$ftv-tv-card-border-width-focus: 8;
 $ftv-tv-font-weight-interactive-m: 700;
 $ftv-tv-font-weight-label-xs-bold: 700;
 $ftv-tv-font-weight-label-lg-bold: 700;
@@ -102,7 +114,8 @@ $ftv-tv-font-face-heading-sm: Qanelas;
 $ftv-tv-border-width-focus: 8;
 $ftv-color-text-primary-on-dark: #fafafa;
 $ftv-color-text-primary-on-light: #0f1010;
-$ftv-color-bg-elevation-2: #2d2f2f;
+$ftv-color-bg-elevation-1: #191a1a;
+$ftv-color-bg-elevation-2: #232424;
 $ftv-color-icon-primary-on-dark: #fafafa;
 $ftv-color-semantic-live: #fa4616;
 $ftv-color-semantic-favorite: #2bb1e3;
@@ -262,9 +275,11 @@ $ftv-text-decoration-strikethrough: strikethrough;
 $ftv-size-icon-sm: 16px;
 $ftv-size-icon-md: 24px;
 $ftv-size-icon-lg: 32px;
+$ftv-border-radius-xs: 2px;
 $ftv-border-radius-sm: 4px;
 $ftv-border-radius-md: 8px;
-$ftv-border-radius-lg: 16px;
+$ftv-border-radius-lg: 12px;
+$ftv-border-radius-xl: 16px;
 $ftv-border-radius-pill: 100%;
 $ftv-border-width-1: 1px;
 $ftv-border-width-2: 2px;
@@ -287,3 +302,5 @@ $ftv-opacity-50: 50%;
 $ftv-opacity-80: 80%;
 $ftv-opacity-100: 100%;
 $ftv-text-align-left: left;
+$ftv-scrim-fade: linear-gradient(180deg, #0000000d 0.25%, #0000008b 49.73%, #000000 100%);
+$ftv-scrim-solid: #000000cc;

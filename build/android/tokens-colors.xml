@@ -2,10 +2,10 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 27 Apr 2022 21:28:57 GMT
+  Generated on Wed, 27 Apr 2022 21:53:23 GMT
 -->
 <resources>
-  <string name="ftv_tv_button_primary_color_bg_default">#2d2f2f</string>
+  <string name="ftv_tv_button_primary_color_bg_default">#232424</string>
   <string name="ftv_tv_button_primary_color_text_default">#fafafa</string>
   <string name="ftv_tv_button_primary_color_icon_default">#fafafa</string>
   <string name="ftv_tv_tag_color_bg_live">#fa4616</string>
@@ -18,9 +18,18 @@
   <string name="ftv_tv_content_meta_color_default_subhead">#fafafa</string>
   <string name="ftv_tv_content_meta_color_focus_title">#0f1010</string>
   <string name="ftv_tv_content_meta_color_focus_subhead">#0f1010</string>
+  <string name="ftv_tv_card_color_header_bg_default">#191a1a</string>
+  <string name="ftv_tv_card_color_header_bg_focus">#fafafa</string>
+  <string name="ftv_tv_card_color_icon_fav_active">#2bb1e3</string>
+  <string name="ftv_tv_card_color_scrim_overlay_default">linear-gradient(180deg, #0000000d 0.25%, #0000008b 49.73%, #000000 100%)</string>
+  <string name="ftv_tv_card_color_scrim_overlay_focus">#000000cc</string>
+  <string name="ftv_tv_card_color_border_focus">#fafafa</string>
+  <string name="ftv_tv_card_color_base_bg_default">#191a1a</string>
+  <string name="ftv_tv_card_color_base_bg_focus">#fafafa</string>
   <string name="ftv_color_text_primary_on_dark">#fafafa</string>
   <string name="ftv_color_text_primary_on_light">#0f1010</string>
-  <string name="ftv_color_bg_elevation_2">#2d2f2f</string>
+  <string name="ftv_color_bg_elevation_1">#191a1a</string>
+  <string name="ftv_color_bg_elevation_2">#232424</string>
   <string name="ftv_color_icon_primary_on_dark">#fafafa</string>
   <string name="ftv_color_semantic_live">#fa4616</string>
   <string name="ftv_color_semantic_favorite">#2bb1e3</string>
@@ -134,5 +143,7 @@
   <string name="ftv_color_gradients_dusk">linear-gradient(135deg, #6a11cb 0%, #2575fc 100%)</string>
   <string name="ftv_color_gradients_dawn">linear-gradient(135deg, #667eea 0%, #764ba2 100%)</string>
   <string name="ftv_color_gradients_blue_gradient">linear-gradient(135deg, #1c7ae4 0%, #145aa8 100%)</string>
+  <string name="ftv_scrim_fade">linear-gradient(180deg, #0000000d 0.25%, #0000008b 49.73%, #000000 100%)</string>
+  <string name="ftv_scrim_solid">#000000cc</string>
   
 </resources>

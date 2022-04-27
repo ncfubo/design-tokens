@@ -5,7 +5,7 @@
         "color": {
           "bg": {
             "default": {
-              "value": "#2d2f2f",
+              "value": "#232424",
               "type": "color"
             }
           },
@@ -264,6 +264,76 @@
           }
         }
       },
+      "card": {
+        "live-tv": {
+          "border-radius": {
+            "value": "8px",
+            "type": "borderRadius"
+          }
+        },
+        "color": {
+          "header-bg": {
+            "default": {
+              "value": "#191a1a",
+              "type": "color"
+            },
+            "focus": {
+              "value": "#fafafa",
+              "type": "color"
+            }
+          },
+          "icon-fav": {
+            "active": {
+              "value": "#2bb1e3",
+              "type": "color"
+            }
+          },
+          "scrim-overlay": {
+            "default": {
+              "value": "linear-gradient(180deg, #0000000d 0.25%, #0000008b 49.73%, #000000 100%)",
+              "type": "color"
+            },
+            "focus": {
+              "value": "#000000cc",
+              "type": "color"
+            }
+          },
+          "border": {
+            "focus": {
+              "value": "#fafafa",
+              "type": "color"
+            }
+          },
+          "base-bg": {
+            "default": {
+              "value": "#191a1a",
+              "type": "color"
+            },
+            "focus": {
+              "value": "#fafafa",
+              "type": "color"
+            }
+          }
+        },
+        "spotlight": {
+          "border-radius": {
+            "value": "12px",
+            "type": "borderRadius"
+          }
+        },
+        "show": {
+          "border-radius": {
+            "value": "8px",
+            "type": "borderRadius"
+          }
+        },
+        "border-width": {
+          "focus": {
+            "value": 8,
+            "type": "borderWidth"
+          }
+        }
+      },
       "font-weight": {
         "interactive": {
           "m": {
@@ -505,8 +575,12 @@
         }
       },
       "bg-elevation": {
+        "1": {
+          "value": "#191a1a",
+          "type": "color"
+        },
         "2": {
-          "value": "#2d2f2f",
+          "value": "#232424",
           "type": "color"
         }
       },
@@ -1288,6 +1362,10 @@
       }
     },
     "border-radius": {
+      "xs": {
+        "value": "2px",
+        "type": "borderRadius"
+      },
       "sm": {
         "value": "4px",
         "type": "borderRadius"
@@ -1297,6 +1375,10 @@
         "type": "borderRadius"
       },
       "lg": {
+        "value": "12px",
+        "type": "borderRadius"
+      },
+      "xl": {
         "value": "16px",
         "type": "borderRadius"
       },
@@ -1404,6 +1486,16 @@
       "left": {
         "value": "left",
         "type": "other"
+      }
+    },
+    "scrim": {
+      "fade": {
+        "value": "linear-gradient(180deg, #0000000d 0.25%, #0000008b 49.73%, #000000 100%)",
+        "type": "color"
+      },
+      "solid": {
+        "value": "#000000cc",
+        "type": "color"
       }
     }
   }
