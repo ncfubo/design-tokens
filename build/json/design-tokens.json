@@ -49,6 +49,8 @@
   "line-height": "125%",
   "font-size": "20px",
   "letter-spacing": "125%",
+  "font-face": "Qanelas",
+  "font-weight": 700,
   "m": 700,
   "xs-bold": 700,
   "lg-bold": 700,

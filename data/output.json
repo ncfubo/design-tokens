@@ -252,6 +252,14 @@
             "letter-spacing": {
               "value": "125%",
               "type": "letterSpacing"
+            },
+            "font-face": {
+              "value": "Qanelas",
+              "type": "fontFamilies"
+            },
+            "font-weight": {
+              "value": 700,
+              "type": "fontWeights"
             }
           }
         }
