@@ -213,6 +213,10 @@
           "lg": {
             "value": "125%",
             "type": "lineHeights"
+          },
+          "sm": {
+            "value": "125%",
+            "type": "lineHeights"
           }
         },
         "heading": {
@@ -289,6 +293,12 @@
             "type": "fontFamilies"
           }
         }
+      },
+      "border-width": {
+        "focus": {
+          "value": 8,
+          "type": "borderWidth"
+        }
       }
     },
     "color": {
@@ -321,6 +331,14 @@
       "semantic": {
         "live": {
           "value": "#fa4616",
+          "type": "color"
+        },
+        "favorite": {
+          "value": "#2bb1e3",
+          "type": "color"
+        },
+        "focus": {
+          "value": "#fafafa",
           "type": "color"
         }
       },
@@ -1112,6 +1130,10 @@
       },
       "4": {
         "value": "4px",
+        "type": "borderWidth"
+      },
+      "8": {
+        "value": 8,
         "type": "borderWidth"
       }
     },

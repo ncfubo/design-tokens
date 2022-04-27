@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 27 Apr 2022 20:22:04 GMT
+  Generated on Wed, 27 Apr 2022 20:30:13 GMT
 -->
 <resources>
   <string name="ftv_tv_button_primary_color_bg_default">#2d2f2f</string>
@@ -49,6 +49,7 @@
   <string name="ftv_tv_line_height_interactive_m">125%</string>
   <string name="ftv_tv_line_height_label_xs">125%</string>
   <string name="ftv_tv_line_height_label_lg">125%</string>
+  <string name="ftv_tv_line_height_label_sm">125%</string>
   <string name="ftv_tv_line_height_heading_lg">125%</string>
   <string name="ftv_tv_line_height_heading_sm">125%</string>
   <string name="ftv_tv_letter_spacing_interactive_m">1%</string>
@@ -63,11 +64,14 @@
   <string name="ftv_tv_font_face_label_sm">Qanelas</string>
   <string name="ftv_tv_font_face_heading_lg">Qanelas</string>
   <string name="ftv_tv_font_face_heading_sm">Qanelas</string>
+  <string name="ftv_tv_border_width_focus">8</string>
   <string name="ftv_color_text_primary_on_dark">#fafafa</string>
   <string name="ftv_color_text_primary_on_light">#0f1010</string>
   <string name="ftv_color_bg_elevation_2">#2d2f2f</string>
   <string name="ftv_color_icon_primary_on_dark">#fafafa</string>
   <string name="ftv_color_semantic_live">#fa4616</string>
+  <string name="ftv_color_semantic_favorite">#2bb1e3</string>
+  <string name="ftv_color_semantic_focus">#fafafa</string>
   <string name="ftv_color_orange_100">#fa4616</string>
   <string name="ftv_color_orange_120">#fb6e48</string>
   <string name="ftv_color_orange_140">#fca28a</string>
@@ -231,6 +235,7 @@
   <string name="ftv_border_width_2">2px</string>
   <string name="ftv_border_width_3">3px</string>
   <string name="ftv_border_width_4">4px</string>
+  <string name="ftv_border_width_8">8</string>
   <string name="ftv_drop_shadow_xs">[object Object]</string>
   <string name="ftv_space_xxs">4px</string>
   <string name="ftv_space_xs">8px</string>

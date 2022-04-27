@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Wed, 27 Apr 2022 20:22:04 GMT
+// Generated on Wed, 27 Apr 2022 20:30:12 GMT
 
 $ftv-tv-button-primary-color-bg-default: #2d2f2f;
 $ftv-tv-button-primary-color-text-default: #fafafa;
@@ -46,6 +46,7 @@ $ftv-tv-font-size-heading-sm: 32px;
 $ftv-tv-line-height-interactive-m: 125%;
 $ftv-tv-line-height-label-xs: 125%;
 $ftv-tv-line-height-label-lg: 125%;
+$ftv-tv-line-height-label-sm: 125%;
 $ftv-tv-line-height-heading-lg: 125%;
 $ftv-tv-line-height-heading-sm: 125%;
 $ftv-tv-letter-spacing-interactive-m: 1%;
@@ -60,11 +61,14 @@ $ftv-tv-font-face-label-lg: Qanelas;
 $ftv-tv-font-face-label-sm: Qanelas;
 $ftv-tv-font-face-heading-lg: Qanelas;
 $ftv-tv-font-face-heading-sm: Qanelas;
+$ftv-tv-border-width-focus: 8;
 $ftv-color-text-primary-on-dark: #fafafa;
 $ftv-color-text-primary-on-light: #0f1010;
 $ftv-color-bg-elevation-2: #2d2f2f;
 $ftv-color-icon-primary-on-dark: #fafafa;
 $ftv-color-semantic-live: #fa4616;
+$ftv-color-semantic-favorite: #2bb1e3;
+$ftv-color-semantic-focus: #fafafa;
 $ftv-color-orange-100: #fa4616;
 $ftv-color-orange-120: #fb6e48;
 $ftv-color-orange-140: #fca28a;
@@ -228,6 +232,7 @@ $ftv-border-width-1: 1px;
 $ftv-border-width-2: 2px;
 $ftv-border-width-3: 3px;
 $ftv-border-width-4: 4px;
+$ftv-border-width-8: 8;
 $ftv-drop-shadow-xs: [object Object];
 $ftv-space-xxs: 4px;
 $ftv-space-xs: 8px;

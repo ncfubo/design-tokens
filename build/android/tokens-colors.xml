@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 27 Apr 2022 20:22:04 GMT
+  Generated on Wed, 27 Apr 2022 20:30:13 GMT
 -->
 <resources>
   <string name="ftv_tv_button_primary_color_bg_default">#2d2f2f</string>
@@ -13,6 +13,8 @@
   <string name="ftv_color_bg_elevation_2">#2d2f2f</string>
   <string name="ftv_color_icon_primary_on_dark">#fafafa</string>
   <string name="ftv_color_semantic_live">#fa4616</string>
+  <string name="ftv_color_semantic_favorite">#2bb1e3</string>
+  <string name="ftv_color_semantic_focus">#fafafa</string>
   <string name="ftv_color_orange_100">#fa4616</string>
   <string name="ftv_color_orange_120">#fb6e48</string>
   <string name="ftv_color_orange_140">#fca28a</string>
