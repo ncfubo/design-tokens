@@ -131,6 +131,10 @@
           "line-height": {
             "value": "125%",
             "type": "lineHeights"
+          },
+          "text-case": {
+            "value": "uppercase",
+            "type": "textCase"
           }
         }
       },
