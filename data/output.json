@@ -148,6 +148,114 @@
           }
         }
       },
+      "content-meta": {
+        "title": {
+          "lg": {
+            "font-face": {
+              "value": "Qanelas",
+              "type": "fontFamilies"
+            },
+            "font-size": {
+              "value": "44px",
+              "type": "fontSizes"
+            },
+            "font-weight": {
+              "value": 800,
+              "type": "fontWeights"
+            },
+            "line-height": {
+              "value": "125%",
+              "type": "lineHeights"
+            },
+            "letter-spacing": {
+              "value": "0%",
+              "type": "letterSpacing"
+            }
+          },
+          "sm": {
+            "font-face": {
+              "value": "Qanelas",
+              "type": "fontFamilies"
+            },
+            "font-weight": {
+              "value": 700,
+              "type": "fontWeights"
+            },
+            "line-height": {
+              "value": "125%",
+              "type": "lineHeights"
+            },
+            "font-size": {
+              "value": "32px",
+              "type": "fontSizes"
+            },
+            "letter-spacing": {
+              "value": "1%",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "color": {
+          "default": {
+            "title": {
+              "value": "#fafafa",
+              "type": "color"
+            },
+            "subhead": {
+              "value": "#fafafa",
+              "type": "color"
+            }
+          },
+          "focus": {
+            "title": {
+              "value": "#0f1010",
+              "type": "color"
+            },
+            "subhead": {
+              "value": "#0f1010",
+              "type": "color"
+            }
+          }
+        },
+        "subhead": {
+          "lg": {
+            "font-face": {
+              "value": "Qanelas",
+              "type": "fontFamilies"
+            },
+            "font-weight": {
+              "value": 700,
+              "type": "fontWeights"
+            },
+            "line-height": {
+              "value": "125%",
+              "type": "lineHeights"
+            },
+            "font-size": {
+              "value": "28px",
+              "type": "fontSizes"
+            },
+            "letter-spacing": {
+              "value": "1%",
+              "type": "letterSpacing"
+            }
+          },
+          "sm": {
+            "line-height": {
+              "value": "125%",
+              "type": "lineHeights"
+            },
+            "font-size": {
+              "value": "20px",
+              "type": "fontSizes"
+            },
+            "letter-spacing": {
+              "value": "125%",
+              "type": "letterSpacing"
+            }
+          }
+        }
+      },
       "font-weight": {
         "interactive": {
           "m": {
