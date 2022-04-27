@@ -74,6 +74,80 @@
           }
         }
       },
+      "tag": {
+        "color": {
+          "bg": {
+            "live": {
+              "value": "#fa4616",
+              "type": "color"
+            },
+            "upcoming": {
+              "value": "#2d2f2f",
+              "type": "color"
+            }
+          },
+          "label": {
+            "live": {
+              "value": "#fafafa",
+              "type": "color"
+            },
+            "upcoming": {
+              "value": "#fafafa",
+              "type": "color"
+            }
+          }
+        },
+        "border-radius": {
+          "value": "4px",
+          "type": "borderRadius"
+        },
+        "padding": {
+          "top-btm": {
+            "value": "4px",
+            "type": "spacing"
+          },
+          "l-r": {
+            "value": "8px",
+            "type": "spacing"
+          }
+        },
+        "label": {
+          "font-size": {
+            "value": "18px",
+            "type": "fontSizes"
+          },
+          "font-face": {
+            "value": "Qanelas",
+            "type": "fontFamilies"
+          },
+          "font-weight": {
+            "value": 700,
+            "type": "fontWeights"
+          },
+          "letter-spacing": {
+            "value": "3%",
+            "type": "letterSpacing"
+          },
+          "line-height": {
+            "value": "125%",
+            "type": "lineHeights"
+          }
+        }
+      },
+      "progress-bar": {
+        "color": {
+          "fill": {
+            "live": {
+              "value": "#fa4616",
+              "type": "color"
+            }
+          },
+          "track": {
+            "value": "#0f1010",
+            "type": "color"
+          }
+        }
+      },
       "font-weight": {
         "interactive": {
           "m": {

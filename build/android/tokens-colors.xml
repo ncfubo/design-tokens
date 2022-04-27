@@ -2,12 +2,18 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 27 Apr 2022 20:30:13 GMT
+  Generated on Wed, 27 Apr 2022 20:59:59 GMT
 -->
 <resources>
   <string name="ftv_tv_button_primary_color_bg_default">#2d2f2f</string>
   <string name="ftv_tv_button_primary_color_text_default">#fafafa</string>
   <string name="ftv_tv_button_primary_color_icon_default">#fafafa</string>
+  <string name="ftv_tv_tag_color_bg_live">#fa4616</string>
+  <string name="ftv_tv_tag_color_bg_upcoming">#2d2f2f</string>
+  <string name="ftv_tv_tag_color_label_live">#fafafa</string>
+  <string name="ftv_tv_tag_color_label_upcoming">#fafafa</string>
+  <string name="ftv_tv_progress_bar_color_fill_live">#fa4616</string>
+  <string name="ftv_tv_progress_bar_color_track">#0f1010</string>
   <string name="ftv_color_text_primary_on_dark">#fafafa</string>
   <string name="ftv_color_text_primary_on_light">#0f1010</string>
   <string name="ftv_color_bg_elevation_2">#2d2f2f</string>
