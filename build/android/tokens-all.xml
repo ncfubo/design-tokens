@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 27 Apr 2022 19:00:26 GMT
+  Generated on Wed, 27 Apr 2022 20:22:04 GMT
 -->
 <resources>
   <string name="ftv_tv_button_primary_color_bg_default">#2d2f2f</string>
@@ -20,6 +20,11 @@
   <string name="ftv_tv_button_primary_label_text_align">left</string>
   <string name="ftv_tv_button_primary_icon_size">32px</string>
   <string name="ftv_tv_font_weight_interactive_m">700</string>
+  <string name="ftv_tv_font_weight_label_xs_bold">700</string>
+  <string name="ftv_tv_font_weight_label_lg_bold">700</string>
+  <string name="ftv_tv_font_weight_label_sm_bold">700</string>
+  <string name="ftv_tv_font_weight_heading_lg">800</string>
+  <string name="ftv_tv_font_weight_heading_sm">700</string>
   <string name="ftv_tv_font_size_1">18px</string>
   <string name="ftv_tv_font_size_2">20px</string>
   <string name="ftv_tv_font_size_3">22px</string>
@@ -37,14 +42,29 @@
   <string name="ftv_tv_font_size_15">90px</string>
   <string name="ftv_tv_font_size_interactive_m">28px</string>
   <string name="ftv_tv_font_size_label_xs">18px</string>
+  <string name="ftv_tv_font_size_label_lg">28px</string>
+  <string name="ftv_tv_font_size_label_sm">20px</string>
+  <string name="ftv_tv_font_size_heading_lg">44px</string>
+  <string name="ftv_tv_font_size_heading_sm">32px</string>
   <string name="ftv_tv_line_height_interactive_m">125%</string>
   <string name="ftv_tv_line_height_label_xs">125%</string>
+  <string name="ftv_tv_line_height_label_lg">125%</string>
+  <string name="ftv_tv_line_height_heading_lg">125%</string>
+  <string name="ftv_tv_line_height_heading_sm">125%</string>
   <string name="ftv_tv_letter_spacing_interactive_m">1%</string>
   <string name="ftv_tv_letter_spacing_label_xs">3%</string>
+  <string name="ftv_tv_letter_spacing_label_lg">1%</string>
+  <string name="ftv_tv_letter_spacing_label_sm">125%</string>
+  <string name="ftv_tv_letter_spacing_heading_lg">0%</string>
+  <string name="ftv_tv_letter_spacing_heading_sm">1%</string>
   <string name="ftv_tv_font_face_interactive_m">Qanelas</string>
   <string name="ftv_tv_font_face_label_xs">Qanelas</string>
-  <string name="ftv_tv_font_face_label_xs_bold">700</string>
+  <string name="ftv_tv_font_face_label_lg">Qanelas</string>
+  <string name="ftv_tv_font_face_label_sm">Qanelas</string>
+  <string name="ftv_tv_font_face_heading_lg">Qanelas</string>
+  <string name="ftv_tv_font_face_heading_sm">Qanelas</string>
   <string name="ftv_color_text_primary_on_dark">#fafafa</string>
+  <string name="ftv_color_text_primary_on_light">#0f1010</string>
   <string name="ftv_color_bg_elevation_2">#2d2f2f</string>
   <string name="ftv_color_icon_primary_on_dark">#fafafa</string>
   <string name="ftv_color_semantic_live">#fa4616</string>

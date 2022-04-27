@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Wed, 27 Apr 2022 19:00:26 GMT
+// Generated on Wed, 27 Apr 2022 20:22:04 GMT
 
 $ftv-tv-button-primary-color-bg-default: #2d2f2f;
 $ftv-tv-button-primary-color-text-default: #fafafa;
@@ -17,6 +17,11 @@ $ftv-tv-button-primary-label-text-case: titlecase;
 $ftv-tv-button-primary-label-text-align: left;
 $ftv-tv-button-primary-icon-size: 32px;
 $ftv-tv-font-weight-interactive-m: 700;
+$ftv-tv-font-weight-label-xs-bold: 700;
+$ftv-tv-font-weight-label-lg-bold: 700;
+$ftv-tv-font-weight-label-sm-bold: 700;
+$ftv-tv-font-weight-heading-lg: 800;
+$ftv-tv-font-weight-heading-sm: 700;
 $ftv-tv-font-size-1: 18px;
 $ftv-tv-font-size-2: 20px;
 $ftv-tv-font-size-3: 22px;
@@ -34,14 +39,29 @@ $ftv-tv-font-size-14: 80px;
 $ftv-tv-font-size-15: 90px;
 $ftv-tv-font-size-interactive-m: 28px;
 $ftv-tv-font-size-label-xs: 18px;
+$ftv-tv-font-size-label-lg: 28px;
+$ftv-tv-font-size-label-sm: 20px;
+$ftv-tv-font-size-heading-lg: 44px;
+$ftv-tv-font-size-heading-sm: 32px;
 $ftv-tv-line-height-interactive-m: 125%;
 $ftv-tv-line-height-label-xs: 125%;
+$ftv-tv-line-height-label-lg: 125%;
+$ftv-tv-line-height-heading-lg: 125%;
+$ftv-tv-line-height-heading-sm: 125%;
 $ftv-tv-letter-spacing-interactive-m: 1%;
 $ftv-tv-letter-spacing-label-xs: 3%;
+$ftv-tv-letter-spacing-label-lg: 1%;
+$ftv-tv-letter-spacing-label-sm: 125%;
+$ftv-tv-letter-spacing-heading-lg: 0%;
+$ftv-tv-letter-spacing-heading-sm: 1%;
 $ftv-tv-font-face-interactive-m: Qanelas;
 $ftv-tv-font-face-label-xs: Qanelas;
-$ftv-tv-font-face-label-xs-bold: 700;
+$ftv-tv-font-face-label-lg: Qanelas;
+$ftv-tv-font-face-label-sm: Qanelas;
+$ftv-tv-font-face-heading-lg: Qanelas;
+$ftv-tv-font-face-heading-sm: Qanelas;
 $ftv-color-text-primary-on-dark: #fafafa;
+$ftv-color-text-primary-on-light: #0f1010;
 $ftv-color-bg-elevation-2: #2d2f2f;
 $ftv-color-icon-primary-on-dark: #fafafa;
 $ftv-color-semantic-live: #fa4616;
