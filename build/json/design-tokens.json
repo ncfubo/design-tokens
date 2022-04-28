@@ -1,305 +1,5931 @@
 {
-  "default": "#232424",
-  "default": "#fafafa",
-  "default": "#fafafa",
-  "border-radius": "100%",
-  "top-btm": "24px",
-  "l-r": "36px",
-  "font-face": "Qanelas",
-  "font-weight": 700,
-  "font-size": "28px",
-  "line-height": "125%",
-  "letter-spacing": "1%",
-  "text-case": "titlecase",
-  "text-align": "left",
-  "size": "32px",
-  "live": "#fa4616",
-  "upcoming": "#2d2f2f",
-  "live": "#fafafa",
-  "upcoming": "#fafafa",
-  "border-radius": "4px",
-  "top-btm": "4px",
-  "l-r": "8px",
-  "font-size": "18px",
-  "font-face": "Qanelas",
-  "font-weight": 700,
-  "letter-spacing": "3%",
-  "line-height": "125%",
-  "text-case": "uppercase",
-  "live": "#fa4616",
-  "track": "#0f1010",
-  "font-face": "Qanelas",
-  "font-size": "44px",
-  "font-weight": 800,
-  "line-height": "125%",
-  "letter-spacing": "0%",
-  "font-face": "Qanelas",
-  "font-weight": 700,
-  "line-height": "125%",
-  "font-size": "32px",
-  "letter-spacing": "1%",
-  "title": "#fafafa",
-  "subhead": "#fafafa",
-  "title": "#0f1010",
-  "subhead": "#0f1010",
-  "font-face": "Qanelas",
-  "font-weight": 700,
-  "line-height": "125%",
-  "font-size": "28px",
-  "letter-spacing": "1%",
-  "line-height": "125%",
-  "font-size": "20px",
-  "letter-spacing": "125%",
-  "font-face": "Qanelas",
-  "font-weight": 700,
-  "border-radius": "8px",
-  "default": "#191a1a",
-  "focus": "#fafafa",
-  "active": "#2bb1e3",
-  "default": "linear-gradient(180deg, #0000000d 0.25%, #0000008b 49.73%, #000000 100%)",
-  "focus": "#000000cc",
-  "focus": "#fafafa",
-  "default": "#191a1a",
-  "focus": "#fafafa",
-  "border-radius": "12px",
-  "border-radius": "8px",
-  "focus": 8,
-  "m": 700,
-  "xs-bold": 700,
-  "lg-bold": 700,
-  "sm-bold": 700,
-  "lg": 800,
-  "sm": 700,
-  "1": "18px",
-  "2": "20px",
-  "3": "22px",
-  "4": "24px",
-  "5": "28px",
-  "6": "32px",
-  "7": "36px",
-  "8": "40px",
-  "9": "44px",
-  "10": "50px",
-  "11": "56px",
-  "12": "64px",
-  "13": "72px",
-  "14": "80px",
-  "15": "90px",
-  "m": "28px",
-  "xs": "18px",
-  "lg": "28px",
-  "sm": "20px",
-  "lg": "44px",
-  "sm": "32px",
-  "m": "125%",
-  "xs": "125%",
-  "lg": "125%",
-  "sm": "125%",
-  "lg": "125%",
-  "sm": "125%",
-  "m": "1%",
-  "xs": "3%",
-  "lg": "1%",
-  "sm": "125%",
-  "lg": "0%",
-  "sm": "1%",
-  "m": "Qanelas",
-  "xs": "Qanelas",
-  "lg": "Qanelas",
-  "sm": "Qanelas",
-  "lg": "Qanelas",
-  "sm": "Qanelas",
-  "focus": 8,
-  "on-dark": "#fafafa",
-  "on-light": "#0f1010",
-  "1": "#191a1a",
-  "2": "#232424",
-  "on-dark": "#fafafa",
-  "live": "#fa4616",
-  "favorite": "#2bb1e3",
-  "focus": "#fafafa",
-  "100": "#fa4616",
-  "120": "#fb6e48",
-  "140": "#fca28a",
-  "160": "#fecabc",
-  "180": "#fee4de",
-  "200": "#fff2ee",
-  "000": "#110400",
-  "020": "#220801",
-  "040": "#430f01",
-  "060": "#751b03",
-  "080": "#b72a04",
-  "100": "#2bb1e3",
-  "120": "#67c7eb",
-  "140": "#a3ddf3",
-  "160": "#d0eef9",
-  "180": "#eef9fd",
-  "200": "#fdfeff",
-  "000": "#020a0d",
-  "020": "#04161c",
-  "040": "#082d3a",
-  "060": "#0e4f67",
-  "080": "#167da3",
-  "100": "#3e7edf",
-  "120": "#77a8f1",
-  "140": "#a6c7f9",
-  "160": "#c0d8fb",
-  "180": "#dae8fe",
-  "200": "#f3f8ff",
-  "000": "#000f26",
-  "020": "#00204f",
-  "040": "#002f76",
-  "060": "#0949a9",
-  "080": "#2367cd",
-  "100": "#5634ce",
-  "120": "#836adb",
-  "140": "#b1a1e9",
-  "160": "#d3caf2",
-  "180": "#eae6f9",
-  "200": "#f5f3fc",
-  "000": "#070411",
-  "020": "#0c071e",
-  "040": "#170e39",
-  "060": "#281862",
-  "080": "#3e2599",
-  "100": "#008817",
-  "120": "#089d21",
-  "140": "#23b13b",
-  "160": "#4bc55f",
-  "180": "#7ed98d",
-  "200": "#9ce3a7",
-  "220": "#bbedc3",
-  "000": "#002406",
-  "020": "#003809",
-  "040": "#004c0d",
-  "060": "#006010",
-  "080": "#007413",
-  "100": "#cf1212",
-  "120": "#e02e2e",
-  "140": "#ed5454",
-  "160": "#f68383",
-  "180": "#fcbaba",
-  "200": "#fdd6d6",
-  "220": "#fff2f2",
-  "000": "#2e0000",
-  "020": "#550000",
-  "040": "#7b0000",
-  "060": "#9d0000",
-  "080": "#b90000",
-  "100": "#e9c22e",
-  "120": "#f1cc45",
-  "140": "#f7d762",
-  "160": "#fbe184",
-  "180": "#fdecac",
-  "200": "#fef1c0",
-  "220": "#fff6d4",
-  "000": "#a18102",
-  "020": "#b28f04",
-  "040": "#c39d09",
-  "060": "#d3aa11",
-  "080": "#dfb71d",
-  "100": "#414444",
-  "120": "#4b4e4e",
-  "140": "#555858",
-  "160": "#5f6363",
-  "180": "#737878",
-  "200": "#7d8282",
-  "220": "#878c8c",
-  "240": "#929696",
-  "260": "#9ca0a0",
-  "280": "#a7aaaa",
-  "300": "#b1b4b4",
-  "320": "#bbbebe",
-  "340": "#c6c8c8",
-  "360": "#d0d2d2",
-  "380": "#dbdcdc",
-  "400": "#e5e6e6",
-  "420": "#eff0f0",
-  "440": "#fafafa",
-  "000": "#0f1010",
-  "020": "#191a1a",
-  "040": "#232424",
-  "060": "#2d2f2f",
-  "080": "#373939",
-  "black": "#000000",
-  "white": "#ffffff",
-  "Sunset": "linear-gradient(135deg, #fa4616 0%, #721e4e 100%)",
-  "Dusk": "linear-gradient(135deg, #6a11cb 0%, #2575fc 100%)",
-  "Dawn": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-  "blue-gradient": "linear-gradient(135deg, #1c7ae4 0%, #145aa8 100%)",
-  "fade": "linear-gradient(180deg, #0000000d 0.25%, #0000008b 49.73%, #000000 100%)",
-  "solid": "#000000cc",
-  "border-radius": "100%",
-  "primary": "Qanelas",
-  "system--Android-FireTV": "Roboto",
-  "system--Web": "Helvetica",
-  "system--Roku": "Gotham Book",
-  "system--iOS-tvOS": "SF Pro Text",
-  "xs": "100%",
-  "sm": "125%",
-  "md": "150%",
-  "lg": "175%",
-  "medium": 500,
-  "semibold": 600,
-  "bold": 700,
-  "extrabold": 800,
-  "0": "0%",
-  "1": "1%",
-  "2": "2%",
-  "3": "3%",
-  "4": "4%",
-  "1": "10px",
-  "2": "11px",
-  "3": "12px",
-  "4": "14px",
-  "5": "16px",
-  "6": "18px",
-  "7": "20px",
-  "8": "22px",
-  "9": "24px",
-  "10": "28px",
-  "11": "32px",
-  "12": "36px",
-  "13": "40px",
-  "14": "46px",
-  "15": "52px",
-  "16": "58px",
-  "17": "66px",
-  "none": "none",
-  "uppercase": "uppercase",
-  "lowercase": "lowercase",
-  "titlecase": "titlecase",
-  "none": "none",
-  "underline": "underline",
-  "strikethrough": "strikethrough",
-  "sm": "16px",
-  "md": "24px",
-  "lg": "32px",
-  "xs": "2px",
-  "sm": "4px",
-  "md": "8px",
-  "lg": "12px",
-  "xl": "16px",
-  "pill": "100%",
-  "1": "1px",
-  "2": "2px",
-  "3": "3px",
-  "4": "4px",
-  "8": 8,
-  "xs": {"x":1,"y":1,"blur":0,"spread":0,"color":"#000000","type":"dropShadow"},
-  "xxs": "4px",
-  "xs": "8px",
-  "sm": "16px",
-  "md": "24px",
-  "lg": "36px",
-  "xl": "48px",
-  "xxl": "64px",
-  "0": 0,
-  "8": "80%",
-  "10": "10%",
-  "25": "25%",
-  "50": "50%",
-  "80": "80%",
-  "100": "100%",
-  "left": "left"
+  "ftv": {
+    "tv": {
+      "button-primary": {
+        "color": {
+          "bg": {
+            "default": {
+              "value": "#232424",
+              "type": "color",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "#232424",
+                "type": "color"
+              },
+              "name": "default",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "button-primary",
+                "color",
+                "bg",
+                "default"
+              ]
+            }
+          },
+          "text": {
+            "default": {
+              "value": "#fafafa",
+              "type": "color",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "#fafafa",
+                "type": "color"
+              },
+              "name": "default",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "button-primary",
+                "color",
+                "text",
+                "default"
+              ]
+            }
+          },
+          "icon": {
+            "default": {
+              "value": "#fafafa",
+              "type": "color",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "#fafafa",
+                "type": "color"
+              },
+              "name": "default",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "button-primary",
+                "color",
+                "icon",
+                "default"
+              ]
+            }
+          }
+        },
+        "border-radius": {
+          "value": "100%",
+          "type": "borderRadius",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "100%",
+            "type": "borderRadius"
+          },
+          "name": "border-radius",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "tv",
+            "button-primary",
+            "border-radius"
+          ]
+        },
+        "padding": {
+          "top-btm": {
+            "value": "24px",
+            "type": "spacing",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "24px",
+              "type": "spacing"
+            },
+            "name": "top-btm",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "button-primary",
+              "padding",
+              "top-btm"
+            ]
+          },
+          "l-r": {
+            "value": "36px",
+            "type": "spacing",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "36px",
+              "type": "spacing"
+            },
+            "name": "l-r",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "button-primary",
+              "padding",
+              "l-r"
+            ]
+          }
+        },
+        "label": {
+          "font-face": {
+            "value": "Qanelas",
+            "type": "fontFamilies",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "Qanelas",
+              "type": "fontFamilies"
+            },
+            "name": "font-face",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "button-primary",
+              "label",
+              "font-face"
+            ]
+          },
+          "font-weight": {
+            "value": 700,
+            "type": "fontWeights",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": 700,
+              "type": "fontWeights"
+            },
+            "name": "font-weight",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "button-primary",
+              "label",
+              "font-weight"
+            ]
+          },
+          "font-size": {
+            "value": "28px",
+            "type": "fontSizes",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "28px",
+              "type": "fontSizes"
+            },
+            "name": "font-size",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "button-primary",
+              "label",
+              "font-size"
+            ]
+          },
+          "line-height": {
+            "value": "125%",
+            "type": "lineHeights",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "125%",
+              "type": "lineHeights"
+            },
+            "name": "line-height",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "button-primary",
+              "label",
+              "line-height"
+            ]
+          },
+          "letter-spacing": {
+            "value": "1%",
+            "type": "letterSpacing",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "1%",
+              "type": "letterSpacing"
+            },
+            "name": "letter-spacing",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "button-primary",
+              "label",
+              "letter-spacing"
+            ]
+          },
+          "text-case": {
+            "value": "titlecase",
+            "type": "textCase",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "titlecase",
+              "type": "textCase"
+            },
+            "name": "text-case",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "button-primary",
+              "label",
+              "text-case"
+            ]
+          },
+          "text-align": {
+            "value": "left",
+            "type": "other",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "left",
+              "type": "other"
+            },
+            "name": "text-align",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "button-primary",
+              "label",
+              "text-align"
+            ]
+          }
+        },
+        "icon": {
+          "size": {
+            "value": "32px",
+            "type": "sizing",
+            "description": "Example description",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "32px",
+              "type": "sizing",
+              "description": "Example description"
+            },
+            "name": "size",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "button-primary",
+              "icon",
+              "size"
+            ]
+          }
+        }
+      },
+      "tag": {
+        "color": {
+          "bg": {
+            "live": {
+              "value": "#fa4616",
+              "type": "color",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "#fa4616",
+                "type": "color"
+              },
+              "name": "live",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "tag",
+                "color",
+                "bg",
+                "live"
+              ]
+            },
+            "upcoming": {
+              "value": "#2d2f2f",
+              "type": "color",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "#2d2f2f",
+                "type": "color"
+              },
+              "name": "upcoming",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "tag",
+                "color",
+                "bg",
+                "upcoming"
+              ]
+            }
+          },
+          "label": {
+            "live": {
+              "value": "#fafafa",
+              "type": "color",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "#fafafa",
+                "type": "color"
+              },
+              "name": "live",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "tag",
+                "color",
+                "label",
+                "live"
+              ]
+            },
+            "upcoming": {
+              "value": "#fafafa",
+              "type": "color",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "#fafafa",
+                "type": "color"
+              },
+              "name": "upcoming",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "tag",
+                "color",
+                "label",
+                "upcoming"
+              ]
+            }
+          }
+        },
+        "border-radius": {
+          "value": "4px",
+          "type": "borderRadius",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "4px",
+            "type": "borderRadius"
+          },
+          "name": "border-radius",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "tv",
+            "tag",
+            "border-radius"
+          ]
+        },
+        "padding": {
+          "top-btm": {
+            "value": "4px",
+            "type": "spacing",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "4px",
+              "type": "spacing"
+            },
+            "name": "top-btm",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "tag",
+              "padding",
+              "top-btm"
+            ]
+          },
+          "l-r": {
+            "value": "8px",
+            "type": "spacing",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "8px",
+              "type": "spacing"
+            },
+            "name": "l-r",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "tag",
+              "padding",
+              "l-r"
+            ]
+          }
+        },
+        "label": {
+          "font-size": {
+            "value": "18px",
+            "type": "fontSizes",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "18px",
+              "type": "fontSizes"
+            },
+            "name": "font-size",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "tag",
+              "label",
+              "font-size"
+            ]
+          },
+          "font-face": {
+            "value": "Qanelas",
+            "type": "fontFamilies",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "Qanelas",
+              "type": "fontFamilies"
+            },
+            "name": "font-face",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "tag",
+              "label",
+              "font-face"
+            ]
+          },
+          "font-weight": {
+            "value": 700,
+            "type": "fontWeights",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": 700,
+              "type": "fontWeights"
+            },
+            "name": "font-weight",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "tag",
+              "label",
+              "font-weight"
+            ]
+          },
+          "letter-spacing": {
+            "value": "3%",
+            "type": "letterSpacing",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "3%",
+              "type": "letterSpacing"
+            },
+            "name": "letter-spacing",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "tag",
+              "label",
+              "letter-spacing"
+            ]
+          },
+          "line-height": {
+            "value": "125%",
+            "type": "lineHeights",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "125%",
+              "type": "lineHeights"
+            },
+            "name": "line-height",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "tag",
+              "label",
+              "line-height"
+            ]
+          },
+          "text-case": {
+            "value": "uppercase",
+            "type": "textCase",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "uppercase",
+              "type": "textCase"
+            },
+            "name": "text-case",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "tag",
+              "label",
+              "text-case"
+            ]
+          }
+        }
+      },
+      "progress-bar": {
+        "color": {
+          "fill": {
+            "live": {
+              "value": "#fa4616",
+              "type": "color",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "#fa4616",
+                "type": "color"
+              },
+              "name": "live",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "progress-bar",
+                "color",
+                "fill",
+                "live"
+              ]
+            }
+          },
+          "track": {
+            "value": "#0f1010",
+            "type": "color",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "#0f1010",
+              "type": "color"
+            },
+            "name": "track",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "progress-bar",
+              "color",
+              "track"
+            ]
+          }
+        }
+      },
+      "content-meta": {
+        "title": {
+          "lg": {
+            "font-face": {
+              "value": "Qanelas",
+              "type": "fontFamilies",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "Qanelas",
+                "type": "fontFamilies"
+              },
+              "name": "font-face",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "content-meta",
+                "title",
+                "lg",
+                "font-face"
+              ]
+            },
+            "font-size": {
+              "value": "44px",
+              "type": "fontSizes",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "44px",
+                "type": "fontSizes"
+              },
+              "name": "font-size",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "content-meta",
+                "title",
+                "lg",
+                "font-size"
+              ]
+            },
+            "font-weight": {
+              "value": 800,
+              "type": "fontWeights",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": 800,
+                "type": "fontWeights"
+              },
+              "name": "font-weight",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "content-meta",
+                "title",
+                "lg",
+                "font-weight"
+              ]
+            },
+            "line-height": {
+              "value": "125%",
+              "type": "lineHeights",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "125%",
+                "type": "lineHeights"
+              },
+              "name": "line-height",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "content-meta",
+                "title",
+                "lg",
+                "line-height"
+              ]
+            },
+            "letter-spacing": {
+              "value": "0%",
+              "type": "letterSpacing",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "0%",
+                "type": "letterSpacing"
+              },
+              "name": "letter-spacing",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "content-meta",
+                "title",
+                "lg",
+                "letter-spacing"
+              ]
+            }
+          },
+          "sm": {
+            "font-face": {
+              "value": "Qanelas",
+              "type": "fontFamilies",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "Qanelas",
+                "type": "fontFamilies"
+              },
+              "name": "font-face",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "content-meta",
+                "title",
+                "sm",
+                "font-face"
+              ]
+            },
+            "font-weight": {
+              "value": 700,
+              "type": "fontWeights",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": 700,
+                "type": "fontWeights"
+              },
+              "name": "font-weight",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "content-meta",
+                "title",
+                "sm",
+                "font-weight"
+              ]
+            },
+            "line-height": {
+              "value": "125%",
+              "type": "lineHeights",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "125%",
+                "type": "lineHeights"
+              },
+              "name": "line-height",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "content-meta",
+                "title",
+                "sm",
+                "line-height"
+              ]
+            },
+            "font-size": {
+              "value": "32px",
+              "type": "fontSizes",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "32px",
+                "type": "fontSizes"
+              },
+              "name": "font-size",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "content-meta",
+                "title",
+                "sm",
+                "font-size"
+              ]
+            },
+            "letter-spacing": {
+              "value": "1%",
+              "type": "letterSpacing",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "1%",
+                "type": "letterSpacing"
+              },
+              "name": "letter-spacing",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "content-meta",
+                "title",
+                "sm",
+                "letter-spacing"
+              ]
+            }
+          }
+        },
+        "color": {
+          "default": {
+            "title": {
+              "value": "#fafafa",
+              "type": "color",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "#fafafa",
+                "type": "color"
+              },
+              "name": "title",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "content-meta",
+                "color",
+                "default",
+                "title"
+              ]
+            },
+            "subhead": {
+              "value": "#fafafa",
+              "type": "color",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "#fafafa",
+                "type": "color"
+              },
+              "name": "subhead",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "content-meta",
+                "color",
+                "default",
+                "subhead"
+              ]
+            }
+          },
+          "focus": {
+            "title": {
+              "value": "#0f1010",
+              "type": "color",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "#0f1010",
+                "type": "color"
+              },
+              "name": "title",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "content-meta",
+                "color",
+                "focus",
+                "title"
+              ]
+            },
+            "subhead": {
+              "value": "#0f1010",
+              "type": "color",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "#0f1010",
+                "type": "color"
+              },
+              "name": "subhead",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "content-meta",
+                "color",
+                "focus",
+                "subhead"
+              ]
+            }
+          }
+        },
+        "subhead": {
+          "lg": {
+            "font-face": {
+              "value": "Qanelas",
+              "type": "fontFamilies",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "Qanelas",
+                "type": "fontFamilies"
+              },
+              "name": "font-face",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "content-meta",
+                "subhead",
+                "lg",
+                "font-face"
+              ]
+            },
+            "font-weight": {
+              "value": 700,
+              "type": "fontWeights",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": 700,
+                "type": "fontWeights"
+              },
+              "name": "font-weight",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "content-meta",
+                "subhead",
+                "lg",
+                "font-weight"
+              ]
+            },
+            "line-height": {
+              "value": "125%",
+              "type": "lineHeights",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "125%",
+                "type": "lineHeights"
+              },
+              "name": "line-height",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "content-meta",
+                "subhead",
+                "lg",
+                "line-height"
+              ]
+            },
+            "font-size": {
+              "value": "28px",
+              "type": "fontSizes",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "28px",
+                "type": "fontSizes"
+              },
+              "name": "font-size",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "content-meta",
+                "subhead",
+                "lg",
+                "font-size"
+              ]
+            },
+            "letter-spacing": {
+              "value": "1%",
+              "type": "letterSpacing",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "1%",
+                "type": "letterSpacing"
+              },
+              "name": "letter-spacing",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "content-meta",
+                "subhead",
+                "lg",
+                "letter-spacing"
+              ]
+            }
+          },
+          "sm": {
+            "line-height": {
+              "value": "125%",
+              "type": "lineHeights",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "125%",
+                "type": "lineHeights"
+              },
+              "name": "line-height",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "content-meta",
+                "subhead",
+                "sm",
+                "line-height"
+              ]
+            },
+            "font-size": {
+              "value": "20px",
+              "type": "fontSizes",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "20px",
+                "type": "fontSizes"
+              },
+              "name": "font-size",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "content-meta",
+                "subhead",
+                "sm",
+                "font-size"
+              ]
+            },
+            "letter-spacing": {
+              "value": "125%",
+              "type": "letterSpacing",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "125%",
+                "type": "letterSpacing"
+              },
+              "name": "letter-spacing",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "content-meta",
+                "subhead",
+                "sm",
+                "letter-spacing"
+              ]
+            },
+            "font-face": {
+              "value": "Qanelas",
+              "type": "fontFamilies",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "Qanelas",
+                "type": "fontFamilies"
+              },
+              "name": "font-face",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "content-meta",
+                "subhead",
+                "sm",
+                "font-face"
+              ]
+            },
+            "font-weight": {
+              "value": 700,
+              "type": "fontWeights",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": 700,
+                "type": "fontWeights"
+              },
+              "name": "font-weight",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "content-meta",
+                "subhead",
+                "sm",
+                "font-weight"
+              ]
+            }
+          }
+        }
+      },
+      "card": {
+        "live-tv": {
+          "border-radius": {
+            "value": "8px",
+            "type": "borderRadius",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "8px",
+              "type": "borderRadius"
+            },
+            "name": "border-radius",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "card",
+              "live-tv",
+              "border-radius"
+            ]
+          }
+        },
+        "color": {
+          "header-bg": {
+            "default": {
+              "value": "#191a1a",
+              "type": "color",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "#191a1a",
+                "type": "color"
+              },
+              "name": "default",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "card",
+                "color",
+                "header-bg",
+                "default"
+              ]
+            },
+            "focus": {
+              "value": "#fafafa",
+              "type": "color",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "#fafafa",
+                "type": "color"
+              },
+              "name": "focus",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "card",
+                "color",
+                "header-bg",
+                "focus"
+              ]
+            }
+          },
+          "icon-fav": {
+            "active": {
+              "value": "#2bb1e3",
+              "type": "color",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "#2bb1e3",
+                "type": "color"
+              },
+              "name": "active",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "card",
+                "color",
+                "icon-fav",
+                "active"
+              ]
+            }
+          },
+          "scrim-overlay": {
+            "default": {
+              "value": "linear-gradient(180deg, #0000000d 0.25%, #0000008b 49.73%, #000000 100%)",
+              "type": "color",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "linear-gradient(180deg, #0000000d 0.25%, #0000008b 49.73%, #000000 100%)",
+                "type": "color"
+              },
+              "name": "default",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "card",
+                "color",
+                "scrim-overlay",
+                "default"
+              ]
+            },
+            "focus": {
+              "value": "#000000cc",
+              "type": "color",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "#000000cc",
+                "type": "color"
+              },
+              "name": "focus",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "card",
+                "color",
+                "scrim-overlay",
+                "focus"
+              ]
+            }
+          },
+          "border": {
+            "focus": {
+              "value": "#fafafa",
+              "type": "color",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "#fafafa",
+                "type": "color"
+              },
+              "name": "focus",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "card",
+                "color",
+                "border",
+                "focus"
+              ]
+            }
+          },
+          "base-bg": {
+            "default": {
+              "value": "#191a1a",
+              "type": "color",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "#191a1a",
+                "type": "color"
+              },
+              "name": "default",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "card",
+                "color",
+                "base-bg",
+                "default"
+              ]
+            },
+            "focus": {
+              "value": "#fafafa",
+              "type": "color",
+              "filePath": "data/output.json",
+              "isSource": true,
+              "original": {
+                "value": "#fafafa",
+                "type": "color"
+              },
+              "name": "focus",
+              "attributes": {},
+              "path": [
+                "ftv",
+                "tv",
+                "card",
+                "color",
+                "base-bg",
+                "focus"
+              ]
+            }
+          }
+        },
+        "spotlight": {
+          "border-radius": {
+            "value": "12px",
+            "type": "borderRadius",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "12px",
+              "type": "borderRadius"
+            },
+            "name": "border-radius",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "card",
+              "spotlight",
+              "border-radius"
+            ]
+          }
+        },
+        "show": {
+          "border-radius": {
+            "value": "8px",
+            "type": "borderRadius",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "8px",
+              "type": "borderRadius"
+            },
+            "name": "border-radius",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "card",
+              "show",
+              "border-radius"
+            ]
+          }
+        },
+        "border-width": {
+          "focus": {
+            "value": 8,
+            "type": "borderWidth",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": 8,
+              "type": "borderWidth"
+            },
+            "name": "focus",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "card",
+              "border-width",
+              "focus"
+            ]
+          }
+        }
+      },
+      "font-weight": {
+        "interactive": {
+          "m": {
+            "value": 700,
+            "type": "fontWeights",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": 700,
+              "type": "fontWeights"
+            },
+            "name": "m",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "font-weight",
+              "interactive",
+              "m"
+            ]
+          }
+        },
+        "label": {
+          "xs-bold": {
+            "value": 700,
+            "type": "fontWeights",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": 700,
+              "type": "fontWeights"
+            },
+            "name": "xs-bold",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "font-weight",
+              "label",
+              "xs-bold"
+            ]
+          },
+          "lg-bold": {
+            "value": 700,
+            "type": "fontWeights",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": 700,
+              "type": "fontWeights"
+            },
+            "name": "lg-bold",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "font-weight",
+              "label",
+              "lg-bold"
+            ]
+          },
+          "sm-bold": {
+            "value": 700,
+            "type": "fontWeights",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": 700,
+              "type": "fontWeights"
+            },
+            "name": "sm-bold",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "font-weight",
+              "label",
+              "sm-bold"
+            ]
+          }
+        },
+        "heading": {
+          "lg": {
+            "value": 800,
+            "type": "fontWeights",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": 800,
+              "type": "fontWeights"
+            },
+            "name": "lg",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "font-weight",
+              "heading",
+              "lg"
+            ]
+          },
+          "sm": {
+            "value": 700,
+            "type": "fontWeights",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": 700,
+              "type": "fontWeights"
+            },
+            "name": "sm",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "font-weight",
+              "heading",
+              "sm"
+            ]
+          }
+        }
+      },
+      "font-size": {
+        "1": {
+          "value": "18px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "18px",
+            "type": "fontSizes"
+          },
+          "name": "1",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "tv",
+            "font-size",
+            "1"
+          ]
+        },
+        "2": {
+          "value": "20px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "20px",
+            "type": "fontSizes"
+          },
+          "name": "2",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "tv",
+            "font-size",
+            "2"
+          ]
+        },
+        "3": {
+          "value": "22px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "22px",
+            "type": "fontSizes"
+          },
+          "name": "3",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "tv",
+            "font-size",
+            "3"
+          ]
+        },
+        "4": {
+          "value": "24px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "24px",
+            "type": "fontSizes"
+          },
+          "name": "4",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "tv",
+            "font-size",
+            "4"
+          ]
+        },
+        "5": {
+          "value": "28px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "28px",
+            "type": "fontSizes"
+          },
+          "name": "5",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "tv",
+            "font-size",
+            "5"
+          ]
+        },
+        "6": {
+          "value": "32px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "32px",
+            "type": "fontSizes"
+          },
+          "name": "6",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "tv",
+            "font-size",
+            "6"
+          ]
+        },
+        "7": {
+          "value": "36px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "36px",
+            "type": "fontSizes"
+          },
+          "name": "7",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "tv",
+            "font-size",
+            "7"
+          ]
+        },
+        "8": {
+          "value": "40px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "40px",
+            "type": "fontSizes"
+          },
+          "name": "8",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "tv",
+            "font-size",
+            "8"
+          ]
+        },
+        "9": {
+          "value": "44px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "44px",
+            "type": "fontSizes"
+          },
+          "name": "9",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "tv",
+            "font-size",
+            "9"
+          ]
+        },
+        "10": {
+          "value": "50px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "50px",
+            "type": "fontSizes"
+          },
+          "name": "10",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "tv",
+            "font-size",
+            "10"
+          ]
+        },
+        "11": {
+          "value": "56px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "56px",
+            "type": "fontSizes"
+          },
+          "name": "11",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "tv",
+            "font-size",
+            "11"
+          ]
+        },
+        "12": {
+          "value": "64px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "64px",
+            "type": "fontSizes"
+          },
+          "name": "12",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "tv",
+            "font-size",
+            "12"
+          ]
+        },
+        "13": {
+          "value": "72px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "72px",
+            "type": "fontSizes"
+          },
+          "name": "13",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "tv",
+            "font-size",
+            "13"
+          ]
+        },
+        "14": {
+          "value": "80px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "80px",
+            "type": "fontSizes"
+          },
+          "name": "14",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "tv",
+            "font-size",
+            "14"
+          ]
+        },
+        "15": {
+          "value": "90px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "90px",
+            "type": "fontSizes"
+          },
+          "name": "15",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "tv",
+            "font-size",
+            "15"
+          ]
+        },
+        "interactive": {
+          "m": {
+            "value": "28px",
+            "type": "fontSizes",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "28px",
+              "type": "fontSizes"
+            },
+            "name": "m",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "font-size",
+              "interactive",
+              "m"
+            ]
+          }
+        },
+        "label": {
+          "xs": {
+            "value": "18px",
+            "type": "fontSizes",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "18px",
+              "type": "fontSizes"
+            },
+            "name": "xs",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "font-size",
+              "label",
+              "xs"
+            ]
+          },
+          "lg": {
+            "value": "28px",
+            "type": "fontSizes",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "28px",
+              "type": "fontSizes"
+            },
+            "name": "lg",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "font-size",
+              "label",
+              "lg"
+            ]
+          },
+          "sm": {
+            "value": "20px",
+            "type": "fontSizes",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "20px",
+              "type": "fontSizes"
+            },
+            "name": "sm",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "font-size",
+              "label",
+              "sm"
+            ]
+          }
+        },
+        "heading": {
+          "lg": {
+            "value": "44px",
+            "type": "fontSizes",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "44px",
+              "type": "fontSizes"
+            },
+            "name": "lg",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "font-size",
+              "heading",
+              "lg"
+            ]
+          },
+          "sm": {
+            "value": "32px",
+            "type": "fontSizes",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "32px",
+              "type": "fontSizes"
+            },
+            "name": "sm",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "font-size",
+              "heading",
+              "sm"
+            ]
+          }
+        }
+      },
+      "line-height": {
+        "interactive": {
+          "m": {
+            "value": "125%",
+            "type": "lineHeights",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "125%",
+              "type": "lineHeights"
+            },
+            "name": "m",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "line-height",
+              "interactive",
+              "m"
+            ]
+          }
+        },
+        "label": {
+          "xs": {
+            "value": "125%",
+            "type": "lineHeights",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "125%",
+              "type": "lineHeights"
+            },
+            "name": "xs",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "line-height",
+              "label",
+              "xs"
+            ]
+          },
+          "lg": {
+            "value": "125%",
+            "type": "lineHeights",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "125%",
+              "type": "lineHeights"
+            },
+            "name": "lg",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "line-height",
+              "label",
+              "lg"
+            ]
+          },
+          "sm": {
+            "value": "125%",
+            "type": "lineHeights",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "125%",
+              "type": "lineHeights"
+            },
+            "name": "sm",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "line-height",
+              "label",
+              "sm"
+            ]
+          }
+        },
+        "heading": {
+          "lg": {
+            "value": "125%",
+            "type": "lineHeights",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "125%",
+              "type": "lineHeights"
+            },
+            "name": "lg",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "line-height",
+              "heading",
+              "lg"
+            ]
+          },
+          "sm": {
+            "value": "125%",
+            "type": "lineHeights",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "125%",
+              "type": "lineHeights"
+            },
+            "name": "sm",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "line-height",
+              "heading",
+              "sm"
+            ]
+          }
+        }
+      },
+      "letter-spacing": {
+        "interactive": {
+          "m": {
+            "value": "1%",
+            "type": "letterSpacing",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "1%",
+              "type": "letterSpacing"
+            },
+            "name": "m",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "letter-spacing",
+              "interactive",
+              "m"
+            ]
+          }
+        },
+        "label": {
+          "xs": {
+            "value": "3%",
+            "type": "letterSpacing",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "3%",
+              "type": "letterSpacing"
+            },
+            "name": "xs",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "letter-spacing",
+              "label",
+              "xs"
+            ]
+          },
+          "lg": {
+            "value": "1%",
+            "type": "letterSpacing",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "1%",
+              "type": "letterSpacing"
+            },
+            "name": "lg",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "letter-spacing",
+              "label",
+              "lg"
+            ]
+          },
+          "sm": {
+            "value": "125%",
+            "type": "letterSpacing",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "125%",
+              "type": "letterSpacing"
+            },
+            "name": "sm",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "letter-spacing",
+              "label",
+              "sm"
+            ]
+          }
+        },
+        "heading": {
+          "lg": {
+            "value": "0%",
+            "type": "letterSpacing",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "0%",
+              "type": "letterSpacing"
+            },
+            "name": "lg",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "letter-spacing",
+              "heading",
+              "lg"
+            ]
+          },
+          "sm": {
+            "value": "1%",
+            "type": "letterSpacing",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "1%",
+              "type": "letterSpacing"
+            },
+            "name": "sm",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "letter-spacing",
+              "heading",
+              "sm"
+            ]
+          }
+        }
+      },
+      "font-face": {
+        "interactive": {
+          "m": {
+            "value": "Qanelas",
+            "type": "fontFamilies",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "Qanelas",
+              "type": "fontFamilies"
+            },
+            "name": "m",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "font-face",
+              "interactive",
+              "m"
+            ]
+          }
+        },
+        "label": {
+          "xs": {
+            "value": "Qanelas",
+            "type": "fontFamilies",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "Qanelas",
+              "type": "fontFamilies"
+            },
+            "name": "xs",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "font-face",
+              "label",
+              "xs"
+            ]
+          },
+          "lg": {
+            "value": "Qanelas",
+            "type": "fontFamilies",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "Qanelas",
+              "type": "fontFamilies"
+            },
+            "name": "lg",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "font-face",
+              "label",
+              "lg"
+            ]
+          },
+          "sm": {
+            "value": "Qanelas",
+            "type": "fontFamilies",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "Qanelas",
+              "type": "fontFamilies"
+            },
+            "name": "sm",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "font-face",
+              "label",
+              "sm"
+            ]
+          }
+        },
+        "heading": {
+          "lg": {
+            "value": "Qanelas",
+            "type": "fontFamilies",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "Qanelas",
+              "type": "fontFamilies"
+            },
+            "name": "lg",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "font-face",
+              "heading",
+              "lg"
+            ]
+          },
+          "sm": {
+            "value": "Qanelas",
+            "type": "fontFamilies",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "Qanelas",
+              "type": "fontFamilies"
+            },
+            "name": "sm",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "font-face",
+              "heading",
+              "sm"
+            ]
+          }
+        }
+      },
+      "border-width": {
+        "focus": {
+          "value": 8,
+          "type": "borderWidth",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": 8,
+            "type": "borderWidth"
+          },
+          "name": "focus",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "tv",
+            "border-width",
+            "focus"
+          ]
+        }
+      }
+    },
+    "color": {
+      "text": {
+        "primary": {
+          "on-dark": {
+            "value": "#fafafa",
+            "type": "color",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "#fafafa",
+              "type": "color"
+            },
+            "name": "on-dark",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "color",
+              "text",
+              "primary",
+              "on-dark"
+            ]
+          },
+          "on-light": {
+            "value": "#0f1010",
+            "type": "color",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "#0f1010",
+              "type": "color"
+            },
+            "name": "on-light",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "color",
+              "text",
+              "primary",
+              "on-light"
+            ]
+          }
+        }
+      },
+      "bg-elevation": {
+        "1": {
+          "value": "#191a1a",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#191a1a",
+            "type": "color"
+          },
+          "name": "1",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "bg-elevation",
+            "1"
+          ]
+        },
+        "2": {
+          "value": "#232424",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#232424",
+            "type": "color"
+          },
+          "name": "2",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "bg-elevation",
+            "2"
+          ]
+        }
+      },
+      "icon": {
+        "primary": {
+          "on-dark": {
+            "value": "#fafafa",
+            "type": "color",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "#fafafa",
+              "type": "color"
+            },
+            "name": "on-dark",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "color",
+              "icon",
+              "primary",
+              "on-dark"
+            ]
+          }
+        }
+      },
+      "semantic": {
+        "live": {
+          "value": "#fa4616",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#fa4616",
+            "type": "color"
+          },
+          "name": "live",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "semantic",
+            "live"
+          ]
+        },
+        "favorite": {
+          "value": "#2bb1e3",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#2bb1e3",
+            "type": "color"
+          },
+          "name": "favorite",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "semantic",
+            "favorite"
+          ]
+        },
+        "focus": {
+          "value": "#fafafa",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#fafafa",
+            "type": "color"
+          },
+          "name": "focus",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "semantic",
+            "focus"
+          ]
+        }
+      },
+      "orange": {
+        "100": {
+          "value": "#fa4616",
+          "type": "color",
+          "description": "#FA4616",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#fa4616",
+            "type": "color",
+            "description": "#FA4616"
+          },
+          "name": "100",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "orange",
+            "100"
+          ]
+        },
+        "120": {
+          "value": "#fb6e48",
+          "type": "color",
+          "description": "#FB6E48",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#fb6e48",
+            "type": "color",
+            "description": "#FB6E48"
+          },
+          "name": "120",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "orange",
+            "120"
+          ]
+        },
+        "140": {
+          "value": "#fca28a",
+          "type": "color",
+          "description": "#FCA28A",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#fca28a",
+            "type": "color",
+            "description": "#FCA28A"
+          },
+          "name": "140",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "orange",
+            "140"
+          ]
+        },
+        "160": {
+          "value": "#fecabc",
+          "type": "color",
+          "description": "#FECABC",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#fecabc",
+            "type": "color",
+            "description": "#FECABC"
+          },
+          "name": "160",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "orange",
+            "160"
+          ]
+        },
+        "180": {
+          "value": "#fee4de",
+          "type": "color",
+          "description": "#FEE4DE",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#fee4de",
+            "type": "color",
+            "description": "#FEE4DE"
+          },
+          "name": "180",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "orange",
+            "180"
+          ]
+        },
+        "200": {
+          "value": "#fff2ee",
+          "type": "color",
+          "description": "#FFF2EE",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#fff2ee",
+            "type": "color",
+            "description": "#FFF2EE"
+          },
+          "name": "200",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "orange",
+            "200"
+          ]
+        },
+        "000": {
+          "value": "#110400",
+          "type": "color",
+          "description": "#110400",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#110400",
+            "type": "color",
+            "description": "#110400"
+          },
+          "name": "000",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "orange",
+            "000"
+          ]
+        },
+        "020": {
+          "value": "#220801",
+          "type": "color",
+          "description": "#220801",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#220801",
+            "type": "color",
+            "description": "#220801"
+          },
+          "name": "020",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "orange",
+            "020"
+          ]
+        },
+        "040": {
+          "value": "#430f01",
+          "type": "color",
+          "description": "#430F01",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#430f01",
+            "type": "color",
+            "description": "#430F01"
+          },
+          "name": "040",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "orange",
+            "040"
+          ]
+        },
+        "060": {
+          "value": "#751b03",
+          "type": "color",
+          "description": "#751B03",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#751b03",
+            "type": "color",
+            "description": "#751B03"
+          },
+          "name": "060",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "orange",
+            "060"
+          ]
+        },
+        "080": {
+          "value": "#b72a04",
+          "type": "color",
+          "description": "#B72A04",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#b72a04",
+            "type": "color",
+            "description": "#B72A04"
+          },
+          "name": "080",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "orange",
+            "080"
+          ]
+        }
+      },
+      "blue": {
+        "100": {
+          "value": "#2bb1e3",
+          "type": "color",
+          "description": "#2BB1E3",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#2bb1e3",
+            "type": "color",
+            "description": "#2BB1E3"
+          },
+          "name": "100",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "blue",
+            "100"
+          ]
+        },
+        "120": {
+          "value": "#67c7eb",
+          "type": "color",
+          "description": "#67C7EB",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#67c7eb",
+            "type": "color",
+            "description": "#67C7EB"
+          },
+          "name": "120",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "blue",
+            "120"
+          ]
+        },
+        "140": {
+          "value": "#a3ddf3",
+          "type": "color",
+          "description": "#A3DDF3",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#a3ddf3",
+            "type": "color",
+            "description": "#A3DDF3"
+          },
+          "name": "140",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "blue",
+            "140"
+          ]
+        },
+        "160": {
+          "value": "#d0eef9",
+          "type": "color",
+          "description": "#D0EEF9",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#d0eef9",
+            "type": "color",
+            "description": "#D0EEF9"
+          },
+          "name": "160",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "blue",
+            "160"
+          ]
+        },
+        "180": {
+          "value": "#eef9fd",
+          "type": "color",
+          "description": "#EEF9FD",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#eef9fd",
+            "type": "color",
+            "description": "#EEF9FD"
+          },
+          "name": "180",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "blue",
+            "180"
+          ]
+        },
+        "200": {
+          "value": "#fdfeff",
+          "type": "color",
+          "description": "#FDFEFF",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#fdfeff",
+            "type": "color",
+            "description": "#FDFEFF"
+          },
+          "name": "200",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "blue",
+            "200"
+          ]
+        },
+        "000": {
+          "value": "#020a0d",
+          "type": "color",
+          "description": "#020A0D",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#020a0d",
+            "type": "color",
+            "description": "#020A0D"
+          },
+          "name": "000",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "blue",
+            "000"
+          ]
+        },
+        "020": {
+          "value": "#04161c",
+          "type": "color",
+          "description": "#04161C",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#04161c",
+            "type": "color",
+            "description": "#04161C"
+          },
+          "name": "020",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "blue",
+            "020"
+          ]
+        },
+        "040": {
+          "value": "#082d3a",
+          "type": "color",
+          "description": "#082D3A",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#082d3a",
+            "type": "color",
+            "description": "#082D3A"
+          },
+          "name": "040",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "blue",
+            "040"
+          ]
+        },
+        "060": {
+          "value": "#0e4f67",
+          "type": "color",
+          "description": "#0E4F67",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#0e4f67",
+            "type": "color",
+            "description": "#0E4F67"
+          },
+          "name": "060",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "blue",
+            "060"
+          ]
+        },
+        "080": {
+          "value": "#167da3",
+          "type": "color",
+          "description": "#167DA3",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#167da3",
+            "type": "color",
+            "description": "#167DA3"
+          },
+          "name": "080",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "blue",
+            "080"
+          ]
+        }
+      },
+      "fublue": {
+        "100": {
+          "value": "#3e7edf",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#3e7edf",
+            "type": "color"
+          },
+          "name": "100",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "fublue",
+            "100"
+          ]
+        },
+        "120": {
+          "value": "#77a8f1",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#77a8f1",
+            "type": "color"
+          },
+          "name": "120",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "fublue",
+            "120"
+          ]
+        },
+        "140": {
+          "value": "#a6c7f9",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#a6c7f9",
+            "type": "color"
+          },
+          "name": "140",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "fublue",
+            "140"
+          ]
+        },
+        "160": {
+          "value": "#c0d8fb",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#c0d8fb",
+            "type": "color"
+          },
+          "name": "160",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "fublue",
+            "160"
+          ]
+        },
+        "180": {
+          "value": "#dae8fe",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#dae8fe",
+            "type": "color"
+          },
+          "name": "180",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "fublue",
+            "180"
+          ]
+        },
+        "200": {
+          "value": "#f3f8ff",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#f3f8ff",
+            "type": "color"
+          },
+          "name": "200",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "fublue",
+            "200"
+          ]
+        },
+        "000": {
+          "value": "#000f26",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#000f26",
+            "type": "color"
+          },
+          "name": "000",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "fublue",
+            "000"
+          ]
+        },
+        "020": {
+          "value": "#00204f",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#00204f",
+            "type": "color"
+          },
+          "name": "020",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "fublue",
+            "020"
+          ]
+        },
+        "040": {
+          "value": "#002f76",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#002f76",
+            "type": "color"
+          },
+          "name": "040",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "fublue",
+            "040"
+          ]
+        },
+        "060": {
+          "value": "#0949a9",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#0949a9",
+            "type": "color"
+          },
+          "name": "060",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "fublue",
+            "060"
+          ]
+        },
+        "080": {
+          "value": "#2367cd",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#2367cd",
+            "type": "color"
+          },
+          "name": "080",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "fublue",
+            "080"
+          ]
+        }
+      },
+      "purple": {
+        "100": {
+          "value": "#5634ce",
+          "type": "color",
+          "description": "#5634CE",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#5634ce",
+            "type": "color",
+            "description": "#5634CE"
+          },
+          "name": "100",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "purple",
+            "100"
+          ]
+        },
+        "120": {
+          "value": "#836adb",
+          "type": "color",
+          "description": "#836ADB",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#836adb",
+            "type": "color",
+            "description": "#836ADB"
+          },
+          "name": "120",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "purple",
+            "120"
+          ]
+        },
+        "140": {
+          "value": "#b1a1e9",
+          "type": "color",
+          "description": "#B1A1E9",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#b1a1e9",
+            "type": "color",
+            "description": "#B1A1E9"
+          },
+          "name": "140",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "purple",
+            "140"
+          ]
+        },
+        "160": {
+          "value": "#d3caf2",
+          "type": "color",
+          "description": "#D3CAF2",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#d3caf2",
+            "type": "color",
+            "description": "#D3CAF2"
+          },
+          "name": "160",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "purple",
+            "160"
+          ]
+        },
+        "180": {
+          "value": "#eae6f9",
+          "type": "color",
+          "description": "#EAE6F9",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#eae6f9",
+            "type": "color",
+            "description": "#EAE6F9"
+          },
+          "name": "180",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "purple",
+            "180"
+          ]
+        },
+        "200": {
+          "value": "#f5f3fc",
+          "type": "color",
+          "description": "#F5F3FC",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#f5f3fc",
+            "type": "color",
+            "description": "#F5F3FC"
+          },
+          "name": "200",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "purple",
+            "200"
+          ]
+        },
+        "000": {
+          "value": "#070411",
+          "type": "color",
+          "description": "#070411",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#070411",
+            "type": "color",
+            "description": "#070411"
+          },
+          "name": "000",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "purple",
+            "000"
+          ]
+        },
+        "020": {
+          "value": "#0c071e",
+          "type": "color",
+          "description": "#0C071E",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#0c071e",
+            "type": "color",
+            "description": "#0C071E"
+          },
+          "name": "020",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "purple",
+            "020"
+          ]
+        },
+        "040": {
+          "value": "#170e39",
+          "type": "color",
+          "description": "#170E39",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#170e39",
+            "type": "color",
+            "description": "#170E39"
+          },
+          "name": "040",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "purple",
+            "040"
+          ]
+        },
+        "060": {
+          "value": "#281862",
+          "type": "color",
+          "description": "#281862",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#281862",
+            "type": "color",
+            "description": "#281862"
+          },
+          "name": "060",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "purple",
+            "060"
+          ]
+        },
+        "080": {
+          "value": "#3e2599",
+          "type": "color",
+          "description": "#3E2599",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#3e2599",
+            "type": "color",
+            "description": "#3E2599"
+          },
+          "name": "080",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "purple",
+            "080"
+          ]
+        }
+      },
+      "green": {
+        "100": {
+          "value": "#008817",
+          "type": "color",
+          "description": "#008817",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#008817",
+            "type": "color",
+            "description": "#008817"
+          },
+          "name": "100",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "green",
+            "100"
+          ]
+        },
+        "120": {
+          "value": "#089d21",
+          "type": "color",
+          "description": "#089D21",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#089d21",
+            "type": "color",
+            "description": "#089D21"
+          },
+          "name": "120",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "green",
+            "120"
+          ]
+        },
+        "140": {
+          "value": "#23b13b",
+          "type": "color",
+          "description": "#23B13B",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#23b13b",
+            "type": "color",
+            "description": "#23B13B"
+          },
+          "name": "140",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "green",
+            "140"
+          ]
+        },
+        "160": {
+          "value": "#4bc55f",
+          "type": "color",
+          "description": "#4BC55F",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#4bc55f",
+            "type": "color",
+            "description": "#4BC55F"
+          },
+          "name": "160",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "green",
+            "160"
+          ]
+        },
+        "180": {
+          "value": "#7ed98d",
+          "type": "color",
+          "description": "#7ED98D",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#7ed98d",
+            "type": "color",
+            "description": "#7ED98D"
+          },
+          "name": "180",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "green",
+            "180"
+          ]
+        },
+        "200": {
+          "value": "#9ce3a7",
+          "type": "color",
+          "description": "#9CE3A7",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#9ce3a7",
+            "type": "color",
+            "description": "#9CE3A7"
+          },
+          "name": "200",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "green",
+            "200"
+          ]
+        },
+        "220": {
+          "value": "#bbedc3",
+          "type": "color",
+          "description": "#BBEDC3",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#bbedc3",
+            "type": "color",
+            "description": "#BBEDC3"
+          },
+          "name": "220",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "green",
+            "220"
+          ]
+        },
+        "000": {
+          "value": "#002406",
+          "type": "color",
+          "description": "#002406",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#002406",
+            "type": "color",
+            "description": "#002406"
+          },
+          "name": "000",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "green",
+            "000"
+          ]
+        },
+        "020": {
+          "value": "#003809",
+          "type": "color",
+          "description": "#003809",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#003809",
+            "type": "color",
+            "description": "#003809"
+          },
+          "name": "020",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "green",
+            "020"
+          ]
+        },
+        "040": {
+          "value": "#004c0d",
+          "type": "color",
+          "description": "#004C0D",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#004c0d",
+            "type": "color",
+            "description": "#004C0D"
+          },
+          "name": "040",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "green",
+            "040"
+          ]
+        },
+        "060": {
+          "value": "#006010",
+          "type": "color",
+          "description": "#006010",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#006010",
+            "type": "color",
+            "description": "#006010"
+          },
+          "name": "060",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "green",
+            "060"
+          ]
+        },
+        "080": {
+          "value": "#007413",
+          "type": "color",
+          "description": "#007413",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#007413",
+            "type": "color",
+            "description": "#007413"
+          },
+          "name": "080",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "green",
+            "080"
+          ]
+        }
+      },
+      "red": {
+        "100": {
+          "value": "#cf1212",
+          "type": "color",
+          "description": "#CF1212",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#cf1212",
+            "type": "color",
+            "description": "#CF1212"
+          },
+          "name": "100",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "red",
+            "100"
+          ]
+        },
+        "120": {
+          "value": "#e02e2e",
+          "type": "color",
+          "description": "#E02E2E",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#e02e2e",
+            "type": "color",
+            "description": "#E02E2E"
+          },
+          "name": "120",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "red",
+            "120"
+          ]
+        },
+        "140": {
+          "value": "#ed5454",
+          "type": "color",
+          "description": "#ED5454",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#ed5454",
+            "type": "color",
+            "description": "#ED5454"
+          },
+          "name": "140",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "red",
+            "140"
+          ]
+        },
+        "160": {
+          "value": "#f68383",
+          "type": "color",
+          "description": "#F68383",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#f68383",
+            "type": "color",
+            "description": "#F68383"
+          },
+          "name": "160",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "red",
+            "160"
+          ]
+        },
+        "180": {
+          "value": "#fcbaba",
+          "type": "color",
+          "description": "#FCBABA",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#fcbaba",
+            "type": "color",
+            "description": "#FCBABA"
+          },
+          "name": "180",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "red",
+            "180"
+          ]
+        },
+        "200": {
+          "value": "#fdd6d6",
+          "type": "color",
+          "description": "#FDD6D6",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#fdd6d6",
+            "type": "color",
+            "description": "#FDD6D6"
+          },
+          "name": "200",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "red",
+            "200"
+          ]
+        },
+        "220": {
+          "value": "#fff2f2",
+          "type": "color",
+          "description": "#FFF2F2",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#fff2f2",
+            "type": "color",
+            "description": "#FFF2F2"
+          },
+          "name": "220",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "red",
+            "220"
+          ]
+        },
+        "000": {
+          "value": "#2e0000",
+          "type": "color",
+          "description": "#2E0000",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#2e0000",
+            "type": "color",
+            "description": "#2E0000"
+          },
+          "name": "000",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "red",
+            "000"
+          ]
+        },
+        "020": {
+          "value": "#550000",
+          "type": "color",
+          "description": "#550000",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#550000",
+            "type": "color",
+            "description": "#550000"
+          },
+          "name": "020",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "red",
+            "020"
+          ]
+        },
+        "040": {
+          "value": "#7b0000",
+          "type": "color",
+          "description": "#7B0000",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#7b0000",
+            "type": "color",
+            "description": "#7B0000"
+          },
+          "name": "040",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "red",
+            "040"
+          ]
+        },
+        "060": {
+          "value": "#9d0000",
+          "type": "color",
+          "description": "#9D0000",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#9d0000",
+            "type": "color",
+            "description": "#9D0000"
+          },
+          "name": "060",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "red",
+            "060"
+          ]
+        },
+        "080": {
+          "value": "#b90000",
+          "type": "color",
+          "description": "#B90000",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#b90000",
+            "type": "color",
+            "description": "#B90000"
+          },
+          "name": "080",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "red",
+            "080"
+          ]
+        }
+      },
+      "yellow": {
+        "100": {
+          "value": "#e9c22e",
+          "type": "color",
+          "description": "#E9C22E",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#e9c22e",
+            "type": "color",
+            "description": "#E9C22E"
+          },
+          "name": "100",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "yellow",
+            "100"
+          ]
+        },
+        "120": {
+          "value": "#f1cc45",
+          "type": "color",
+          "description": "#F1CC45",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#f1cc45",
+            "type": "color",
+            "description": "#F1CC45"
+          },
+          "name": "120",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "yellow",
+            "120"
+          ]
+        },
+        "140": {
+          "value": "#f7d762",
+          "type": "color",
+          "description": "#F7D762",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#f7d762",
+            "type": "color",
+            "description": "#F7D762"
+          },
+          "name": "140",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "yellow",
+            "140"
+          ]
+        },
+        "160": {
+          "value": "#fbe184",
+          "type": "color",
+          "description": "#FBE184",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#fbe184",
+            "type": "color",
+            "description": "#FBE184"
+          },
+          "name": "160",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "yellow",
+            "160"
+          ]
+        },
+        "180": {
+          "value": "#fdecac",
+          "type": "color",
+          "description": "#FDECAC",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#fdecac",
+            "type": "color",
+            "description": "#FDECAC"
+          },
+          "name": "180",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "yellow",
+            "180"
+          ]
+        },
+        "200": {
+          "value": "#fef1c0",
+          "type": "color",
+          "description": "#FEF1C0",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#fef1c0",
+            "type": "color",
+            "description": "#FEF1C0"
+          },
+          "name": "200",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "yellow",
+            "200"
+          ]
+        },
+        "220": {
+          "value": "#fff6d4",
+          "type": "color",
+          "description": "#FFF6D4",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#fff6d4",
+            "type": "color",
+            "description": "#FFF6D4"
+          },
+          "name": "220",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "yellow",
+            "220"
+          ]
+        },
+        "000": {
+          "value": "#a18102",
+          "type": "color",
+          "description": "#1A190D",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#a18102",
+            "type": "color",
+            "description": "#1A190D"
+          },
+          "name": "000",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "yellow",
+            "000"
+          ]
+        },
+        "020": {
+          "value": "#b28f04",
+          "type": "color",
+          "description": "#B28F04",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#b28f04",
+            "type": "color",
+            "description": "#B28F04"
+          },
+          "name": "020",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "yellow",
+            "020"
+          ]
+        },
+        "040": {
+          "value": "#c39d09",
+          "type": "color",
+          "description": "#C39D09",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#c39d09",
+            "type": "color",
+            "description": "#C39D09"
+          },
+          "name": "040",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "yellow",
+            "040"
+          ]
+        },
+        "060": {
+          "value": "#d3aa11",
+          "type": "color",
+          "description": "#D3AA11",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#d3aa11",
+            "type": "color",
+            "description": "#D3AA11"
+          },
+          "name": "060",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "yellow",
+            "060"
+          ]
+        },
+        "080": {
+          "value": "#dfb71d",
+          "type": "color",
+          "description": "#DFB71D",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#dfb71d",
+            "type": "color",
+            "description": "#DFB71D"
+          },
+          "name": "080",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "yellow",
+            "080"
+          ]
+        }
+      },
+      "grey": {
+        "100": {
+          "value": "#414444",
+          "type": "color",
+          "description": "#414444 (1.91b, 7.93w)",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#414444",
+            "type": "color",
+            "description": "#414444 (1.91b, 7.93w)"
+          },
+          "name": "100",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "grey",
+            "100"
+          ]
+        },
+        "120": {
+          "value": "#4b4e4e",
+          "type": "color",
+          "description": "#4B4E4E (2.24b, 6.78w)",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#4b4e4e",
+            "type": "color",
+            "description": "#4B4E4E (2.24b, 6.78w)"
+          },
+          "name": "120",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "grey",
+            "120"
+          ]
+        },
+        "140": {
+          "value": "#555858",
+          "type": "color",
+          "description": "#555858 (2.62b, 5.79w)",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#555858",
+            "type": "color",
+            "description": "#555858 (2.62b, 5.79w)"
+          },
+          "name": "140",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "grey",
+            "140"
+          ]
+        },
+        "160": {
+          "value": "#5f6363",
+          "type": "color",
+          "description": "#5F6363 (3.09b, 4.90w)",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#5f6363",
+            "type": "color",
+            "description": "#5F6363 (3.09b, 4.90w)"
+          },
+          "name": "160",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "grey",
+            "160"
+          ]
+        },
+        "180": {
+          "value": "#737878",
+          "type": "color",
+          "description": "#737878 (4.16b, 3.65w)",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#737878",
+            "type": "color",
+            "description": "#737878 (4.16b, 3.65w)"
+          },
+          "name": "180",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "grey",
+            "180"
+          ]
+        },
+        "200": {
+          "value": "#7d8282",
+          "type": "color",
+          "description": "#7D8282 (4.80b, 3.16w)",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#7d8282",
+            "type": "color",
+            "description": "#7D8282 (4.80b, 3.16w)"
+          },
+          "name": "200",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "grey",
+            "200"
+          ]
+        },
+        "220": {
+          "value": "#878c8c",
+          "type": "color",
+          "description": "#878C8C (5.55b, 2.73w)",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#878c8c",
+            "type": "color",
+            "description": "#878C8C (5.55b, 2.73w)"
+          },
+          "name": "220",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "grey",
+            "220"
+          ]
+        },
+        "240": {
+          "value": "#929696",
+          "type": "color",
+          "description": "#929696 (6.31b, 2.40w)",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#929696",
+            "type": "color",
+            "description": "#929696 (6.31b, 2.40w)"
+          },
+          "name": "240",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "grey",
+            "240"
+          ]
+        },
+        "260": {
+          "value": "#9ca0a0",
+          "type": "color",
+          "description": "#9CA0A0 (7.15b, 2.21w)",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#9ca0a0",
+            "type": "color",
+            "description": "#9CA0A0 (7.15b, 2.21w)"
+          },
+          "name": "260",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "grey",
+            "260"
+          ]
+        },
+        "280": {
+          "value": "#a7aaaa",
+          "type": "color",
+          "description": "#A7AAAA (8.07b, 1.88w)",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#a7aaaa",
+            "type": "color",
+            "description": "#A7AAAA (8.07b, 1.88w)"
+          },
+          "name": "280",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "grey",
+            "280"
+          ]
+        },
+        "300": {
+          "value": "#b1b4b4",
+          "type": "color",
+          "description": "#B1B4B4 (9.05b, 1.68w)",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#b1b4b4",
+            "type": "color",
+            "description": "#B1B4B4 (9.05b, 1.68w)"
+          },
+          "name": "300",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "grey",
+            "300"
+          ]
+        },
+        "320": {
+          "value": "#bbbebe",
+          "type": "color",
+          "description": "#BBBEBE (10.1b, 1.50w)",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#bbbebe",
+            "type": "color",
+            "description": "#BBBEBE (10.1b, 1.50w)"
+          },
+          "name": "320",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "grey",
+            "320"
+          ]
+        },
+        "340": {
+          "value": "#c6c8c8",
+          "type": "color",
+          "description": "#C6C8C8 (11.23b, 1.35w)",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#c6c8c8",
+            "type": "color",
+            "description": "#C6C8C8 (11.23b, 1.35w)"
+          },
+          "name": "340",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "grey",
+            "340"
+          ]
+        },
+        "360": {
+          "value": "#d0d2d2",
+          "type": "color",
+          "description": "#D0D2D2 (12.46b, 1.22w)",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#d0d2d2",
+            "type": "color",
+            "description": "#D0D2D2 (12.46b, 1.22w)"
+          },
+          "name": "360",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "grey",
+            "360"
+          ]
+        },
+        "380": {
+          "value": "#dbdcdc",
+          "type": "color",
+          "description": "#DBDCDC (13.84b, 1.09w)",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#dbdcdc",
+            "type": "color",
+            "description": "#DBDCDC (13.84b, 1.09w)"
+          },
+          "name": "380",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "grey",
+            "380"
+          ]
+        },
+        "400": {
+          "value": "#e5e6e6",
+          "type": "color",
+          "description": "#E5E6E6 (15.21b, 1.10w)",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#e5e6e6",
+            "type": "color",
+            "description": "#E5E6E6 (15.21b, 1.10w)"
+          },
+          "name": "400",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "grey",
+            "400"
+          ]
+        },
+        "420": {
+          "value": "#eff0f0",
+          "type": "color",
+          "description": "#EFF0F0 (16.69b, 1.09w)",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#eff0f0",
+            "type": "color",
+            "description": "#EFF0F0 (16.69b, 1.09w)"
+          },
+          "name": "420",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "grey",
+            "420"
+          ]
+        },
+        "440": {
+          "value": "#fafafa",
+          "type": "color",
+          "description": "#FAFAFA (18.23b, 1.19w)",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#fafafa",
+            "type": "color",
+            "description": "#FAFAFA (18.23b, 1.19w)"
+          },
+          "name": "440",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "grey",
+            "440"
+          ]
+        },
+        "000": {
+          "value": "#0f1010",
+          "type": "color",
+          "description": "#0F1010 (1.00b, 15.21w)",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#0f1010",
+            "type": "color",
+            "description": "#0F1010 (1.00b, 15.21w)"
+          },
+          "name": "000",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "grey",
+            "000"
+          ]
+        },
+        "020": {
+          "value": "#191a1a",
+          "type": "color",
+          "description": "#191A1A (1.09b, 13.94w)",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#191a1a",
+            "type": "color",
+            "description": "#191A1A (1.09b, 13.94w)"
+          },
+          "name": "020",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "grey",
+            "020"
+          ]
+        },
+        "040": {
+          "value": "#232424",
+          "type": "color",
+          "description": "#232424 (1.22b, 12.44w)",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#232424",
+            "type": "color",
+            "description": "#232424 (1.22b, 12.44w)"
+          },
+          "name": "040",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "grey",
+            "040"
+          ]
+        },
+        "060": {
+          "value": "#2d2f2f",
+          "type": "color",
+          "description": "#2D2F2F (1.40b, 10.85w)",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#2d2f2f",
+            "type": "color",
+            "description": "#2D2F2F (1.40b, 10.85w)"
+          },
+          "name": "060",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "grey",
+            "060"
+          ]
+        },
+        "080": {
+          "value": "#373939",
+          "type": "color",
+          "description": "#373939 (1.62b, 9.37w)",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#373939",
+            "type": "color",
+            "description": "#373939 (1.62b, 9.37w)"
+          },
+          "name": "080",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "grey",
+            "080"
+          ]
+        }
+      },
+      "black": {
+        "value": "#000000",
+        "type": "color",
+        "description": "#000000",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "#000000",
+          "type": "color",
+          "description": "#000000"
+        },
+        "name": "black",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "color",
+          "black"
+        ]
+      },
+      "white": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "#FFFFFF",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "#FFFFFF"
+        },
+        "name": "white",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "color",
+          "white"
+        ]
+      },
+      "Gradients": {
+        "Sunset": {
+          "value": "linear-gradient(135deg, #fa4616 0%, #721e4e 100%)",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "linear-gradient(135deg, #fa4616 0%, #721e4e 100%)",
+            "type": "color"
+          },
+          "name": "Sunset",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "Gradients",
+            "Sunset"
+          ]
+        },
+        "Dusk": {
+          "value": "linear-gradient(135deg, #6a11cb 0%, #2575fc 100%)",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "linear-gradient(135deg, #6a11cb 0%, #2575fc 100%)",
+            "type": "color"
+          },
+          "name": "Dusk",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "Gradients",
+            "Dusk"
+          ]
+        },
+        "Dawn": {
+          "value": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+            "type": "color"
+          },
+          "name": "Dawn",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "Gradients",
+            "Dawn"
+          ]
+        },
+        "blue-gradient": {
+          "value": "linear-gradient(135deg, #1c7ae4 0%, #145aa8 100%)",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "linear-gradient(135deg, #1c7ae4 0%, #145aa8 100%)",
+            "type": "color"
+          },
+          "name": "blue-gradient",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "Gradients",
+            "blue-gradient"
+          ]
+        }
+      },
+      "scrim": {
+        "fade": {
+          "value": "linear-gradient(180deg, #0000000d 0.25%, #0000008b 49.73%, #000000 100%)",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "linear-gradient(180deg, #0000000d 0.25%, #0000008b 49.73%, #000000 100%)",
+            "type": "color"
+          },
+          "name": "fade",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "scrim",
+            "fade"
+          ]
+        },
+        "solid": {
+          "value": "#000000cc",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#000000cc",
+            "type": "color"
+          },
+          "name": "solid",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "scrim",
+            "solid"
+          ]
+        }
+      }
+    },
+    "action": {
+      "border-radius": {
+        "value": "100%",
+        "type": "borderRadius",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "100%",
+          "type": "borderRadius"
+        },
+        "name": "border-radius",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "action",
+          "border-radius"
+        ]
+      }
+    },
+    "font-face": {
+      "primary": {
+        "value": "Qanelas",
+        "type": "fontFamilies",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "Qanelas",
+          "type": "fontFamilies"
+        },
+        "name": "primary",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "font-face",
+          "primary"
+        ]
+      },
+      "system--Android-FireTV": {
+        "value": "Roboto",
+        "type": "fontFamilies",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "Roboto",
+          "type": "fontFamilies"
+        },
+        "name": "system--Android-FireTV",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "font-face",
+          "system--Android-FireTV"
+        ]
+      },
+      "system--Web": {
+        "value": "Helvetica",
+        "type": "fontFamilies",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "Helvetica",
+          "type": "fontFamilies"
+        },
+        "name": "system--Web",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "font-face",
+          "system--Web"
+        ]
+      },
+      "system--Roku": {
+        "value": "Gotham Book",
+        "type": "fontFamilies",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "Gotham Book",
+          "type": "fontFamilies"
+        },
+        "name": "system--Roku",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "font-face",
+          "system--Roku"
+        ]
+      },
+      "system--iOS-tvOS": {
+        "value": "SF Pro Text",
+        "type": "fontFamilies",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "SF Pro Text",
+          "type": "fontFamilies"
+        },
+        "name": "system--iOS-tvOS",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "font-face",
+          "system--iOS-tvOS"
+        ]
+      }
+    },
+    "line-height": {
+      "xs": {
+        "value": "100%",
+        "type": "lineHeights",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "100%",
+          "type": "lineHeights"
+        },
+        "name": "xs",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "line-height",
+          "xs"
+        ]
+      },
+      "sm": {
+        "value": "125%",
+        "type": "lineHeights",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "125%",
+          "type": "lineHeights"
+        },
+        "name": "sm",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "line-height",
+          "sm"
+        ]
+      },
+      "md": {
+        "value": "150%",
+        "type": "lineHeights",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "150%",
+          "type": "lineHeights"
+        },
+        "name": "md",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "line-height",
+          "md"
+        ]
+      },
+      "lg": {
+        "value": "175%",
+        "type": "lineHeights",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "175%",
+          "type": "lineHeights"
+        },
+        "name": "lg",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "line-height",
+          "lg"
+        ]
+      }
+    },
+    "font-weight": {
+      "medium": {
+        "value": 500,
+        "type": "fontWeights",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": 500,
+          "type": "fontWeights"
+        },
+        "name": "medium",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "font-weight",
+          "medium"
+        ]
+      },
+      "semibold": {
+        "value": 600,
+        "type": "fontWeights",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": 600,
+          "type": "fontWeights"
+        },
+        "name": "semibold",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "font-weight",
+          "semibold"
+        ]
+      },
+      "bold": {
+        "value": 700,
+        "type": "fontWeights",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": 700,
+          "type": "fontWeights"
+        },
+        "name": "bold",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "font-weight",
+          "bold"
+        ]
+      },
+      "extrabold": {
+        "value": 800,
+        "type": "fontWeights",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": 800,
+          "type": "fontWeights"
+        },
+        "name": "extrabold",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "font-weight",
+          "extrabold"
+        ]
+      }
+    },
+    "letter-spacing": {
+      "0": {
+        "value": "0%",
+        "type": "letterSpacing",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "0%",
+          "type": "letterSpacing"
+        },
+        "name": "0",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "letter-spacing",
+          "0"
+        ]
+      },
+      "1": {
+        "value": "1%",
+        "type": "letterSpacing",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "1%",
+          "type": "letterSpacing"
+        },
+        "name": "1",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "letter-spacing",
+          "1"
+        ]
+      },
+      "2": {
+        "value": "2%",
+        "type": "letterSpacing",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "2%",
+          "type": "letterSpacing"
+        },
+        "name": "2",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "letter-spacing",
+          "2"
+        ]
+      },
+      "3": {
+        "value": "3%",
+        "type": "letterSpacing",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "3%",
+          "type": "letterSpacing"
+        },
+        "name": "3",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "letter-spacing",
+          "3"
+        ]
+      },
+      "4": {
+        "value": "4%",
+        "type": "letterSpacing",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "4%",
+          "type": "letterSpacing"
+        },
+        "name": "4",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "letter-spacing",
+          "4"
+        ]
+      }
+    },
+    "mbl-or-web": {
+      "font-size": {
+        "1": {
+          "value": "10px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "10px",
+            "type": "fontSizes"
+          },
+          "name": "1",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "mbl-or-web",
+            "font-size",
+            "1"
+          ]
+        },
+        "2": {
+          "value": "11px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "11px",
+            "type": "fontSizes"
+          },
+          "name": "2",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "mbl-or-web",
+            "font-size",
+            "2"
+          ]
+        },
+        "3": {
+          "value": "12px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "12px",
+            "type": "fontSizes"
+          },
+          "name": "3",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "mbl-or-web",
+            "font-size",
+            "3"
+          ]
+        },
+        "4": {
+          "value": "14px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "14px",
+            "type": "fontSizes"
+          },
+          "name": "4",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "mbl-or-web",
+            "font-size",
+            "4"
+          ]
+        },
+        "5": {
+          "value": "16px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "16px",
+            "type": "fontSizes"
+          },
+          "name": "5",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "mbl-or-web",
+            "font-size",
+            "5"
+          ]
+        },
+        "6": {
+          "value": "18px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "18px",
+            "type": "fontSizes"
+          },
+          "name": "6",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "mbl-or-web",
+            "font-size",
+            "6"
+          ]
+        },
+        "7": {
+          "value": "20px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "20px",
+            "type": "fontSizes"
+          },
+          "name": "7",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "mbl-or-web",
+            "font-size",
+            "7"
+          ]
+        },
+        "8": {
+          "value": "22px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "22px",
+            "type": "fontSizes"
+          },
+          "name": "8",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "mbl-or-web",
+            "font-size",
+            "8"
+          ]
+        },
+        "9": {
+          "value": "24px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "24px",
+            "type": "fontSizes"
+          },
+          "name": "9",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "mbl-or-web",
+            "font-size",
+            "9"
+          ]
+        },
+        "10": {
+          "value": "28px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "28px",
+            "type": "fontSizes"
+          },
+          "name": "10",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "mbl-or-web",
+            "font-size",
+            "10"
+          ]
+        },
+        "11": {
+          "value": "32px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "32px",
+            "type": "fontSizes"
+          },
+          "name": "11",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "mbl-or-web",
+            "font-size",
+            "11"
+          ]
+        },
+        "12": {
+          "value": "36px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "36px",
+            "type": "fontSizes"
+          },
+          "name": "12",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "mbl-or-web",
+            "font-size",
+            "12"
+          ]
+        },
+        "13": {
+          "value": "40px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "40px",
+            "type": "fontSizes"
+          },
+          "name": "13",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "mbl-or-web",
+            "font-size",
+            "13"
+          ]
+        },
+        "14": {
+          "value": "46px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "46px",
+            "type": "fontSizes"
+          },
+          "name": "14",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "mbl-or-web",
+            "font-size",
+            "14"
+          ]
+        },
+        "15": {
+          "value": "52px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "52px",
+            "type": "fontSizes"
+          },
+          "name": "15",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "mbl-or-web",
+            "font-size",
+            "15"
+          ]
+        },
+        "16": {
+          "value": "58px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "58px",
+            "type": "fontSizes"
+          },
+          "name": "16",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "mbl-or-web",
+            "font-size",
+            "16"
+          ]
+        },
+        "17": {
+          "value": "66px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "66px",
+            "type": "fontSizes"
+          },
+          "name": "17",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "mbl-or-web",
+            "font-size",
+            "17"
+          ]
+        }
+      }
+    },
+    "text-case": {
+      "none": {
+        "value": "none",
+        "type": "textCase",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "none",
+          "type": "textCase"
+        },
+        "name": "none",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "text-case",
+          "none"
+        ]
+      },
+      "uppercase": {
+        "value": "uppercase",
+        "type": "textCase",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "uppercase",
+          "type": "textCase"
+        },
+        "name": "uppercase",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "text-case",
+          "uppercase"
+        ]
+      },
+      "lowercase": {
+        "value": "lowercase",
+        "type": "textCase",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "lowercase",
+          "type": "textCase"
+        },
+        "name": "lowercase",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "text-case",
+          "lowercase"
+        ]
+      },
+      "titlecase": {
+        "value": "titlecase",
+        "type": "textCase",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "titlecase",
+          "type": "textCase"
+        },
+        "name": "titlecase",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "text-case",
+          "titlecase"
+        ]
+      }
+    },
+    "text-decoration": {
+      "none": {
+        "value": "none",
+        "type": "textDecoration",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "none",
+          "type": "textDecoration"
+        },
+        "name": "none",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "text-decoration",
+          "none"
+        ]
+      },
+      "underline": {
+        "value": "underline",
+        "type": "textDecoration",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "underline",
+          "type": "textDecoration"
+        },
+        "name": "underline",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "text-decoration",
+          "underline"
+        ]
+      },
+      "strikethrough": {
+        "value": "strikethrough",
+        "type": "textDecoration",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "strikethrough",
+          "type": "textDecoration"
+        },
+        "name": "strikethrough",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "text-decoration",
+          "strikethrough"
+        ]
+      }
+    },
+    "size": {
+      "icon": {
+        "sm": {
+          "value": "16px",
+          "type": "sizing",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "16px",
+            "type": "sizing"
+          },
+          "name": "sm",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "size",
+            "icon",
+            "sm"
+          ]
+        },
+        "md": {
+          "value": "24px",
+          "type": "sizing",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "24px",
+            "type": "sizing"
+          },
+          "name": "md",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "size",
+            "icon",
+            "md"
+          ]
+        },
+        "lg": {
+          "value": "32px",
+          "type": "sizing",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "32px",
+            "type": "sizing"
+          },
+          "name": "lg",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "size",
+            "icon",
+            "lg"
+          ]
+        }
+      }
+    },
+    "border-radius": {
+      "xs": {
+        "value": "2px",
+        "type": "borderRadius",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "2px",
+          "type": "borderRadius"
+        },
+        "name": "xs",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "border-radius",
+          "xs"
+        ]
+      },
+      "sm": {
+        "value": "4px",
+        "type": "borderRadius",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "4px",
+          "type": "borderRadius"
+        },
+        "name": "sm",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "border-radius",
+          "sm"
+        ]
+      },
+      "md": {
+        "value": "8px",
+        "type": "borderRadius",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "8px",
+          "type": "borderRadius"
+        },
+        "name": "md",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "border-radius",
+          "md"
+        ]
+      },
+      "lg": {
+        "value": "12px",
+        "type": "borderRadius",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "12px",
+          "type": "borderRadius"
+        },
+        "name": "lg",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "border-radius",
+          "lg"
+        ]
+      },
+      "xl": {
+        "value": "16px",
+        "type": "borderRadius",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "16px",
+          "type": "borderRadius"
+        },
+        "name": "xl",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "border-radius",
+          "xl"
+        ]
+      },
+      "pill": {
+        "value": "100%",
+        "type": "borderRadius",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "100%",
+          "type": "borderRadius"
+        },
+        "name": "pill",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "border-radius",
+          "pill"
+        ]
+      }
+    },
+    "border-width": {
+      "1": {
+        "value": "1px",
+        "type": "borderWidth",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "1px",
+          "type": "borderWidth"
+        },
+        "name": "1",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "border-width",
+          "1"
+        ]
+      },
+      "2": {
+        "value": "2px",
+        "type": "borderWidth",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "2px",
+          "type": "borderWidth"
+        },
+        "name": "2",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "border-width",
+          "2"
+        ]
+      },
+      "3": {
+        "value": "3px",
+        "type": "borderWidth",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "3px",
+          "type": "borderWidth"
+        },
+        "name": "3",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "border-width",
+          "3"
+        ]
+      },
+      "4": {
+        "value": "4px",
+        "type": "borderWidth",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "4px",
+          "type": "borderWidth"
+        },
+        "name": "4",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "border-width",
+          "4"
+        ]
+      },
+      "8": {
+        "value": 8,
+        "type": "borderWidth",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": 8,
+          "type": "borderWidth"
+        },
+        "name": "8",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "border-width",
+          "8"
+        ]
+      }
+    },
+    "drop-shadow": {
+      "xs": {
+        "value": {
+          "x": 1,
+          "y": 1,
+          "blur": 0,
+          "spread": 0,
+          "color": "#000000",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": {
+            "x": 1,
+            "y": 1,
+            "blur": 0,
+            "spread": 0,
+            "color": "#000000",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        },
+        "name": "xs",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "drop-shadow",
+          "xs"
+        ]
+      }
+    },
+    "space": {
+      "xxs": {
+        "value": "4px",
+        "type": "spacing",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "4px",
+          "type": "spacing"
+        },
+        "name": "xxs",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "space",
+          "xxs"
+        ]
+      },
+      "xs": {
+        "value": "8px",
+        "type": "spacing",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "8px",
+          "type": "spacing"
+        },
+        "name": "xs",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "space",
+          "xs"
+        ]
+      },
+      "sm": {
+        "value": "16px",
+        "type": "spacing",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "16px",
+          "type": "spacing"
+        },
+        "name": "sm",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "space",
+          "sm"
+        ]
+      },
+      "md": {
+        "value": "24px",
+        "type": "spacing",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "24px",
+          "type": "spacing"
+        },
+        "name": "md",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "space",
+          "md"
+        ]
+      },
+      "lg": {
+        "value": "36px",
+        "type": "spacing",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "36px",
+          "type": "spacing"
+        },
+        "name": "lg",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "space",
+          "lg"
+        ]
+      },
+      "xl": {
+        "value": "48px",
+        "type": "spacing",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "48px",
+          "type": "spacing"
+        },
+        "name": "xl",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "space",
+          "xl"
+        ]
+      },
+      "xxl": {
+        "value": "64px",
+        "type": "spacing",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "64px",
+          "type": "spacing"
+        },
+        "name": "xxl",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "space",
+          "xxl"
+        ]
+      }
+    },
+    "opacity": {
+      "0": {
+        "value": 0,
+        "type": "opacity",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": 0,
+          "type": "opacity"
+        },
+        "name": "0",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "opacity",
+          "0"
+        ]
+      },
+      "8": {
+        "value": "80%",
+        "type": "opacity",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "80%",
+          "type": "opacity"
+        },
+        "name": "8",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "opacity",
+          "8"
+        ]
+      },
+      "10": {
+        "value": "10%",
+        "type": "opacity",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "10%",
+          "type": "opacity"
+        },
+        "name": "10",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "opacity",
+          "10"
+        ]
+      },
+      "25": {
+        "value": "25%",
+        "type": "opacity",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "25%",
+          "type": "opacity"
+        },
+        "name": "25",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "opacity",
+          "25"
+        ]
+      },
+      "50": {
+        "value": "50%",
+        "type": "opacity",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "50%",
+          "type": "opacity"
+        },
+        "name": "50",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "opacity",
+          "50"
+        ]
+      },
+      "80": {
+        "value": "80%",
+        "type": "opacity",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "80%",
+          "type": "opacity"
+        },
+        "name": "80",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "opacity",
+          "80"
+        ]
+      },
+      "100": {
+        "value": "100%",
+        "type": "opacity",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "100%",
+          "type": "opacity"
+        },
+        "name": "100",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "opacity",
+          "100"
+        ]
+      }
+    },
+    "text-align": {
+      "left": {
+        "value": "left",
+        "type": "other",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "left",
+          "type": "other"
+        },
+        "name": "left",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "text-align",
+          "left"
+        ]
+      }
+    }
+  }
 }

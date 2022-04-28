@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "style-dictionary": "^3.7.0",
-    "token-transformer": "^0.0.20"
+    "token-transformer": "file:~/local_modules/token-transformer"
   },
   "scripts": {
     "build": "token-transformer data/tokens.json data/output.json && style-dictionary build"
