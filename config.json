@@ -20,8 +20,9 @@
         {
           "destination": "tokens-colors.xml",
           "format": "android/resources",
+          "resourceType": "color",
           "filter":{
-              "type": "color"
+            "type": "color"
           }
         }
       ]
