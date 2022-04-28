@@ -5927,5 +5927,20 @@
         ]
       }
     }
+  },
+  "TEST": {
+    "value": 1,
+    "type": "paragraphSpacing",
+    "filePath": "data/output.json",
+    "isSource": true,
+    "original": {
+      "value": 1,
+      "type": "paragraphSpacing"
+    },
+    "name": "TEST",
+    "attributes": {},
+    "path": [
+      "TEST"
+    ]
   }
 }
