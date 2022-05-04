@@ -336,6 +336,12 @@
             "value": 8,
             "type": "borderWidth"
           }
+        },
+        "movie-poster": {
+          "border-radius": {
+            "value": "12px",
+            "type": "borderRadius"
+          }
         }
       },
       "font-weight": {

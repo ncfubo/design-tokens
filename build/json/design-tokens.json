@@ -1350,6 +1350,27 @@
               "focus"
             ]
           }
+        },
+        "movie-poster": {
+          "border-radius": {
+            "value": "12px",
+            "type": "borderRadius",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": "12px",
+              "type": "borderRadius"
+            },
+            "name": "border-radius",
+            "attributes": {},
+            "path": [
+              "ftv",
+              "tv",
+              "card",
+              "movie-poster",
+              "border-radius"
+            ]
+          }
         }
       },
       "font-weight": {
