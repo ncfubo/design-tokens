@@ -5407,6 +5407,24 @@
     },
     "size": {
       "icon": {
+        "xs": {
+          "value": "12px",
+          "type": "sizing",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "12px",
+            "type": "sizing"
+          },
+          "name": "xs",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "size",
+            "icon",
+            "xs"
+          ]
+        },
         "sm": {
           "value": "16px",
           "type": "sizing",
@@ -5459,6 +5477,24 @@
             "size",
             "icon",
             "lg"
+          ]
+        },
+        "xl": {
+          "value": "40px",
+          "type": "sizing",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "40px",
+            "type": "sizing"
+          },
+          "name": "xl",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "size",
+            "icon",
+            "xl"
           ]
         }
       }
@@ -5600,23 +5636,6 @@
           "ftv",
           "border-width",
           "2"
-        ]
-      },
-      "3": {
-        "value": "3px",
-        "type": "borderWidth",
-        "filePath": "data/output.json",
-        "isSource": true,
-        "original": {
-          "value": "3px",
-          "type": "borderWidth"
-        },
-        "name": "3",
-        "attributes": {},
-        "path": [
-          "ftv",
-          "border-width",
-          "3"
         ]
       },
       "4": {

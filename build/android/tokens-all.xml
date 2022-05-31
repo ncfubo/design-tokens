@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 04 May 2022 19:41:45 GMT
+  Generated on Tue, 31 May 2022 20:16:27 GMT
 -->
 <resources>
   <string name="ftv_tv_button_primary_color_bg_default">#232424</string>
@@ -279,9 +279,11 @@
   <string name="ftv_text_decoration_none">none</string>
   <string name="ftv_text_decoration_underline">underline</string>
   <string name="ftv_text_decoration_strikethrough">strikethrough</string>
+  <string name="ftv_size_icon_xs">12px</string>
   <string name="ftv_size_icon_sm">16px</string>
   <string name="ftv_size_icon_md">24px</string>
   <string name="ftv_size_icon_lg">32px</string>
+  <string name="ftv_size_icon_xl">40px</string>
   <string name="ftv_border_radius_xs">2px</string>
   <string name="ftv_border_radius_sm">4px</string>
   <string name="ftv_border_radius_md">8px</string>
@@ -290,7 +292,6 @@
   <string name="ftv_border_radius_pill">100%</string>
   <string name="ftv_border_width_1">1px</string>
   <string name="ftv_border_width_2">2px</string>
-  <string name="ftv_border_width_3">3px</string>
   <string name="ftv_border_width_4">4px</string>
   <string name="ftv_border_width_8">8</string>
   <string name="ftv_drop_shadow_xs">[object Object]</string>

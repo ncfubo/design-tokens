@@ -1367,6 +1367,10 @@
     },
     "size": {
       "icon": {
+        "xs": {
+          "value": "12px",
+          "type": "sizing"
+        },
         "sm": {
           "value": "16px",
           "type": "sizing"
@@ -1377,6 +1381,10 @@
         },
         "lg": {
           "value": "32px",
+          "type": "sizing"
+        },
+        "xl": {
+          "value": "40px",
           "type": "sizing"
         }
       }
@@ -1414,10 +1422,6 @@
       },
       "2": {
         "value": "2px",
-        "type": "borderWidth"
-      },
-      "3": {
-        "value": "3px",
         "type": "borderWidth"
       },
       "4": {
