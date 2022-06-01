@@ -5585,7 +5585,7 @@
           "xl"
         ]
       },
-      "pill": {
+      "circle": {
         "value": "100%",
         "type": "borderRadius",
         "filePath": "data/output.json",
@@ -5594,12 +5594,12 @@
           "value": "100%",
           "type": "borderRadius"
         },
-        "name": "pill",
+        "name": "circle",
         "attributes": {},
         "path": [
           "ftv",
           "border-radius",
-          "pill"
+          "circle"
         ]
       }
     },

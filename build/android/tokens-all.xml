@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 31 May 2022 20:16:27 GMT
+  Generated on Wed, 01 Jun 2022 19:54:39 GMT
 -->
 <resources>
   <string name="ftv_tv_button_primary_color_bg_default">#232424</string>
@@ -289,7 +289,7 @@
   <string name="ftv_border_radius_md">8px</string>
   <string name="ftv_border_radius_lg">12px</string>
   <string name="ftv_border_radius_xl">16px</string>
-  <string name="ftv_border_radius_pill">100%</string>
+  <string name="ftv_border_radius_circle">100%</string>
   <string name="ftv_border_width_1">1px</string>
   <string name="ftv_border_width_2">2px</string>
   <string name="ftv_border_width_4">4px</string>

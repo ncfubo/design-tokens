@@ -1410,7 +1410,7 @@
         "value": "16px",
         "type": "borderRadius"
       },
-      "pill": {
+      "circle": {
         "value": "100%",
         "type": "borderRadius"
       }
