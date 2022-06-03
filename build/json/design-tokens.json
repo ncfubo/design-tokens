@@ -4676,7 +4676,7 @@
           "primary"
         ]
       },
-      "system--Android-FireTV": {
+      "sys-android": {
         "value": "Roboto",
         "type": "fontFamilies",
         "filePath": "data/output.json",
@@ -4685,12 +4685,29 @@
           "value": "Roboto",
           "type": "fontFamilies"
         },
-        "name": "system--Android-FireTV",
+        "name": "sys-android",
         "attributes": {},
         "path": [
           "ftv",
           "font-face",
-          "system--Android-FireTV"
+          "sys-android"
+        ]
+      },
+      "sys-roku": {
+        "value": "Gotham Book",
+        "type": "fontFamilies",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "Gotham Book",
+          "type": "fontFamilies"
+        },
+        "name": "sys-roku",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "font-face",
+          "sys-roku"
         ]
       },
       "system--Web": {
@@ -4710,24 +4727,7 @@
           "system--Web"
         ]
       },
-      "system--Roku": {
-        "value": "Gotham Book",
-        "type": "fontFamilies",
-        "filePath": "data/output.json",
-        "isSource": true,
-        "original": {
-          "value": "Gotham Book",
-          "type": "fontFamilies"
-        },
-        "name": "system--Roku",
-        "attributes": {},
-        "path": [
-          "ftv",
-          "font-face",
-          "system--Roku"
-        ]
-      },
-      "system--iOS-tvOS": {
+      "sys-apple": {
         "value": "SF Pro Text",
         "type": "fontFamilies",
         "filePath": "data/output.json",
@@ -4736,12 +4736,12 @@
           "value": "SF Pro Text",
           "type": "fontFamilies"
         },
-        "name": "system--iOS-tvOS",
+        "name": "sys-apple",
         "attributes": {},
         "path": [
           "ftv",
           "font-face",
-          "system--iOS-tvOS"
+          "sys-apple"
         ]
       }
     },
@@ -5604,7 +5604,7 @@
       }
     },
     "border-width": {
-      "1": {
+      "x-thin": {
         "value": "1px",
         "type": "borderWidth",
         "filePath": "data/output.json",
@@ -5613,15 +5613,15 @@
           "value": "1px",
           "type": "borderWidth"
         },
-        "name": "1",
+        "name": "x-thin",
         "attributes": {},
         "path": [
           "ftv",
           "border-width",
-          "1"
+          "x-thin"
         ]
       },
-      "2": {
+      "thin": {
         "value": "2px",
         "type": "borderWidth",
         "filePath": "data/output.json",
@@ -5630,15 +5630,15 @@
           "value": "2px",
           "type": "borderWidth"
         },
-        "name": "2",
+        "name": "thin",
         "attributes": {},
         "path": [
           "ftv",
           "border-width",
-          "2"
+          "thin"
         ]
       },
-      "4": {
+      "thick": {
         "value": "4px",
         "type": "borderWidth",
         "filePath": "data/output.json",
@@ -5647,15 +5647,15 @@
           "value": "4px",
           "type": "borderWidth"
         },
-        "name": "4",
+        "name": "thick",
         "attributes": {},
         "path": [
           "ftv",
           "border-width",
-          "4"
+          "thick"
         ]
       },
-      "8": {
+      "x-thick": {
         "value": 8,
         "type": "borderWidth",
         "filePath": "data/output.json",
@@ -5664,12 +5664,12 @@
           "value": 8,
           "type": "borderWidth"
         },
-        "name": "8",
+        "name": "x-thick",
         "attributes": {},
         "path": [
           "ftv",
           "border-width",
-          "8"
+          "x-thick"
         ]
       }
     },

@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 01 Jun 2022 19:54:39 GMT
+  Generated on Fri, 03 Jun 2022 15:17:16 GMT
 -->
 <resources>
   <string name="ftv_tv_button_primary_color_bg_default">#232424</string>
@@ -238,10 +238,10 @@
   <string name="ftv_color_scrim_solid">#000000cc</string>
   <string name="ftv_action_border_radius">100%</string>
   <string name="ftv_font_face_primary">Qanelas</string>
-  <string name="ftv_font_face_system_android_fire_tv">Roboto</string>
+  <string name="ftv_font_face_sys_android">Roboto</string>
+  <string name="ftv_font_face_sys_roku">Gotham Book</string>
   <string name="ftv_font_face_system_web">Helvetica</string>
-  <string name="ftv_font_face_system_roku">Gotham Book</string>
-  <string name="ftv_font_face_system_i_os_tv_os">SF Pro Text</string>
+  <string name="ftv_font_face_sys_apple">SF Pro Text</string>
   <string name="ftv_line_height_xs">100%</string>
   <string name="ftv_line_height_sm">125%</string>
   <string name="ftv_line_height_md">150%</string>
@@ -290,10 +290,10 @@
   <string name="ftv_border_radius_lg">12px</string>
   <string name="ftv_border_radius_xl">16px</string>
   <string name="ftv_border_radius_circle">100%</string>
-  <string name="ftv_border_width_1">1px</string>
-  <string name="ftv_border_width_2">2px</string>
-  <string name="ftv_border_width_4">4px</string>
-  <string name="ftv_border_width_8">8</string>
+  <string name="ftv_border_width_x_thin">1px</string>
+  <string name="ftv_border_width_thin">2px</string>
+  <string name="ftv_border_width_thick">4px</string>
+  <string name="ftv_border_width_x_thick">8</string>
   <string name="ftv_drop_shadow_xs">[object Object]</string>
   <string name="ftv_space_xxs">4px</string>
   <string name="ftv_space_xs">8px</string>
