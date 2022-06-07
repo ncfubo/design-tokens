@@ -5496,6 +5496,24 @@
             "icon",
             "xl"
           ]
+        },
+        "xxl": {
+          "value": "48px",
+          "type": "sizing",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "48px",
+            "type": "sizing"
+          },
+          "name": "xxl",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "size",
+            "icon",
+            "xxl"
+          ]
         }
       }
     },
