@@ -2555,7 +2555,7 @@
             "200"
           ]
         },
-        "000": {
+        "00": {
           "value": "#110400",
           "type": "color",
           "description": "#110400",
@@ -2566,13 +2566,13 @@
             "type": "color",
             "description": "#110400"
           },
-          "name": "000",
+          "name": "00",
           "attributes": {},
           "path": [
             "ftv",
             "color",
             "orange",
-            "000"
+            "00"
           ]
         },
         "020": {
