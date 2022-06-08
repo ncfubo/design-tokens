@@ -2435,26 +2435,6 @@
         }
       },
       "orange": {
-        "20": {
-          "value": "#220801",
-          "type": "color",
-          "description": "#220801",
-          "filePath": "data/output.json",
-          "isSource": true,
-          "original": {
-            "value": "#220801",
-            "type": "color",
-            "description": "#220801"
-          },
-          "name": "20",
-          "attributes": {},
-          "path": [
-            "ftv",
-            "color",
-            "orange",
-            "20"
-          ]
-        },
         "100": {
           "value": "#fa4616",
           "type": "color",
@@ -2575,7 +2555,7 @@
             "200"
           ]
         },
-        "00": {
+        "000": {
           "value": "#110400",
           "type": "color",
           "description": "#110400",
@@ -2586,13 +2566,33 @@
             "type": "color",
             "description": "#110400"
           },
-          "name": "00",
+          "name": "000",
           "attributes": {},
           "path": [
             "ftv",
             "color",
             "orange",
-            "00"
+            "000"
+          ]
+        },
+        "020": {
+          "value": "#220801",
+          "type": "color",
+          "description": "#220801",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#220801",
+            "type": "color",
+            "description": "#220801"
+          },
+          "name": "020",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "orange",
+            "020"
           ]
         },
         "040": {

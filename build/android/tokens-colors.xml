@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 08 Jun 2022 17:11:12 GMT
+  Generated on Wed, 08 Jun 2022 17:14:08 GMT
 -->
 <resources>
   <color name="ftv_tv_button_primary_color_bg_default">#232424</color>
@@ -34,14 +34,14 @@
   <color name="ftv_color_semantic_live">#fa4616</color>
   <color name="ftv_color_semantic_favorite">#2bb1e3</color>
   <color name="ftv_color_semantic_focus">#fafafa</color>
-  <color name="ftv_color_orange_20">#220801</color>
   <color name="ftv_color_orange_100">#fa4616</color>
   <color name="ftv_color_orange_120">#fb6e48</color>
   <color name="ftv_color_orange_140">#fca28a</color>
   <color name="ftv_color_orange_160">#fecabc</color>
   <color name="ftv_color_orange_180">#fee4de</color>
   <color name="ftv_color_orange_200">#fff2ee</color>
-  <color name="ftv_color_orange_00">#110400</color>
+  <color name="ftv_color_orange_000">#110400</color>
+  <color name="ftv_color_orange_020">#220801</color>
   <color name="ftv_color_orange_040">#430f01</color>
   <color name="ftv_color_orange_060">#751b03</color>
   <color name="ftv_color_orange_080">#b72a04</color>
