@@ -2435,6 +2435,26 @@
         }
       },
       "orange": {
+        "20": {
+          "value": "#220801",
+          "type": "color",
+          "description": "#220801",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#220801",
+            "type": "color",
+            "description": "#220801"
+          },
+          "name": "20",
+          "attributes": {},
+          "path": [
+            "ftv",
+            "color",
+            "orange",
+            "20"
+          ]
+        },
         "100": {
           "value": "#fa4616",
           "type": "color",
@@ -2573,26 +2593,6 @@
             "color",
             "orange",
             "00"
-          ]
-        },
-        "020": {
-          "value": "#220801",
-          "type": "color",
-          "description": "#220801",
-          "filePath": "data/output.json",
-          "isSource": true,
-          "original": {
-            "value": "#220801",
-            "type": "color",
-            "description": "#220801"
-          },
-          "name": "020",
-          "attributes": {},
-          "path": [
-            "ftv",
-            "color",
-            "orange",
-            "020"
           ]
         },
         "040": {
@@ -5776,23 +5776,6 @@
           "sm"
         ]
       },
-      "md": {
-        "value": "24px",
-        "type": "spacing",
-        "filePath": "data/output.json",
-        "isSource": true,
-        "original": {
-          "value": "24px",
-          "type": "spacing"
-        },
-        "name": "md",
-        "attributes": {},
-        "path": [
-          "ftv",
-          "space",
-          "md"
-        ]
-      },
       "lg": {
         "value": "36px",
         "type": "spacing",
@@ -5808,6 +5791,23 @@
           "ftv",
           "space",
           "lg"
+        ]
+      },
+      "md": {
+        "value": "24px",
+        "type": "spacing",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "24px",
+          "type": "spacing"
+        },
+        "name": "md",
+        "attributes": {},
+        "path": [
+          "ftv",
+          "space",
+          "md"
         ]
       },
       "xl": {

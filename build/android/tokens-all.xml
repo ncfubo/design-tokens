@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 08 Jun 2022 17:08:30 GMT
+  Generated on Wed, 08 Jun 2022 17:11:12 GMT
 -->
 <resources>
   <string name="ftv_tv_button_primary_color_bg_default">#232424</string>
@@ -125,6 +125,7 @@
   <string name="ftv_color_semantic_live">#fa4616</string>
   <string name="ftv_color_semantic_favorite">#2bb1e3</string>
   <string name="ftv_color_semantic_focus">#fafafa</string>
+  <string name="ftv_color_orange_20">#220801</string>
   <string name="ftv_color_orange_100">#fa4616</string>
   <string name="ftv_color_orange_120">#fb6e48</string>
   <string name="ftv_color_orange_140">#fca28a</string>
@@ -132,7 +133,6 @@
   <string name="ftv_color_orange_180">#fee4de</string>
   <string name="ftv_color_orange_200">#fff2ee</string>
   <string name="ftv_color_orange_00">#110400</string>
-  <string name="ftv_color_orange_020">#220801</string>
   <string name="ftv_color_orange_040">#430f01</string>
   <string name="ftv_color_orange_060">#751b03</string>
   <string name="ftv_color_orange_080">#b72a04</string>
@@ -299,8 +299,8 @@
   <string name="ftv_space_xxs">4px</string>
   <string name="ftv_space_xs">8px</string>
   <string name="ftv_space_sm">16px</string>
-  <string name="ftv_space_md">24px</string>
   <string name="ftv_space_lg">36px</string>
+  <string name="ftv_space_md">24px</string>
   <string name="ftv_space_xl">48px</string>
   <string name="ftv_space_xxl">64px</string>
   <string name="ftv_opacity_0">0</string>

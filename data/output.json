@@ -617,6 +617,11 @@
         }
       },
       "orange": {
+        "20": {
+          "value": "#220801",
+          "type": "color",
+          "description": "#220801"
+        },
         "100": {
           "value": "#fa4616",
           "type": "color",
@@ -651,11 +656,6 @@
           "value": "#110400",
           "type": "color",
           "description": "#110400"
-        },
-        "020": {
-          "value": "#220801",
-          "type": "color",
-          "description": "#220801"
         },
         "040": {
           "value": "#430f01",
@@ -1463,12 +1463,12 @@
         "value": "16px",
         "type": "spacing"
       },
-      "md": {
-        "value": "24px",
-        "type": "spacing"
-      },
       "lg": {
         "value": "36px",
+        "type": "spacing"
+      },
+      "md": {
+        "value": "24px",
         "type": "spacing"
       },
       "xl": {
