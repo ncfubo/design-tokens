@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Wed, 08 Jun 2022 22:32:58 GMT
+// Generated on Thu, 09 Jun 2022 19:59:43 GMT
 
 $tv-button-primary-color-bg-default: #232424;
 $tv-button-primary-color-text-default: #fafafa;
@@ -23,6 +23,7 @@ $tv-tag-color-label-upcoming: #fafafa;
 $tv-tag-border-radius: 4px;
 $tv-tag-padding-top-btm: 4px;
 $tv-tag-padding-l-r: 8px;
+$tv-tag-padding-btwn-child: 4px;
 $tv-tag-label-font-size: 18px;
 $tv-tag-label-font-face: Qanelas;
 $tv-tag-label-font-weight: 700;
@@ -117,12 +118,14 @@ $tv-border-width-focus: 8;
 $color-text-primary-on-dark: #fafafa;
 $color-text-primary-on-dark-copy: #fafafa;
 $color-text-primary-on-light: #0f1010;
+$color-text-primary-on-brand: #fafafa;
 $color-bg-elevation-1: #191a1a;
 $color-bg-elevation-2: #232424;
 $color-icon-primary-on-dark: #fafafa;
-$color-semantic-live: #fa4616;
 $color-semantic-favorite: #2bb1e3;
+$color-semantic-live: #fa4616;
 $color-semantic-focus: #fafafa;
+$color-bg-placeholder: #a7aaaa;
 $color-orange-100: #fa4616;
 $color-orange-120: #fb6e48;
 $color-orange-140: #fca28a;
@@ -238,7 +241,7 @@ $action-border-radius: 100%;
 $font-face-primary: Qanelas;
 $font-face-sys-android: Roboto;
 $font-face-sys-roku: Gotham Book;
-$font-face-system-web: Helvetica;
+$font-face-sys-web: Helvetica;
 $font-face-sys-apple: SF Pro Text;
 $line-height-xs: 100%;
 $line-height-sm: 125%;

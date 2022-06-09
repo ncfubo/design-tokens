@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 08 Jun 2022 22:32:58 GMT
+  Generated on Thu, 09 Jun 2022 19:59:43 GMT
 -->
 <resources>
   <string name="tv_button_primary_color_bg_default">#232424</string>
@@ -26,6 +26,7 @@
   <string name="tv_tag_border_radius">4px</string>
   <string name="tv_tag_padding_top_btm">4px</string>
   <string name="tv_tag_padding_l_r">8px</string>
+  <string name="tv_tag_padding_btwn_child">4px</string>
   <string name="tv_tag_label_font_size">18px</string>
   <string name="tv_tag_label_font_face">Qanelas</string>
   <string name="tv_tag_label_font_weight">700</string>
@@ -120,12 +121,14 @@
   <color name="color_text_primary_on_dark">#fffafafa</color>
   <color name="color_text_primary_on_dark_copy">#fffafafa</color>
   <color name="color_text_primary_on_light">#ff0f1010</color>
+  <color name="color_text_primary_on_brand">#fffafafa</color>
   <color name="color_bg_elevation_1">#ff191a1a</color>
   <color name="color_bg_elevation_2">#ff232424</color>
   <color name="color_icon_primary_on_dark">#fffafafa</color>
-  <color name="color_semantic_live">#fffa4616</color>
   <color name="color_semantic_favorite">#ff2bb1e3</color>
+  <color name="color_semantic_live">#fffa4616</color>
   <color name="color_semantic_focus">#fffafafa</color>
+  <color name="color_bg_placeholder">#ffa7aaaa</color>
   <color name="color_orange_100">#fffa4616</color>
   <color name="color_orange_120">#fffb6e48</color>
   <color name="color_orange_140">#fffca28a</color>
@@ -241,7 +244,7 @@
   <string name="font_face_primary">Qanelas</string>
   <string name="font_face_sys_android">Roboto</string>
   <string name="font_face_sys_roku">Gotham Book</string>
-  <string name="font_face_system_web">Helvetica</string>
+  <string name="font_face_sys_web">Helvetica</string>
   <string name="font_face_sys_apple">SF Pro Text</string>
   <string name="line_height_xs">100%</string>
   <string name="line_height_sm">125%</string>

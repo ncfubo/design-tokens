@@ -108,6 +108,10 @@
         "l-r": {
           "value": "8px",
           "type": "spacing"
+        },
+        "btwn-child": {
+          "value": "4px",
+          "type": "spacing"
         }
       },
       "label": {
@@ -584,6 +588,10 @@
         "on-light": {
           "value": "#0f1010",
           "type": "color"
+        },
+        "on-brand": {
+          "value": "#fafafa",
+          "type": "color"
         }
       }
     },
@@ -606,18 +614,22 @@
       }
     },
     "semantic": {
-      "live": {
-        "value": "#fa4616",
-        "type": "color"
-      },
       "favorite": {
         "value": "#2bb1e3",
+        "type": "color"
+      },
+      "live": {
+        "value": "#fa4616",
         "type": "color"
       },
       "focus": {
         "value": "#fafafa",
         "type": "color"
       }
+    },
+    "bg-placeholder": {
+      "value": "#a7aaaa",
+      "type": "color"
     },
     "orange": {
       "100": {
@@ -1197,7 +1209,7 @@
       "value": "Gotham Book",
       "type": "fontFamilies"
     },
-    "system--Web": {
+    "sys-Web": {
       "value": "Helvetica",
       "type": "fontFamilies"
     },

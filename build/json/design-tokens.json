@@ -408,6 +408,24 @@
             "padding",
             "l-r"
           ]
+        },
+        "btwn-child": {
+          "value": "4px",
+          "type": "spacing",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "4px",
+            "type": "spacing"
+          },
+          "name": "btwn-child",
+          "attributes": {},
+          "path": [
+            "tv",
+            "tag",
+            "padding",
+            "btwn-child"
+          ]
         }
       },
       "label": {
@@ -2217,6 +2235,24 @@
             "primary",
             "on-light"
           ]
+        },
+        "on-brand": {
+          "value": "#fafafa",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#fafafa",
+            "type": "color"
+          },
+          "name": "on-brand",
+          "attributes": {},
+          "path": [
+            "color",
+            "text",
+            "primary",
+            "on-brand"
+          ]
         }
       }
     },
@@ -2279,23 +2315,6 @@
       }
     },
     "semantic": {
-      "live": {
-        "value": "#fa4616",
-        "type": "color",
-        "filePath": "data/output.json",
-        "isSource": true,
-        "original": {
-          "value": "#fa4616",
-          "type": "color"
-        },
-        "name": "live",
-        "attributes": {},
-        "path": [
-          "color",
-          "semantic",
-          "live"
-        ]
-      },
       "favorite": {
         "value": "#2bb1e3",
         "type": "color",
@@ -2311,6 +2330,23 @@
           "color",
           "semantic",
           "favorite"
+        ]
+      },
+      "live": {
+        "value": "#fa4616",
+        "type": "color",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "#fa4616",
+          "type": "color"
+        },
+        "name": "live",
+        "attributes": {},
+        "path": [
+          "color",
+          "semantic",
+          "live"
         ]
       },
       "focus": {
@@ -2330,6 +2366,22 @@
           "focus"
         ]
       }
+    },
+    "bg-placeholder": {
+      "value": "#a7aaaa",
+      "type": "color",
+      "filePath": "data/output.json",
+      "isSource": true,
+      "original": {
+        "value": "#a7aaaa",
+        "type": "color"
+      },
+      "name": "bg-placeholder",
+      "attributes": {},
+      "path": [
+        "color",
+        "bg-placeholder"
+      ]
     },
     "orange": {
       "100": {
@@ -4492,7 +4544,7 @@
         "sys-roku"
       ]
     },
-    "system--Web": {
+    "sys-Web": {
       "value": "Helvetica",
       "type": "fontFamilies",
       "filePath": "data/output.json",
@@ -4501,11 +4553,11 @@
         "value": "Helvetica",
         "type": "fontFamilies"
       },
-      "name": "system--Web",
+      "name": "sys-Web",
       "attributes": {},
       "path": [
         "font-face",
-        "system--Web"
+        "sys-Web"
       ]
     },
     "sys-apple": {
