@@ -141,12 +141,12 @@
           ]
         },
         "font-weight": {
-          "value": 700,
+          "value": "Bold",
           "type": "fontWeights",
           "filePath": "data/output.json",
           "isSource": true,
           "original": {
-            "value": 700,
+            "value": "Bold",
             "type": "fontWeights"
           },
           "name": "font-weight",
@@ -466,12 +466,12 @@
           ]
         },
         "font-weight": {
-          "value": 700,
+          "value": "Bold",
           "type": "fontWeights",
           "filePath": "data/output.json",
           "isSource": true,
           "original": {
-            "value": 700,
+            "value": "Bold",
             "type": "fontWeights"
           },
           "name": "font-weight",
@@ -624,12 +624,12 @@
             ]
           },
           "font-weight": {
-            "value": 800,
+            "value": "ExtraBold",
             "type": "fontWeights",
             "filePath": "data/output.json",
             "isSource": true,
             "original": {
-              "value": 800,
+              "value": "ExtraBold",
               "type": "fontWeights"
             },
             "name": "font-weight",
@@ -702,12 +702,12 @@
             ]
           },
           "font-weight": {
-            "value": 700,
+            "value": "Bold",
             "type": "fontWeights",
             "filePath": "data/output.json",
             "isSource": true,
             "original": {
-              "value": 700,
+              "value": "Bold",
               "type": "fontWeights"
             },
             "name": "font-weight",
@@ -883,12 +883,12 @@
             ]
           },
           "font-weight": {
-            "value": 700,
+            "value": "Bold",
             "type": "fontWeights",
             "filePath": "data/output.json",
             "isSource": true,
             "original": {
-              "value": 700,
+              "value": "Bold",
               "type": "fontWeights"
             },
             "name": "font-weight",
@@ -999,12 +999,12 @@
             ]
           },
           "letter-spacing": {
-            "value": "125%",
+            "value": "1%",
             "type": "letterSpacing",
             "filePath": "data/output.json",
             "isSource": true,
             "original": {
-              "value": "125%",
+              "value": "1%",
               "type": "letterSpacing"
             },
             "name": "letter-spacing",
@@ -1037,12 +1037,12 @@
             ]
           },
           "font-weight": {
-            "value": 700,
+            "value": "Bold",
             "type": "fontWeights",
             "filePath": "data/output.json",
             "isSource": true,
             "original": {
-              "value": 700,
+              "value": "Bold",
               "type": "fontWeights"
             },
             "name": "font-weight",
@@ -1326,33 +1326,87 @@
     },
     "font-weight": {
       "interactive": {
-        "m": {
-          "value": 700,
+        "sm": {
+          "value": "Bold",
           "type": "fontWeights",
           "filePath": "data/output.json",
           "isSource": true,
           "original": {
-            "value": 700,
+            "value": "Bold",
             "type": "fontWeights"
           },
-          "name": "m",
+          "name": "sm",
           "attributes": {},
           "path": [
             "tv",
             "font-weight",
             "interactive",
-            "m"
+            "sm"
           ]
-        }
-      },
-      "label": {
-        "xs-bold": {
-          "value": 700,
+        },
+        "md": {
+          "value": "Bold",
           "type": "fontWeights",
           "filePath": "data/output.json",
           "isSource": true,
           "original": {
-            "value": 700,
+            "value": "Bold",
+            "type": "fontWeights"
+          },
+          "name": "md",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-weight",
+            "interactive",
+            "md"
+          ]
+        },
+        "lg": {
+          "value": "Bold",
+          "type": "fontWeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Bold",
+            "type": "fontWeights"
+          },
+          "name": "lg",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-weight",
+            "interactive",
+            "lg"
+          ]
+        }
+      },
+      "label": {
+        "xs": {
+          "value": "Medium",
+          "type": "fontWeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Medium",
+            "type": "fontWeights"
+          },
+          "name": "xs",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-weight",
+            "label",
+            "xs"
+          ]
+        },
+        "xs-bold": {
+          "value": "Bold",
+          "type": "fontWeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Bold",
             "type": "fontWeights"
           },
           "name": "xs-bold",
@@ -1364,31 +1418,31 @@
             "xs-bold"
           ]
         },
-        "lg-bold": {
-          "value": 700,
+        "sm": {
+          "value": "Medium",
           "type": "fontWeights",
           "filePath": "data/output.json",
           "isSource": true,
           "original": {
-            "value": 700,
+            "value": "Medium",
             "type": "fontWeights"
           },
-          "name": "lg-bold",
+          "name": "sm",
           "attributes": {},
           "path": [
             "tv",
             "font-weight",
             "label",
-            "lg-bold"
+            "sm"
           ]
         },
         "sm-bold": {
-          "value": 700,
+          "value": "Bold",
           "type": "fontWeights",
           "filePath": "data/output.json",
           "isSource": true,
           "original": {
-            "value": 700,
+            "value": "Bold",
             "type": "fontWeights"
           },
           "name": "sm-bold",
@@ -1399,16 +1453,142 @@
             "label",
             "sm-bold"
           ]
-        }
-      },
-      "heading": {
-        "lg": {
-          "value": 800,
+        },
+        "md": {
+          "value": "Medium",
           "type": "fontWeights",
           "filePath": "data/output.json",
           "isSource": true,
           "original": {
-            "value": 800,
+            "value": "Medium",
+            "type": "fontWeights"
+          },
+          "name": "md",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-weight",
+            "label",
+            "md"
+          ]
+        },
+        "md-bold": {
+          "value": "Bold",
+          "type": "fontWeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Bold",
+            "type": "fontWeights"
+          },
+          "name": "md-bold",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-weight",
+            "label",
+            "md-bold"
+          ]
+        },
+        "lg": {
+          "value": "Medium",
+          "type": "fontWeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Medium",
+            "type": "fontWeights"
+          },
+          "name": "lg",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-weight",
+            "label",
+            "lg"
+          ]
+        },
+        "lg-bold": {
+          "value": "Bold",
+          "type": "fontWeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Bold",
+            "type": "fontWeights"
+          },
+          "name": "lg-bold",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-weight",
+            "label",
+            "lg-bold"
+          ]
+        }
+      },
+      "heading": {
+        "xs": {
+          "value": "Bold",
+          "type": "fontWeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Bold",
+            "type": "fontWeights"
+          },
+          "name": "xs",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-weight",
+            "heading",
+            "xs"
+          ]
+        },
+        "sm": {
+          "value": "Bold",
+          "type": "fontWeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Bold",
+            "type": "fontWeights"
+          },
+          "name": "sm",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-weight",
+            "heading",
+            "sm"
+          ]
+        },
+        "md": {
+          "value": "Bold",
+          "type": "fontWeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Bold",
+            "type": "fontWeights"
+          },
+          "name": "md",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-weight",
+            "heading",
+            "md"
+          ]
+        },
+        "lg": {
+          "value": "ExtraBold",
+          "type": "fontWeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "ExtraBold",
             "type": "fontWeights"
           },
           "name": "lg",
@@ -1420,13 +1600,69 @@
             "lg"
           ]
         },
-        "sm": {
-          "value": 700,
+        "xl": {
+          "value": "ExtraBold",
           "type": "fontWeights",
           "filePath": "data/output.json",
           "isSource": true,
           "original": {
-            "value": 700,
+            "value": "ExtraBold",
+            "type": "fontWeights"
+          },
+          "name": "xl",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-weight",
+            "heading",
+            "xl"
+          ]
+        },
+        "xxl": {
+          "value": "ExtraBold",
+          "type": "fontWeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "ExtraBold",
+            "type": "fontWeights"
+          },
+          "name": "xxl",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-weight",
+            "heading",
+            "xxl"
+          ]
+        },
+        "xxxl": {
+          "value": "ExtraBold",
+          "type": "fontWeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "ExtraBold",
+            "type": "fontWeights"
+          },
+          "name": "xxxl",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-weight",
+            "heading",
+            "xxxl"
+          ]
+        }
+      },
+      "body": {
+        "sm": {
+          "value": "Medium",
+          "type": "fontWeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Medium",
             "type": "fontWeights"
           },
           "name": "sm",
@@ -1434,8 +1670,136 @@
           "path": [
             "tv",
             "font-weight",
-            "heading",
+            "body",
             "sm"
+          ]
+        },
+        "md": {
+          "value": "Medium",
+          "type": "fontWeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Medium",
+            "type": "fontWeights"
+          },
+          "name": "md",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-weight",
+            "body",
+            "md"
+          ]
+        },
+        "lg": {
+          "value": "Medium",
+          "type": "fontWeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Medium",
+            "type": "fontWeights"
+          },
+          "name": "lg",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-weight",
+            "body",
+            "lg"
+          ]
+        },
+        "xl": {
+          "value": "Medium",
+          "type": "fontWeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Medium",
+            "type": "fontWeights"
+          },
+          "name": "xl",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-weight",
+            "body",
+            "xl"
+          ]
+        }
+      },
+      "paragraph": {
+        "tvos": {
+          "value": "Medium",
+          "type": "fontWeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Medium",
+            "type": "fontWeights"
+          },
+          "name": "tvos",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-weight",
+            "paragraph",
+            "tvos"
+          ]
+        },
+        "roku": {
+          "value": "Medium",
+          "type": "fontWeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Medium",
+            "type": "fontWeights"
+          },
+          "name": "roku",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-weight",
+            "paragraph",
+            "roku"
+          ]
+        },
+        "firetv": {
+          "value": "Medium",
+          "type": "fontWeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Medium",
+            "type": "fontWeights"
+          },
+          "name": "firetv",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-weight",
+            "paragraph",
+            "firetv"
+          ]
+        },
+        "smarttv": {
+          "value": "Medium",
+          "type": "fontWeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Medium",
+            "type": "fontWeights"
+          },
+          "name": "smarttv",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-weight",
+            "paragraph",
+            "smarttv"
           ]
         }
       }
@@ -1697,7 +2061,25 @@
         ]
       },
       "interactive": {
-        "m": {
+        "sm": {
+          "value": "24px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "24px",
+            "type": "fontSizes"
+          },
+          "name": "sm",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-size",
+            "interactive",
+            "sm"
+          ]
+        },
+        "md": {
           "value": "28px",
           "type": "fontSizes",
           "filePath": "data/output.json",
@@ -1706,13 +2088,31 @@
             "value": "28px",
             "type": "fontSizes"
           },
-          "name": "m",
+          "name": "md",
           "attributes": {},
           "path": [
             "tv",
             "font-size",
             "interactive",
-            "m"
+            "md"
+          ]
+        },
+        "lg": {
+          "value": "32px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "32px",
+            "type": "fontSizes"
+          },
+          "name": "lg",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-size",
+            "interactive",
+            "lg"
           ]
         }
       },
@@ -1735,24 +2135,6 @@
             "xs"
           ]
         },
-        "lg": {
-          "value": "28px",
-          "type": "fontSizes",
-          "filePath": "data/output.json",
-          "isSource": true,
-          "original": {
-            "value": "28px",
-            "type": "fontSizes"
-          },
-          "name": "lg",
-          "attributes": {},
-          "path": [
-            "tv",
-            "font-size",
-            "label",
-            "lg"
-          ]
-        },
         "sm": {
           "value": "20px",
           "type": "fontSizes",
@@ -1770,16 +2152,32 @@
             "label",
             "sm"
           ]
-        }
-      },
-      "heading": {
-        "lg": {
-          "value": "44px",
+        },
+        "md": {
+          "value": "24px",
           "type": "fontSizes",
           "filePath": "data/output.json",
           "isSource": true,
           "original": {
-            "value": "44px",
+            "value": "24px",
+            "type": "fontSizes"
+          },
+          "name": "md",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-size",
+            "label",
+            "md"
+          ]
+        },
+        "lg": {
+          "value": "28px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "28px",
             "type": "fontSizes"
           },
           "name": "lg",
@@ -1787,8 +2185,28 @@
           "path": [
             "tv",
             "font-size",
-            "heading",
+            "label",
             "lg"
+          ]
+        }
+      },
+      "heading": {
+        "xs": {
+          "value": "28px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "28px",
+            "type": "fontSizes"
+          },
+          "name": "xs",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-size",
+            "heading",
+            "xs"
           ]
         },
         "sm": {
@@ -1808,12 +2226,250 @@
             "heading",
             "sm"
           ]
+        },
+        "md": {
+          "value": "36px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "36px",
+            "type": "fontSizes"
+          },
+          "name": "md",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-size",
+            "heading",
+            "md"
+          ]
+        },
+        "lg": {
+          "value": "44px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "44px",
+            "type": "fontSizes"
+          },
+          "name": "lg",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-size",
+            "heading",
+            "lg"
+          ]
+        },
+        "xl": {
+          "value": "56px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "56px",
+            "type": "fontSizes"
+          },
+          "name": "xl",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-size",
+            "heading",
+            "xl"
+          ]
+        },
+        "xxl": {
+          "value": "72px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "72px",
+            "type": "fontSizes"
+          },
+          "name": "xxl",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-size",
+            "heading",
+            "xxl"
+          ]
+        },
+        "xxxl": {
+          "value": "90px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "90px",
+            "type": "fontSizes"
+          },
+          "name": "xxxl",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-size",
+            "heading",
+            "xxxl"
+          ]
+        }
+      },
+      "body": {
+        "sm": {
+          "value": "24px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "24px",
+            "type": "fontSizes"
+          },
+          "name": "sm",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-size",
+            "body",
+            "sm"
+          ]
+        },
+        "md": {
+          "value": "28px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "28px",
+            "type": "fontSizes"
+          },
+          "name": "md",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-size",
+            "body",
+            "md"
+          ]
+        },
+        "lg": {
+          "value": "32px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "32px",
+            "type": "fontSizes"
+          },
+          "name": "lg",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-size",
+            "body",
+            "lg"
+          ]
+        },
+        "xl": {
+          "value": "36px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "36px",
+            "type": "fontSizes"
+          },
+          "name": "xl",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-size",
+            "body",
+            "xl"
+          ]
+        }
+      },
+      "paragraph": {
+        "tvos": {
+          "value": "28px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "28px",
+            "type": "fontSizes"
+          },
+          "name": "tvos",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-size",
+            "paragraph",
+            "tvos"
+          ]
+        },
+        "roku": {
+          "value": "28px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "28px",
+            "type": "fontSizes"
+          },
+          "name": "roku",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-size",
+            "paragraph",
+            "roku"
+          ]
+        },
+        "firetv": {
+          "value": "28px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "28px",
+            "type": "fontSizes"
+          },
+          "name": "firetv",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-size",
+            "paragraph",
+            "firetv"
+          ]
+        },
+        "smarttv": {
+          "value": "28px",
+          "type": "fontSizes",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "28px",
+            "type": "fontSizes"
+          },
+          "name": "smarttv",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-size",
+            "paragraph",
+            "smarttv"
+          ]
         }
       }
     },
     "line-height": {
       "interactive": {
-        "m": {
+        "sm": {
           "value": "125%",
           "type": "lineHeights",
           "filePath": "data/output.json",
@@ -1822,13 +2478,49 @@
             "value": "125%",
             "type": "lineHeights"
           },
-          "name": "m",
+          "name": "sm",
           "attributes": {},
           "path": [
             "tv",
             "line-height",
             "interactive",
-            "m"
+            "sm"
+          ]
+        },
+        "md": {
+          "value": "125%",
+          "type": "lineHeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "125%",
+            "type": "lineHeights"
+          },
+          "name": "md",
+          "attributes": {},
+          "path": [
+            "tv",
+            "line-height",
+            "interactive",
+            "md"
+          ]
+        },
+        "lg": {
+          "value": "125%",
+          "type": "lineHeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "125%",
+            "type": "lineHeights"
+          },
+          "name": "lg",
+          "attributes": {},
+          "path": [
+            "tv",
+            "line-height",
+            "interactive",
+            "lg"
           ]
         }
       },
@@ -1851,24 +2543,6 @@
             "xs"
           ]
         },
-        "lg": {
-          "value": "125%",
-          "type": "lineHeights",
-          "filePath": "data/output.json",
-          "isSource": true,
-          "original": {
-            "value": "125%",
-            "type": "lineHeights"
-          },
-          "name": "lg",
-          "attributes": {},
-          "path": [
-            "tv",
-            "line-height",
-            "label",
-            "lg"
-          ]
-        },
         "sm": {
           "value": "125%",
           "type": "lineHeights",
@@ -1885,10 +2559,82 @@
             "line-height",
             "label",
             "sm"
+          ]
+        },
+        "md": {
+          "value": "125%",
+          "type": "lineHeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "125%",
+            "type": "lineHeights"
+          },
+          "name": "md",
+          "attributes": {},
+          "path": [
+            "tv",
+            "line-height",
+            "label",
+            "md"
+          ]
+        },
+        "lg": {
+          "value": "125%",
+          "type": "lineHeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "125%",
+            "type": "lineHeights"
+          },
+          "name": "lg",
+          "attributes": {},
+          "path": [
+            "tv",
+            "line-height",
+            "label",
+            "lg"
           ]
         }
       },
       "heading": {
+        "sm": {
+          "value": "125%",
+          "type": "lineHeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "125%",
+            "type": "lineHeights"
+          },
+          "name": "sm",
+          "attributes": {},
+          "path": [
+            "tv",
+            "line-height",
+            "heading",
+            "sm"
+          ]
+        },
+        "md": {
+          "value": "125%",
+          "type": "lineHeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "125%",
+            "type": "lineHeights"
+          },
+          "name": "md",
+          "attributes": {},
+          "path": [
+            "tv",
+            "line-height",
+            "heading",
+            "md"
+          ]
+        },
         "lg": {
           "value": "125%",
           "type": "lineHeights",
@@ -1907,6 +2653,62 @@
             "lg"
           ]
         },
+        "xl": {
+          "value": "125%",
+          "type": "lineHeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "125%",
+            "type": "lineHeights"
+          },
+          "name": "xl",
+          "attributes": {},
+          "path": [
+            "tv",
+            "line-height",
+            "heading",
+            "xl"
+          ]
+        },
+        "xxl": {
+          "value": "125%",
+          "type": "lineHeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "125%",
+            "type": "lineHeights"
+          },
+          "name": "xxl",
+          "attributes": {},
+          "path": [
+            "tv",
+            "line-height",
+            "heading",
+            "xxl"
+          ]
+        },
+        "xxxl": {
+          "value": "125%",
+          "type": "lineHeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "125%",
+            "type": "lineHeights"
+          },
+          "name": "xxxl",
+          "attributes": {},
+          "path": [
+            "tv",
+            "line-height",
+            "heading",
+            "xxxl"
+          ]
+        }
+      },
+      "body": {
         "sm": {
           "value": "125%",
           "type": "lineHeights",
@@ -1921,15 +2723,143 @@
           "path": [
             "tv",
             "line-height",
-            "heading",
+            "body",
             "sm"
+          ]
+        },
+        "md": {
+          "value": "125%",
+          "type": "lineHeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "125%",
+            "type": "lineHeights"
+          },
+          "name": "md",
+          "attributes": {},
+          "path": [
+            "tv",
+            "line-height",
+            "body",
+            "md"
+          ]
+        },
+        "lg": {
+          "value": "125%",
+          "type": "lineHeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "125%",
+            "type": "lineHeights"
+          },
+          "name": "lg",
+          "attributes": {},
+          "path": [
+            "tv",
+            "line-height",
+            "body",
+            "lg"
+          ]
+        },
+        "xl": {
+          "value": "125%",
+          "type": "lineHeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "125%",
+            "type": "lineHeights"
+          },
+          "name": "xl",
+          "attributes": {},
+          "path": [
+            "tv",
+            "line-height",
+            "body",
+            "xl"
+          ]
+        }
+      },
+      "paragraph": {
+        "tvos": {
+          "value": "150%",
+          "type": "lineHeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "150%",
+            "type": "lineHeights"
+          },
+          "name": "tvos",
+          "attributes": {},
+          "path": [
+            "tv",
+            "line-height",
+            "paragraph",
+            "tvos"
+          ]
+        },
+        "roku": {
+          "value": "150%",
+          "type": "lineHeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "150%",
+            "type": "lineHeights"
+          },
+          "name": "roku",
+          "attributes": {},
+          "path": [
+            "tv",
+            "line-height",
+            "paragraph",
+            "roku"
+          ]
+        },
+        "firetv": {
+          "value": "150%",
+          "type": "lineHeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "150%",
+            "type": "lineHeights"
+          },
+          "name": "firetv",
+          "attributes": {},
+          "path": [
+            "tv",
+            "line-height",
+            "paragraph",
+            "firetv"
+          ]
+        },
+        "smarttv": {
+          "value": "150%",
+          "type": "lineHeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "150%",
+            "type": "lineHeights"
+          },
+          "name": "smarttv",
+          "attributes": {},
+          "path": [
+            "tv",
+            "line-height",
+            "paragraph",
+            "smarttv"
           ]
         }
       }
     },
     "letter-spacing": {
       "interactive": {
-        "m": {
+        "sm": {
           "value": "1%",
           "type": "letterSpacing",
           "filePath": "data/output.json",
@@ -1938,13 +2868,49 @@
             "value": "1%",
             "type": "letterSpacing"
           },
-          "name": "m",
+          "name": "sm",
           "attributes": {},
           "path": [
             "tv",
             "letter-spacing",
             "interactive",
-            "m"
+            "sm"
+          ]
+        },
+        "md": {
+          "value": "1%",
+          "type": "letterSpacing",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "1%",
+            "type": "letterSpacing"
+          },
+          "name": "md",
+          "attributes": {},
+          "path": [
+            "tv",
+            "letter-spacing",
+            "interactive",
+            "md"
+          ]
+        },
+        "lg": {
+          "value": "0%",
+          "type": "letterSpacing",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "0%",
+            "type": "letterSpacing"
+          },
+          "name": "lg",
+          "attributes": {},
+          "path": [
+            "tv",
+            "letter-spacing",
+            "interactive",
+            "lg"
           ]
         }
       },
@@ -1967,6 +2933,42 @@
             "xs"
           ]
         },
+        "sm": {
+          "value": "1%",
+          "type": "letterSpacing",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "1%",
+            "type": "letterSpacing"
+          },
+          "name": "sm",
+          "attributes": {},
+          "path": [
+            "tv",
+            "letter-spacing",
+            "label",
+            "sm"
+          ]
+        },
+        "md": {
+          "value": "1%",
+          "type": "letterSpacing",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "1%",
+            "type": "letterSpacing"
+          },
+          "name": "md",
+          "attributes": {},
+          "path": [
+            "tv",
+            "letter-spacing",
+            "label",
+            "md"
+          ]
+        },
         "lg": {
           "value": "1%",
           "type": "letterSpacing",
@@ -1984,14 +2986,16 @@
             "label",
             "lg"
           ]
-        },
+        }
+      },
+      "heading": {
         "sm": {
-          "value": "125%",
+          "value": "1%",
           "type": "letterSpacing",
           "filePath": "data/output.json",
           "isSource": true,
           "original": {
-            "value": "125%",
+            "value": "1%",
             "type": "letterSpacing"
           },
           "name": "sm",
@@ -1999,12 +3003,28 @@
           "path": [
             "tv",
             "letter-spacing",
-            "label",
+            "heading",
             "sm"
           ]
-        }
-      },
-      "heading": {
+        },
+        "md": {
+          "value": "1%",
+          "type": "letterSpacing",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "1%",
+            "type": "letterSpacing"
+          },
+          "name": "md",
+          "attributes": {},
+          "path": [
+            "tv",
+            "letter-spacing",
+            "heading",
+            "md"
+          ]
+        },
         "lg": {
           "value": "0%",
           "type": "letterSpacing",
@@ -2023,6 +3043,62 @@
             "lg"
           ]
         },
+        "xl": {
+          "value": "0%",
+          "type": "letterSpacing",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "0%",
+            "type": "letterSpacing"
+          },
+          "name": "xl",
+          "attributes": {},
+          "path": [
+            "tv",
+            "letter-spacing",
+            "heading",
+            "xl"
+          ]
+        },
+        "xxl": {
+          "value": "0%",
+          "type": "letterSpacing",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "0%",
+            "type": "letterSpacing"
+          },
+          "name": "xxl",
+          "attributes": {},
+          "path": [
+            "tv",
+            "letter-spacing",
+            "heading",
+            "xxl"
+          ]
+        },
+        "xxxl": {
+          "value": "0%",
+          "type": "letterSpacing",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "0%",
+            "type": "letterSpacing"
+          },
+          "name": "xxxl",
+          "attributes": {},
+          "path": [
+            "tv",
+            "letter-spacing",
+            "heading",
+            "xxxl"
+          ]
+        }
+      },
+      "body": {
         "sm": {
           "value": "1%",
           "type": "letterSpacing",
@@ -2037,15 +3113,143 @@
           "path": [
             "tv",
             "letter-spacing",
-            "heading",
+            "body",
             "sm"
+          ]
+        },
+        "md": {
+          "value": "1%",
+          "type": "letterSpacing",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "1%",
+            "type": "letterSpacing"
+          },
+          "name": "md",
+          "attributes": {},
+          "path": [
+            "tv",
+            "letter-spacing",
+            "body",
+            "md"
+          ]
+        },
+        "lg": {
+          "value": "0%",
+          "type": "letterSpacing",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "0%",
+            "type": "letterSpacing"
+          },
+          "name": "lg",
+          "attributes": {},
+          "path": [
+            "tv",
+            "letter-spacing",
+            "body",
+            "lg"
+          ]
+        },
+        "xl": {
+          "value": "0%",
+          "type": "letterSpacing",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "0%",
+            "type": "letterSpacing"
+          },
+          "name": "xl",
+          "attributes": {},
+          "path": [
+            "tv",
+            "letter-spacing",
+            "body",
+            "xl"
+          ]
+        }
+      },
+      "paragraph": {
+        "tvos": {
+          "value": "0%",
+          "type": "letterSpacing",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "0%",
+            "type": "letterSpacing"
+          },
+          "name": "tvos",
+          "attributes": {},
+          "path": [
+            "tv",
+            "letter-spacing",
+            "paragraph",
+            "tvos"
+          ]
+        },
+        "roku": {
+          "value": "0%",
+          "type": "letterSpacing",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "0%",
+            "type": "letterSpacing"
+          },
+          "name": "roku",
+          "attributes": {},
+          "path": [
+            "tv",
+            "letter-spacing",
+            "paragraph",
+            "roku"
+          ]
+        },
+        "firetv": {
+          "value": "0%",
+          "type": "letterSpacing",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "0%",
+            "type": "letterSpacing"
+          },
+          "name": "firetv",
+          "attributes": {},
+          "path": [
+            "tv",
+            "letter-spacing",
+            "paragraph",
+            "firetv"
+          ]
+        },
+        "smarttv": {
+          "value": "0%",
+          "type": "letterSpacing",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "0%",
+            "type": "letterSpacing"
+          },
+          "name": "smarttv",
+          "attributes": {},
+          "path": [
+            "tv",
+            "letter-spacing",
+            "paragraph",
+            "smarttv"
           ]
         }
       }
     },
     "font-face": {
       "interactive": {
-        "m": {
+        "sm": {
           "value": "Qanelas",
           "type": "fontFamilies",
           "filePath": "data/output.json",
@@ -2054,13 +3258,49 @@
             "value": "Qanelas",
             "type": "fontFamilies"
           },
-          "name": "m",
+          "name": "sm",
           "attributes": {},
           "path": [
             "tv",
             "font-face",
             "interactive",
-            "m"
+            "sm"
+          ]
+        },
+        "md": {
+          "value": "Qanelas",
+          "type": "fontFamilies",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Qanelas",
+            "type": "fontFamilies"
+          },
+          "name": "md",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-face",
+            "interactive",
+            "md"
+          ]
+        },
+        "lg": {
+          "value": "Qanelas",
+          "type": "fontFamilies",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Qanelas",
+            "type": "fontFamilies"
+          },
+          "name": "lg",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-face",
+            "interactive",
+            "lg"
           ]
         }
       },
@@ -2083,24 +3323,6 @@
             "xs"
           ]
         },
-        "lg": {
-          "value": "Qanelas",
-          "type": "fontFamilies",
-          "filePath": "data/output.json",
-          "isSource": true,
-          "original": {
-            "value": "Qanelas",
-            "type": "fontFamilies"
-          },
-          "name": "lg",
-          "attributes": {},
-          "path": [
-            "tv",
-            "font-face",
-            "label",
-            "lg"
-          ]
-        },
         "sm": {
           "value": "Qanelas",
           "type": "fontFamilies",
@@ -2117,11 +3339,47 @@
             "font-face",
             "label",
             "sm"
+          ]
+        },
+        "md": {
+          "value": "Qanelas",
+          "type": "fontFamilies",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Qanelas",
+            "type": "fontFamilies"
+          },
+          "name": "md",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-face",
+            "label",
+            "md"
+          ]
+        },
+        "lg": {
+          "value": "Qanelas",
+          "type": "fontFamilies",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Qanelas",
+            "type": "fontFamilies"
+          },
+          "name": "lg",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-face",
+            "label",
+            "lg"
           ]
         }
       },
       "heading": {
-        "lg": {
+        "xs": {
           "value": "Qanelas",
           "type": "fontFamilies",
           "filePath": "data/output.json",
@@ -2130,13 +3388,13 @@
             "value": "Qanelas",
             "type": "fontFamilies"
           },
-          "name": "lg",
+          "name": "xs",
           "attributes": {},
           "path": [
             "tv",
             "font-face",
             "heading",
-            "lg"
+            "xs"
           ]
         },
         "sm": {
@@ -2155,6 +3413,244 @@
             "font-face",
             "heading",
             "sm"
+          ]
+        },
+        "md": {
+          "value": "Qanelas",
+          "type": "fontFamilies",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Qanelas",
+            "type": "fontFamilies"
+          },
+          "name": "md",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-face",
+            "heading",
+            "md"
+          ]
+        },
+        "lg": {
+          "value": "Qanelas",
+          "type": "fontFamilies",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Qanelas",
+            "type": "fontFamilies"
+          },
+          "name": "lg",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-face",
+            "heading",
+            "lg"
+          ]
+        },
+        "xl": {
+          "value": "Qanelas",
+          "type": "fontFamilies",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Qanelas",
+            "type": "fontFamilies"
+          },
+          "name": "xl",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-face",
+            "heading",
+            "xl"
+          ]
+        },
+        "xxl": {
+          "value": "Qanelas",
+          "type": "fontFamilies",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Qanelas",
+            "type": "fontFamilies"
+          },
+          "name": "xxl",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-face",
+            "heading",
+            "xxl"
+          ]
+        },
+        "xxxl": {
+          "value": "Qanelas",
+          "type": "fontFamilies",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Qanelas",
+            "type": "fontFamilies"
+          },
+          "name": "xxxl",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-face",
+            "heading",
+            "xxxl"
+          ]
+        }
+      },
+      "body": {
+        "sm": {
+          "value": "Qanelas",
+          "type": "fontFamilies",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Qanelas",
+            "type": "fontFamilies"
+          },
+          "name": "sm",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-face",
+            "body",
+            "sm"
+          ]
+        },
+        "md": {
+          "value": "Qanelas",
+          "type": "fontFamilies",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Qanelas",
+            "type": "fontFamilies"
+          },
+          "name": "md",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-face",
+            "body",
+            "md"
+          ]
+        },
+        "lg": {
+          "value": "Qanelas",
+          "type": "fontFamilies",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Qanelas",
+            "type": "fontFamilies"
+          },
+          "name": "lg",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-face",
+            "body",
+            "lg"
+          ]
+        },
+        "xl": {
+          "value": "Qanelas",
+          "type": "fontFamilies",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Qanelas",
+            "type": "fontFamilies"
+          },
+          "name": "xl",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-face",
+            "body",
+            "xl"
+          ]
+        }
+      },
+      "paragraph": {
+        "tvOS": {
+          "value": "SF Pro Text",
+          "type": "fontFamilies",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "SF Pro Text",
+            "type": "fontFamilies"
+          },
+          "name": "tvOS",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-face",
+            "paragraph",
+            "tvOS"
+          ]
+        },
+        "Roku": {
+          "value": "Gotham Book",
+          "type": "fontFamilies",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Gotham Book",
+            "type": "fontFamilies"
+          },
+          "name": "Roku",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-face",
+            "paragraph",
+            "Roku"
+          ]
+        },
+        "fireTV": {
+          "value": "Roboto",
+          "type": "fontFamilies",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Roboto",
+            "type": "fontFamilies"
+          },
+          "name": "fireTV",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-face",
+            "paragraph",
+            "fireTV"
+          ]
+        },
+        "smartTV": {
+          "value": "Helvetica",
+          "type": "fontFamilies",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "Helvetica",
+            "type": "fontFamilies"
+          },
+          "name": "smartTV",
+          "attributes": {},
+          "path": [
+            "tv",
+            "font-face",
+            "paragraph",
+            "smartTV"
           ]
         }
       }
@@ -4645,12 +6141,12 @@
   },
   "font-weight": {
     "medium": {
-      "value": 500,
+      "value": "Medium",
       "type": "fontWeights",
       "filePath": "data/output.json",
       "isSource": true,
       "original": {
-        "value": 500,
+        "value": "Medium",
         "type": "fontWeights"
       },
       "name": "medium",
@@ -4661,12 +6157,12 @@
       ]
     },
     "semibold": {
-      "value": 600,
+      "value": "SemiBold",
       "type": "fontWeights",
       "filePath": "data/output.json",
       "isSource": true,
       "original": {
-        "value": 600,
+        "value": "SemiBold",
         "type": "fontWeights"
       },
       "name": "semibold",
@@ -4677,12 +6173,12 @@
       ]
     },
     "bold": {
-      "value": 700,
+      "value": "Bold",
       "type": "fontWeights",
       "filePath": "data/output.json",
       "isSource": true,
       "original": {
-        "value": 700,
+        "value": "Bold",
         "type": "fontWeights"
       },
       "name": "bold",
@@ -4693,12 +6189,12 @@
       ]
     },
     "extrabold": {
-      "value": 800,
+      "value": "ExtraBold",
       "type": "fontWeights",
       "filePath": "data/output.json",
       "isSource": true,
       "original": {
-        "value": 800,
+        "value": "ExtraBold",
         "type": "fontWeights"
       },
       "name": "extrabold",
