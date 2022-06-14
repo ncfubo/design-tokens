@@ -970,6 +970,233 @@
             "textCase": "As typed"
           },
           "type": "typography"
+        },
+        "lg": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "ExtraBold",
+            "lineHeight": "125%",
+            "fontSize": "44px",
+            "letterSpacing": "0%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography"
+        },
+        "xl": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "ExtraBold",
+            "lineHeight": "125%",
+            "fontSize": "56px",
+            "letterSpacing": "0%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography"
+        },
+        "xxl": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "ExtraBold",
+            "lineHeight": "125%",
+            "fontSize": "56px",
+            "letterSpacing": "0%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography"
+        },
+        "xxxl": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "ExtraBold",
+            "lineHeight": "125%",
+            "fontSize": "90px",
+            "letterSpacing": "0%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography"
+        }
+      },
+      "interactive": {
+        "sm": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Bold",
+            "lineHeight": "125%",
+            "fontSize": "24px",
+            "letterSpacing": "1%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography"
+        },
+        "md": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Bold",
+            "lineHeight": "125%",
+            "fontSize": "28px",
+            "letterSpacing": "1%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography"
+        },
+        "lg": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Bold",
+            "lineHeight": "125%",
+            "fontSize": "32px",
+            "letterSpacing": "0%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography"
+        }
+      },
+      "label": {
+        "xs": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Medium",
+            "lineHeight": "125%",
+            "fontSize": "18px",
+            "letterSpacing": "3%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography"
+        },
+        "xs-bold": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Bold",
+            "lineHeight": "125%",
+            "fontSize": "18px",
+            "letterSpacing": "3%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography"
+        },
+        "sm": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Medium",
+            "lineHeight": "125%",
+            "fontSize": "20px",
+            "letterSpacing": "1%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography"
+        },
+        "sm-bold": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Medium",
+            "lineHeight": "125%",
+            "fontSize": "20px",
+            "letterSpacing": "1%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography"
+        },
+        "md": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Medium",
+            "lineHeight": "125%",
+            "fontSize": "24px",
+            "letterSpacing": "1%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography"
+        },
+        "md-bold": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Bold",
+            "lineHeight": "125%",
+            "fontSize": "24px",
+            "letterSpacing": "1%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography"
+        },
+        "lg": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Medium",
+            "lineHeight": "125%",
+            "fontSize": "28px",
+            "letterSpacing": "1%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography"
+        },
+        "lg-bold": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Bold",
+            "lineHeight": "125%",
+            "fontSize": "28px",
+            "letterSpacing": "1%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography"
+        }
+      },
+      "body": {
+        "sm": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Medium",
+            "lineHeight": "125%",
+            "fontSize": "24px",
+            "letterSpacing": "1%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography"
+        },
+        "md": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Medium",
+            "lineHeight": "125%",
+            "fontSize": "28px",
+            "letterSpacing": "1%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography"
         }
       }
     }

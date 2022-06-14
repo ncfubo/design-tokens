@@ -3821,6 +3821,624 @@
             "heading",
             "md"
           ]
+        },
+        "lg": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "ExtraBold",
+            "lineHeight": "125%",
+            "fontSize": "44px",
+            "letterSpacing": "0%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "Qanelas",
+              "fontWeight": "ExtraBold",
+              "lineHeight": "125%",
+              "fontSize": "44px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": 0,
+              "textDecoration": "none",
+              "textCase": "As typed"
+            },
+            "type": "typography"
+          },
+          "name": "lg",
+          "attributes": {},
+          "path": [
+            "tv",
+            "typography",
+            "heading",
+            "lg"
+          ]
+        },
+        "xl": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "ExtraBold",
+            "lineHeight": "125%",
+            "fontSize": "56px",
+            "letterSpacing": "0%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "Qanelas",
+              "fontWeight": "ExtraBold",
+              "lineHeight": "125%",
+              "fontSize": "56px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": 0,
+              "textDecoration": "none",
+              "textCase": "As typed"
+            },
+            "type": "typography"
+          },
+          "name": "xl",
+          "attributes": {},
+          "path": [
+            "tv",
+            "typography",
+            "heading",
+            "xl"
+          ]
+        },
+        "xxl": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "ExtraBold",
+            "lineHeight": "125%",
+            "fontSize": "56px",
+            "letterSpacing": "0%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "Qanelas",
+              "fontWeight": "ExtraBold",
+              "lineHeight": "125%",
+              "fontSize": "56px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": 0,
+              "textDecoration": "none",
+              "textCase": "As typed"
+            },
+            "type": "typography"
+          },
+          "name": "xxl",
+          "attributes": {},
+          "path": [
+            "tv",
+            "typography",
+            "heading",
+            "xxl"
+          ]
+        },
+        "xxxl": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "ExtraBold",
+            "lineHeight": "125%",
+            "fontSize": "90px",
+            "letterSpacing": "0%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "Qanelas",
+              "fontWeight": "ExtraBold",
+              "lineHeight": "125%",
+              "fontSize": "90px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": 0,
+              "textDecoration": "none",
+              "textCase": "As typed"
+            },
+            "type": "typography"
+          },
+          "name": "xxxl",
+          "attributes": {},
+          "path": [
+            "tv",
+            "typography",
+            "heading",
+            "xxxl"
+          ]
+        }
+      },
+      "interactive": {
+        "sm": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Bold",
+            "lineHeight": "125%",
+            "fontSize": "24px",
+            "letterSpacing": "1%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "Qanelas",
+              "fontWeight": "Bold",
+              "lineHeight": "125%",
+              "fontSize": "24px",
+              "letterSpacing": "1%",
+              "paragraphSpacing": 0,
+              "textDecoration": "none",
+              "textCase": "As typed"
+            },
+            "type": "typography"
+          },
+          "name": "sm",
+          "attributes": {},
+          "path": [
+            "tv",
+            "typography",
+            "interactive",
+            "sm"
+          ]
+        },
+        "md": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Bold",
+            "lineHeight": "125%",
+            "fontSize": "28px",
+            "letterSpacing": "1%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "Qanelas",
+              "fontWeight": "Bold",
+              "lineHeight": "125%",
+              "fontSize": "28px",
+              "letterSpacing": "1%",
+              "paragraphSpacing": 0,
+              "textDecoration": "none",
+              "textCase": "As typed"
+            },
+            "type": "typography"
+          },
+          "name": "md",
+          "attributes": {},
+          "path": [
+            "tv",
+            "typography",
+            "interactive",
+            "md"
+          ]
+        },
+        "lg": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Bold",
+            "lineHeight": "125%",
+            "fontSize": "32px",
+            "letterSpacing": "0%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "Qanelas",
+              "fontWeight": "Bold",
+              "lineHeight": "125%",
+              "fontSize": "32px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": 0,
+              "textDecoration": "none",
+              "textCase": "As typed"
+            },
+            "type": "typography"
+          },
+          "name": "lg",
+          "attributes": {},
+          "path": [
+            "tv",
+            "typography",
+            "interactive",
+            "lg"
+          ]
+        }
+      },
+      "label": {
+        "xs": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Medium",
+            "lineHeight": "125%",
+            "fontSize": "18px",
+            "letterSpacing": "3%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "Qanelas",
+              "fontWeight": "Medium",
+              "lineHeight": "125%",
+              "fontSize": "18px",
+              "letterSpacing": "3%",
+              "paragraphSpacing": 0,
+              "textDecoration": "none",
+              "textCase": "As typed"
+            },
+            "type": "typography"
+          },
+          "name": "xs",
+          "attributes": {},
+          "path": [
+            "tv",
+            "typography",
+            "label",
+            "xs"
+          ]
+        },
+        "xs-bold": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Bold",
+            "lineHeight": "125%",
+            "fontSize": "18px",
+            "letterSpacing": "3%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "Qanelas",
+              "fontWeight": "Bold",
+              "lineHeight": "125%",
+              "fontSize": "18px",
+              "letterSpacing": "3%",
+              "paragraphSpacing": 0,
+              "textDecoration": "none",
+              "textCase": "As typed"
+            },
+            "type": "typography"
+          },
+          "name": "xs-bold",
+          "attributes": {},
+          "path": [
+            "tv",
+            "typography",
+            "label",
+            "xs-bold"
+          ]
+        },
+        "sm": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Medium",
+            "lineHeight": "125%",
+            "fontSize": "20px",
+            "letterSpacing": "1%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "Qanelas",
+              "fontWeight": "Medium",
+              "lineHeight": "125%",
+              "fontSize": "20px",
+              "letterSpacing": "1%",
+              "paragraphSpacing": 0,
+              "textDecoration": "none",
+              "textCase": "As typed"
+            },
+            "type": "typography"
+          },
+          "name": "sm",
+          "attributes": {},
+          "path": [
+            "tv",
+            "typography",
+            "label",
+            "sm"
+          ]
+        },
+        "sm-bold": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Medium",
+            "lineHeight": "125%",
+            "fontSize": "20px",
+            "letterSpacing": "1%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "Qanelas",
+              "fontWeight": "Medium",
+              "lineHeight": "125%",
+              "fontSize": "20px",
+              "letterSpacing": "1%",
+              "paragraphSpacing": 0,
+              "textDecoration": "none",
+              "textCase": "As typed"
+            },
+            "type": "typography"
+          },
+          "name": "sm-bold",
+          "attributes": {},
+          "path": [
+            "tv",
+            "typography",
+            "label",
+            "sm-bold"
+          ]
+        },
+        "md": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Medium",
+            "lineHeight": "125%",
+            "fontSize": "24px",
+            "letterSpacing": "1%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "Qanelas",
+              "fontWeight": "Medium",
+              "lineHeight": "125%",
+              "fontSize": "24px",
+              "letterSpacing": "1%",
+              "paragraphSpacing": 0,
+              "textDecoration": "none",
+              "textCase": "As typed"
+            },
+            "type": "typography"
+          },
+          "name": "md",
+          "attributes": {},
+          "path": [
+            "tv",
+            "typography",
+            "label",
+            "md"
+          ]
+        },
+        "md-bold": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Bold",
+            "lineHeight": "125%",
+            "fontSize": "24px",
+            "letterSpacing": "1%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "Qanelas",
+              "fontWeight": "Bold",
+              "lineHeight": "125%",
+              "fontSize": "24px",
+              "letterSpacing": "1%",
+              "paragraphSpacing": 0,
+              "textDecoration": "none",
+              "textCase": "As typed"
+            },
+            "type": "typography"
+          },
+          "name": "md-bold",
+          "attributes": {},
+          "path": [
+            "tv",
+            "typography",
+            "label",
+            "md-bold"
+          ]
+        },
+        "lg": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Medium",
+            "lineHeight": "125%",
+            "fontSize": "28px",
+            "letterSpacing": "1%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "Qanelas",
+              "fontWeight": "Medium",
+              "lineHeight": "125%",
+              "fontSize": "28px",
+              "letterSpacing": "1%",
+              "paragraphSpacing": 0,
+              "textDecoration": "none",
+              "textCase": "As typed"
+            },
+            "type": "typography"
+          },
+          "name": "lg",
+          "attributes": {},
+          "path": [
+            "tv",
+            "typography",
+            "label",
+            "lg"
+          ]
+        },
+        "lg-bold": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Bold",
+            "lineHeight": "125%",
+            "fontSize": "28px",
+            "letterSpacing": "1%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "Qanelas",
+              "fontWeight": "Bold",
+              "lineHeight": "125%",
+              "fontSize": "28px",
+              "letterSpacing": "1%",
+              "paragraphSpacing": 0,
+              "textDecoration": "none",
+              "textCase": "As typed"
+            },
+            "type": "typography"
+          },
+          "name": "lg-bold",
+          "attributes": {},
+          "path": [
+            "tv",
+            "typography",
+            "label",
+            "lg-bold"
+          ]
+        }
+      },
+      "body": {
+        "sm": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Medium",
+            "lineHeight": "125%",
+            "fontSize": "24px",
+            "letterSpacing": "1%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "Qanelas",
+              "fontWeight": "Medium",
+              "lineHeight": "125%",
+              "fontSize": "24px",
+              "letterSpacing": "1%",
+              "paragraphSpacing": 0,
+              "textDecoration": "none",
+              "textCase": "As typed"
+            },
+            "type": "typography"
+          },
+          "name": "sm",
+          "attributes": {},
+          "path": [
+            "tv",
+            "typography",
+            "body",
+            "sm"
+          ]
+        },
+        "md": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Medium",
+            "lineHeight": "125%",
+            "fontSize": "28px",
+            "letterSpacing": "1%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "Qanelas",
+              "fontWeight": "Medium",
+              "lineHeight": "125%",
+              "fontSize": "28px",
+              "letterSpacing": "1%",
+              "paragraphSpacing": 0,
+              "textDecoration": "none",
+              "textCase": "As typed"
+            },
+            "type": "typography"
+          },
+          "name": "md",
+          "attributes": {},
+          "path": [
+            "tv",
+            "typography",
+            "body",
+            "md"
+          ]
         }
       }
     }

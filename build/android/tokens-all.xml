@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 14 Jun 2022 15:52:08 GMT
+  Generated on Tue, 14 Jun 2022 16:37:00 GMT
 -->
 <resources>
   <string name="tv_button_primary_color_bg_default">#232424</string>
@@ -205,6 +205,23 @@
   <string name="tv_typography_heading_xs">[object Object]</string>
   <string name="tv_typography_heading_sm">[object Object]</string>
   <string name="tv_typography_heading_md">[object Object]</string>
+  <string name="tv_typography_heading_lg">[object Object]</string>
+  <string name="tv_typography_heading_xl">[object Object]</string>
+  <string name="tv_typography_heading_xxl">[object Object]</string>
+  <string name="tv_typography_heading_xxxl">[object Object]</string>
+  <string name="tv_typography_interactive_sm">[object Object]</string>
+  <string name="tv_typography_interactive_md">[object Object]</string>
+  <string name="tv_typography_interactive_lg">[object Object]</string>
+  <string name="tv_typography_label_xs">[object Object]</string>
+  <string name="tv_typography_label_xs_bold">[object Object]</string>
+  <string name="tv_typography_label_sm">[object Object]</string>
+  <string name="tv_typography_label_sm_bold">[object Object]</string>
+  <string name="tv_typography_label_md">[object Object]</string>
+  <string name="tv_typography_label_md_bold">[object Object]</string>
+  <string name="tv_typography_label_lg">[object Object]</string>
+  <string name="tv_typography_label_lg_bold">[object Object]</string>
+  <string name="tv_typography_body_sm">[object Object]</string>
+  <string name="tv_typography_body_md">[object Object]</string>
   <color name="color_text_primary_on_dark">#fffafafa</color>
   <color name="color_text_primary_on_dark_copy">#fffafafa</color>
   <color name="color_text_primary_on_light">#ff0f1010</color>
