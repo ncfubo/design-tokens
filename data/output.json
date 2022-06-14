@@ -905,19 +905,19 @@
         }
       },
       "paragraph": {
-        "tvOS": {
+        "tvos": {
           "value": "SF Pro Text",
           "type": "fontFamilies"
         },
-        "Roku": {
+        "roku": {
           "value": "Gotham Book",
           "type": "fontFamilies"
         },
-        "fireTV": {
+        "firetv": {
           "value": "Roboto",
           "type": "fontFamilies"
         },
-        "smartTV": {
+        "smarttv": {
           "value": "Helvetica",
           "type": "fontFamilies"
         }
@@ -1192,6 +1192,86 @@
             "lineHeight": "125%",
             "fontSize": "28px",
             "letterSpacing": "1%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography"
+        },
+        "lg": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Medium",
+            "lineHeight": "125%",
+            "fontSize": "32px",
+            "letterSpacing": "0%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography"
+        },
+        "xl": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Medium",
+            "lineHeight": "125%",
+            "fontSize": "36px",
+            "letterSpacing": "0%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography"
+        }
+      },
+      "paragraph": {
+        "tvos": {
+          "value": {
+            "fontFamily": "SF Pro Text",
+            "fontWeight": "Medium",
+            "lineHeight": "150%",
+            "fontSize": "28px",
+            "letterSpacing": "0%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography"
+        },
+        "roku": {
+          "value": {
+            "fontFamily": "Gotham Book",
+            "fontWeight": "Medium",
+            "lineHeight": "150%",
+            "fontSize": "28px",
+            "letterSpacing": "0%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography"
+        },
+        "firetv": {
+          "value": {
+            "fontFamily": "Roboto",
+            "fontWeight": "Medium",
+            "lineHeight": "(tv.line-height.paragraph.firetv}",
+            "fontSize": "28px",
+            "letterSpacing": "0%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography"
+        },
+        "smarttv": {
+          "value": {
+            "fontFamily": "Helvetica",
+            "fontWeight": "Medium",
+            "lineHeight": "150%",
+            "fontSize": "28px",
+            "letterSpacing": "0%",
             "paragraphSpacing": 0,
             "textDecoration": "none",
             "textCase": "As typed"

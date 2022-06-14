@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 14 Jun 2022 16:37:00 GMT
+  Generated on Tue, 14 Jun 2022 21:04:08 GMT
 -->
 <resources>
   <string name="tv_button_primary_color_bg_default">#232424</string>
@@ -197,10 +197,10 @@
   <string name="tv_font_face_body_md">Qanelas</string>
   <string name="tv_font_face_body_lg">Qanelas</string>
   <string name="tv_font_face_body_xl">Qanelas</string>
-  <string name="tv_font_face_paragraph_tv_os">SF Pro Text</string>
+  <string name="tv_font_face_paragraph_tvos">SF Pro Text</string>
   <string name="tv_font_face_paragraph_roku">Gotham Book</string>
-  <string name="tv_font_face_paragraph_fire_tv">Roboto</string>
-  <string name="tv_font_face_paragraph_smart_tv">Helvetica</string>
+  <string name="tv_font_face_paragraph_firetv">Roboto</string>
+  <string name="tv_font_face_paragraph_smarttv">Helvetica</string>
   <string name="tv_border_width_focus">8</string>
   <string name="tv_typography_heading_xs">[object Object]</string>
   <string name="tv_typography_heading_sm">[object Object]</string>
@@ -222,6 +222,12 @@
   <string name="tv_typography_label_lg_bold">[object Object]</string>
   <string name="tv_typography_body_sm">[object Object]</string>
   <string name="tv_typography_body_md">[object Object]</string>
+  <string name="tv_typography_body_lg">[object Object]</string>
+  <string name="tv_typography_body_xl">[object Object]</string>
+  <string name="tv_typography_paragraph_tvos">[object Object]</string>
+  <string name="tv_typography_paragraph_roku">[object Object]</string>
+  <string name="tv_typography_paragraph_firetv">[object Object]</string>
+  <string name="tv_typography_paragraph_smarttv">[object Object]</string>
   <color name="color_text_primary_on_dark">#fffafafa</color>
   <color name="color_text_primary_on_dark_copy">#fffafafa</color>
   <color name="color_text_primary_on_light">#ff0f1010</color>

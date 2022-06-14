@@ -3617,7 +3617,7 @@
         }
       },
       "paragraph": {
-        "tvOS": {
+        "tvos": {
           "value": "SF Pro Text",
           "type": "fontFamilies",
           "filePath": "data/output.json",
@@ -3626,16 +3626,16 @@
             "value": "SF Pro Text",
             "type": "fontFamilies"
           },
-          "name": "tvOS",
+          "name": "tvos",
           "attributes": {},
           "path": [
             "tv",
             "font-face",
             "paragraph",
-            "tvOS"
+            "tvos"
           ]
         },
-        "Roku": {
+        "roku": {
           "value": "Gotham Book",
           "type": "fontFamilies",
           "filePath": "data/output.json",
@@ -3644,16 +3644,16 @@
             "value": "Gotham Book",
             "type": "fontFamilies"
           },
-          "name": "Roku",
+          "name": "roku",
           "attributes": {},
           "path": [
             "tv",
             "font-face",
             "paragraph",
-            "Roku"
+            "roku"
           ]
         },
-        "fireTV": {
+        "firetv": {
           "value": "Roboto",
           "type": "fontFamilies",
           "filePath": "data/output.json",
@@ -3662,16 +3662,16 @@
             "value": "Roboto",
             "type": "fontFamilies"
           },
-          "name": "fireTV",
+          "name": "firetv",
           "attributes": {},
           "path": [
             "tv",
             "font-face",
             "paragraph",
-            "fireTV"
+            "firetv"
           ]
         },
-        "smartTV": {
+        "smarttv": {
           "value": "Helvetica",
           "type": "fontFamilies",
           "filePath": "data/output.json",
@@ -3680,13 +3680,13 @@
             "value": "Helvetica",
             "type": "fontFamilies"
           },
-          "name": "smartTV",
+          "name": "smarttv",
           "attributes": {},
           "path": [
             "tv",
             "font-face",
             "paragraph",
-            "smartTV"
+            "smarttv"
           ]
         }
       }
@@ -4438,6 +4438,224 @@
             "typography",
             "body",
             "md"
+          ]
+        },
+        "lg": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Medium",
+            "lineHeight": "125%",
+            "fontSize": "32px",
+            "letterSpacing": "0%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "Qanelas",
+              "fontWeight": "Medium",
+              "lineHeight": "125%",
+              "fontSize": "32px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": 0,
+              "textDecoration": "none",
+              "textCase": "As typed"
+            },
+            "type": "typography"
+          },
+          "name": "lg",
+          "attributes": {},
+          "path": [
+            "tv",
+            "typography",
+            "body",
+            "lg"
+          ]
+        },
+        "xl": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Medium",
+            "lineHeight": "125%",
+            "fontSize": "36px",
+            "letterSpacing": "0%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "Qanelas",
+              "fontWeight": "Medium",
+              "lineHeight": "125%",
+              "fontSize": "36px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": 0,
+              "textDecoration": "none",
+              "textCase": "As typed"
+            },
+            "type": "typography"
+          },
+          "name": "xl",
+          "attributes": {},
+          "path": [
+            "tv",
+            "typography",
+            "body",
+            "xl"
+          ]
+        }
+      },
+      "paragraph": {
+        "tvos": {
+          "value": {
+            "fontFamily": "SF Pro Text",
+            "fontWeight": "Medium",
+            "lineHeight": "150%",
+            "fontSize": "28px",
+            "letterSpacing": "0%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "SF Pro Text",
+              "fontWeight": "Medium",
+              "lineHeight": "150%",
+              "fontSize": "28px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": 0,
+              "textDecoration": "none",
+              "textCase": "As typed"
+            },
+            "type": "typography"
+          },
+          "name": "tvos",
+          "attributes": {},
+          "path": [
+            "tv",
+            "typography",
+            "paragraph",
+            "tvos"
+          ]
+        },
+        "roku": {
+          "value": {
+            "fontFamily": "Gotham Book",
+            "fontWeight": "Medium",
+            "lineHeight": "150%",
+            "fontSize": "28px",
+            "letterSpacing": "0%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "Gotham Book",
+              "fontWeight": "Medium",
+              "lineHeight": "150%",
+              "fontSize": "28px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": 0,
+              "textDecoration": "none",
+              "textCase": "As typed"
+            },
+            "type": "typography"
+          },
+          "name": "roku",
+          "attributes": {},
+          "path": [
+            "tv",
+            "typography",
+            "paragraph",
+            "roku"
+          ]
+        },
+        "firetv": {
+          "value": {
+            "fontFamily": "Roboto",
+            "fontWeight": "Medium",
+            "lineHeight": "(tv.line-height.paragraph.firetv}",
+            "fontSize": "28px",
+            "letterSpacing": "0%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "Roboto",
+              "fontWeight": "Medium",
+              "lineHeight": "(tv.line-height.paragraph.firetv}",
+              "fontSize": "28px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": 0,
+              "textDecoration": "none",
+              "textCase": "As typed"
+            },
+            "type": "typography"
+          },
+          "name": "firetv",
+          "attributes": {},
+          "path": [
+            "tv",
+            "typography",
+            "paragraph",
+            "firetv"
+          ]
+        },
+        "smarttv": {
+          "value": {
+            "fontFamily": "Helvetica",
+            "fontWeight": "Medium",
+            "lineHeight": "150%",
+            "fontSize": "28px",
+            "letterSpacing": "0%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "Helvetica",
+              "fontWeight": "Medium",
+              "lineHeight": "150%",
+              "fontSize": "28px",
+              "letterSpacing": "0%",
+              "paragraphSpacing": 0,
+              "textDecoration": "none",
+              "textCase": "As typed"
+            },
+            "type": "typography"
+          },
+          "name": "smarttv",
+          "attributes": {},
+          "path": [
+            "tv",
+            "typography",
+            "paragraph",
+            "smarttv"
           ]
         }
       }
