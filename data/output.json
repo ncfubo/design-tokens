@@ -657,6 +657,10 @@
         }
       },
       "heading": {
+        "xs": {
+          "value": "125%",
+          "type": "lineHeights"
+        },
         "sm": {
           "value": "125%",
           "type": "lineHeights"
@@ -753,6 +757,10 @@
         }
       },
       "heading": {
+        "xs": {
+          "value": "1%",
+          "type": "letterSpacing"
+        },
         "sm": {
           "value": "1%",
           "type": "letterSpacing"
@@ -920,6 +928,50 @@
         "value": 8,
         "type": "borderWidth"
       }
+    },
+    "typography": {
+      "heading": {
+        "xs": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Bold",
+            "lineHeight": "125%",
+            "fontSize": "28px",
+            "letterSpacing": "1%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography",
+          "description": "Heading-XS styles for TV"
+        },
+        "sm": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Bold",
+            "lineHeight": "125%",
+            "fontSize": "32px",
+            "letterSpacing": "1%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography"
+        },
+        "md": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Bold",
+            "lineHeight": "125%",
+            "fontSize": "36px",
+            "letterSpacing": "1%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography"
+        }
+      }
     }
   },
   "color": {
@@ -943,13 +995,19 @@
         }
       }
     },
-    "bg-elevation": {
-      "1": {
-        "value": "#191a1a",
-        "type": "color"
+    "bg": {
+      "elevation": {
+        "1": {
+          "value": "#191a1a",
+          "type": "color"
+        },
+        "2": {
+          "value": "#232424",
+          "type": "color"
+        }
       },
-      "2": {
-        "value": "#232424",
+      "placeholder": {
+        "value": "#a7aaaa",
         "type": "color"
       }
     },
@@ -974,10 +1032,6 @@
         "value": "#fafafa",
         "type": "color"
       }
-    },
-    "bg-placeholder": {
-      "value": "#a7aaaa",
-      "type": "color"
     },
     "orange": {
       "100": {

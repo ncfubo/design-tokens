@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 13 Jun 2022 20:35:06 GMT
+  Generated on Tue, 14 Jun 2022 15:52:08 GMT
 -->
 <resources>
   <string name="tv_button_primary_color_bg_default">#232424</string>
@@ -142,6 +142,7 @@
   <string name="tv_line_height_label_sm">125%</string>
   <string name="tv_line_height_label_md">125%</string>
   <string name="tv_line_height_label_lg">125%</string>
+  <string name="tv_line_height_heading_xs">125%</string>
   <string name="tv_line_height_heading_sm">125%</string>
   <string name="tv_line_height_heading_md">125%</string>
   <string name="tv_line_height_heading_lg">125%</string>
@@ -163,6 +164,7 @@
   <string name="tv_letter_spacing_label_sm">1%</string>
   <string name="tv_letter_spacing_label_md">1%</string>
   <string name="tv_letter_spacing_label_lg">1%</string>
+  <string name="tv_letter_spacing_heading_xs">1%</string>
   <string name="tv_letter_spacing_heading_sm">1%</string>
   <string name="tv_letter_spacing_heading_md">1%</string>
   <string name="tv_letter_spacing_heading_lg">0%</string>
@@ -200,17 +202,20 @@
   <string name="tv_font_face_paragraph_fire_tv">Roboto</string>
   <string name="tv_font_face_paragraph_smart_tv">Helvetica</string>
   <string name="tv_border_width_focus">8</string>
+  <string name="tv_typography_heading_xs">[object Object]</string>
+  <string name="tv_typography_heading_sm">[object Object]</string>
+  <string name="tv_typography_heading_md">[object Object]</string>
   <color name="color_text_primary_on_dark">#fffafafa</color>
   <color name="color_text_primary_on_dark_copy">#fffafafa</color>
   <color name="color_text_primary_on_light">#ff0f1010</color>
   <color name="color_text_primary_on_brand">#fffafafa</color>
   <color name="color_bg_elevation_1">#ff191a1a</color>
   <color name="color_bg_elevation_2">#ff232424</color>
+  <color name="color_bg_placeholder">#ffa7aaaa</color>
   <color name="color_icon_primary_on_dark">#fffafafa</color>
   <color name="color_semantic_favorite">#ff2bb1e3</color>
   <color name="color_semantic_live">#fffa4616</color>
   <color name="color_semantic_focus">#fffafafa</color>
-  <color name="color_bg_placeholder">#ffa7aaaa</color>
   <color name="color_orange_100">#fffa4616</color>
   <color name="color_orange_120">#fffb6e48</color>
   <color name="color_orange_140">#fffca28a</color>

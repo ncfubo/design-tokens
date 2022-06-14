@@ -2599,6 +2599,24 @@
         }
       },
       "heading": {
+        "xs": {
+          "value": "125%",
+          "type": "lineHeights",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "125%",
+            "type": "lineHeights"
+          },
+          "name": "xs",
+          "attributes": {},
+          "path": [
+            "tv",
+            "line-height",
+            "heading",
+            "xs"
+          ]
+        },
         "sm": {
           "value": "125%",
           "type": "lineHeights",
@@ -2989,6 +3007,24 @@
         }
       },
       "heading": {
+        "xs": {
+          "value": "1%",
+          "type": "letterSpacing",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "1%",
+            "type": "letterSpacing"
+          },
+          "name": "xs",
+          "attributes": {},
+          "path": [
+            "tv",
+            "letter-spacing",
+            "heading",
+            "xs"
+          ]
+        },
         "sm": {
           "value": "1%",
           "type": "letterSpacing",
@@ -3673,6 +3709,120 @@
           "focus"
         ]
       }
+    },
+    "typography": {
+      "heading": {
+        "xs": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Bold",
+            "lineHeight": "125%",
+            "fontSize": "28px",
+            "letterSpacing": "1%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography",
+          "description": "Heading-XS styles for TV",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "Qanelas",
+              "fontWeight": "Bold",
+              "lineHeight": "125%",
+              "fontSize": "28px",
+              "letterSpacing": "1%",
+              "paragraphSpacing": 0,
+              "textDecoration": "none",
+              "textCase": "As typed"
+            },
+            "type": "typography",
+            "description": "Heading-XS styles for TV"
+          },
+          "name": "xs",
+          "attributes": {},
+          "path": [
+            "tv",
+            "typography",
+            "heading",
+            "xs"
+          ]
+        },
+        "sm": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Bold",
+            "lineHeight": "125%",
+            "fontSize": "32px",
+            "letterSpacing": "1%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "Qanelas",
+              "fontWeight": "Bold",
+              "lineHeight": "125%",
+              "fontSize": "32px",
+              "letterSpacing": "1%",
+              "paragraphSpacing": 0,
+              "textDecoration": "none",
+              "textCase": "As typed"
+            },
+            "type": "typography"
+          },
+          "name": "sm",
+          "attributes": {},
+          "path": [
+            "tv",
+            "typography",
+            "heading",
+            "sm"
+          ]
+        },
+        "md": {
+          "value": {
+            "fontFamily": "Qanelas",
+            "fontWeight": "Bold",
+            "lineHeight": "125%",
+            "fontSize": "36px",
+            "letterSpacing": "1%",
+            "paragraphSpacing": 0,
+            "textDecoration": "none",
+            "textCase": "As typed"
+          },
+          "type": "typography",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "Qanelas",
+              "fontWeight": "Bold",
+              "lineHeight": "125%",
+              "fontSize": "36px",
+              "letterSpacing": "1%",
+              "paragraphSpacing": 0,
+              "textDecoration": "none",
+              "textCase": "As typed"
+            },
+            "type": "typography"
+          },
+          "name": "md",
+          "attributes": {},
+          "path": [
+            "tv",
+            "typography",
+            "heading",
+            "md"
+          ]
+        }
+      }
     }
   },
   "color": {
@@ -3752,39 +3902,60 @@
         }
       }
     },
-    "bg-elevation": {
-      "1": {
-        "value": "#191a1a",
-        "type": "color",
-        "filePath": "data/output.json",
-        "isSource": true,
-        "original": {
+    "bg": {
+      "elevation": {
+        "1": {
           "value": "#191a1a",
-          "type": "color"
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#191a1a",
+            "type": "color"
+          },
+          "name": "1",
+          "attributes": {},
+          "path": [
+            "color",
+            "bg",
+            "elevation",
+            "1"
+          ]
         },
-        "name": "1",
-        "attributes": {},
-        "path": [
-          "color",
-          "bg-elevation",
-          "1"
-        ]
+        "2": {
+          "value": "#232424",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#232424",
+            "type": "color"
+          },
+          "name": "2",
+          "attributes": {},
+          "path": [
+            "color",
+            "bg",
+            "elevation",
+            "2"
+          ]
+        }
       },
-      "2": {
-        "value": "#232424",
+      "placeholder": {
+        "value": "#a7aaaa",
         "type": "color",
         "filePath": "data/output.json",
         "isSource": true,
         "original": {
-          "value": "#232424",
+          "value": "#a7aaaa",
           "type": "color"
         },
-        "name": "2",
+        "name": "placeholder",
         "attributes": {},
         "path": [
           "color",
-          "bg-elevation",
-          "2"
+          "bg",
+          "placeholder"
         ]
       }
     },
@@ -3862,22 +4033,6 @@
           "focus"
         ]
       }
-    },
-    "bg-placeholder": {
-      "value": "#a7aaaa",
-      "type": "color",
-      "filePath": "data/output.json",
-      "isSource": true,
-      "original": {
-        "value": "#a7aaaa",
-        "type": "color"
-      },
-      "name": "bg-placeholder",
-      "attributes": {},
-      "path": [
-        "color",
-        "bg-placeholder"
-      ]
     },
     "orange": {
       "100": {

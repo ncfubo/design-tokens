@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Mon, 13 Jun 2022 20:35:06 GMT
+// Generated on Tue, 14 Jun 2022 15:52:08 GMT
 
 $tv-button-primary-color-bg-default: #232424;
 $tv-button-primary-color-text-default: #fafafa;
@@ -139,6 +139,7 @@ $tv-line-height-label-xs: 125%;
 $tv-line-height-label-sm: 125%;
 $tv-line-height-label-md: 125%;
 $tv-line-height-label-lg: 125%;
+$tv-line-height-heading-xs: 125%;
 $tv-line-height-heading-sm: 125%;
 $tv-line-height-heading-md: 125%;
 $tv-line-height-heading-lg: 125%;
@@ -160,6 +161,7 @@ $tv-letter-spacing-label-xs: 3%;
 $tv-letter-spacing-label-sm: 1%;
 $tv-letter-spacing-label-md: 1%;
 $tv-letter-spacing-label-lg: 1%;
+$tv-letter-spacing-heading-xs: 1%;
 $tv-letter-spacing-heading-sm: 1%;
 $tv-letter-spacing-heading-md: 1%;
 $tv-letter-spacing-heading-lg: 0%;
@@ -197,17 +199,20 @@ $tv-font-face-paragraph-roku: Gotham Book;
 $tv-font-face-paragraph-fire-tv: Roboto;
 $tv-font-face-paragraph-smart-tv: Helvetica;
 $tv-border-width-focus: 8;
+$tv-typography-heading-xs: [object Object];
+$tv-typography-heading-sm: [object Object];
+$tv-typography-heading-md: [object Object];
 $color-text-primary-on-dark: #fafafa;
 $color-text-primary-on-dark-copy: #fafafa;
 $color-text-primary-on-light: #0f1010;
 $color-text-primary-on-brand: #fafafa;
 $color-bg-elevation-1: #191a1a;
 $color-bg-elevation-2: #232424;
+$color-bg-placeholder: #a7aaaa;
 $color-icon-primary-on-dark: #fafafa;
 $color-semantic-favorite: #2bb1e3;
 $color-semantic-live: #fa4616;
 $color-semantic-focus: #fafafa;
-$color-bg-placeholder: #a7aaaa;
 $color-orange-100: #fa4616;
 $color-orange-120: #fb6e48;
 $color-orange-140: #fca28a;

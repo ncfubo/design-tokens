@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 13 Jun 2022 20:35:06 GMT
+  Generated on Tue, 14 Jun 2022 15:52:08 GMT
 -->
 <resources>
   <color name="tv_button_primary_color_bg_default">#232424</color>
@@ -32,11 +32,11 @@
   <color name="color_text_primary_on_brand">#fffafafa</color>
   <color name="color_bg_elevation_1">#ff191a1a</color>
   <color name="color_bg_elevation_2">#ff232424</color>
+  <color name="color_bg_placeholder">#ffa7aaaa</color>
   <color name="color_icon_primary_on_dark">#fffafafa</color>
   <color name="color_semantic_favorite">#ff2bb1e3</color>
   <color name="color_semantic_live">#fffa4616</color>
   <color name="color_semantic_focus">#fffafafa</color>
-  <color name="color_bg_placeholder">#ffa7aaaa</color>
   <color name="color_orange_100">#fffa4616</color>
   <color name="color_orange_120">#fffb6e48</color>
   <color name="color_orange_140">#fffca28a</color>
