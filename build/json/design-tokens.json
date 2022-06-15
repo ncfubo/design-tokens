@@ -1324,6 +1324,87 @@
         }
       }
     },
+    "profile": {
+      "color": {
+        "label": {
+          "value": "#fafafa",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#fafafa",
+            "type": "color"
+          },
+          "name": "label",
+          "attributes": {},
+          "path": [
+            "tv",
+            "profile",
+            "color",
+            "label"
+          ]
+        },
+        "border": {
+          "value": "#fafafa",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#fafafa",
+            "type": "color"
+          },
+          "name": "border",
+          "attributes": {},
+          "path": [
+            "tv",
+            "profile",
+            "color",
+            "border"
+          ]
+        }
+      },
+      "selector": {
+        "typography": {
+          "label": {
+            "value": {
+              "fontFamily": "Qanelas",
+              "fontWeight": "Bold",
+              "lineHeight": "125%",
+              "fontSize": "28px",
+              "letterSpacing": "1%",
+              "paragraphSpacing": 0,
+              "textDecoration": "none",
+              "textCase": "As typed"
+            },
+            "type": "typography",
+            "filePath": "data/output.json",
+            "isSource": true,
+            "original": {
+              "value": {
+                "fontFamily": "Qanelas",
+                "fontWeight": "Bold",
+                "lineHeight": "125%",
+                "fontSize": "28px",
+                "letterSpacing": "1%",
+                "paragraphSpacing": 0,
+                "textDecoration": "none",
+                "textCase": "As typed"
+              },
+              "type": "typography"
+            },
+            "name": "label",
+            "attributes": {},
+            "path": [
+              "tv",
+              "profile",
+              "selector",
+              "typography",
+              "label"
+            ]
+          }
+        }
+      }
+    },
     "font-weight": {
       "interactive": {
         "sm": {

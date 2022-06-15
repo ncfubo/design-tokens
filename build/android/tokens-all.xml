@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 14 Jun 2022 21:04:08 GMT
+  Generated on Wed, 15 Jun 2022 15:32:15 GMT
 -->
 <resources>
   <string name="tv_button_primary_color_bg_default">#232424</string>
@@ -72,6 +72,9 @@
   <string name="tv_card_show_border_radius">8px</string>
   <string name="tv_card_border_width_focus">8</string>
   <string name="tv_card_movie_poster_border_radius">12px</string>
+  <string name="tv_profile_color_label">#fafafa</string>
+  <string name="tv_profile_color_border">#fafafa</string>
+  <string name="tv_profile_selector_typography_label">[object Object]</string>
   <string name="tv_font_weight_interactive_sm">Bold</string>
   <string name="tv_font_weight_interactive_md">Bold</string>
   <string name="tv_font_weight_interactive_lg">Bold</string>

@@ -347,6 +347,35 @@
         }
       }
     },
+    "profile": {
+      "color": {
+        "label": {
+          "value": "#fafafa",
+          "type": "color"
+        },
+        "border": {
+          "value": "#fafafa",
+          "type": "color"
+        }
+      },
+      "selector": {
+        "typography": {
+          "label": {
+            "value": {
+              "fontFamily": "Qanelas",
+              "fontWeight": "Bold",
+              "lineHeight": "125%",
+              "fontSize": "28px",
+              "letterSpacing": "1%",
+              "paragraphSpacing": 0,
+              "textDecoration": "none",
+              "textCase": "As typed"
+            },
+            "type": "typography"
+          }
+        }
+      }
+    },
     "font-weight": {
       "interactive": {
         "sm": {

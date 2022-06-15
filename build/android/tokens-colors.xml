@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 14 Jun 2022 21:04:08 GMT
+  Generated on Wed, 15 Jun 2022 15:32:15 GMT
 -->
 <resources>
   <color name="tv_button_primary_color_bg_default">#232424</color>
@@ -26,6 +26,8 @@
   <color name="tv_card_color_border_focus">#fafafa</color>
   <color name="tv_card_color_base_bg_default">#191a1a</color>
   <color name="tv_card_color_base_bg_focus">#fafafa</color>
+  <color name="tv_profile_color_label">#fafafa</color>
+  <color name="tv_profile_color_border">#fafafa</color>
   <color name="color_text_primary_on_dark">#fffafafa</color>
   <color name="color_text_primary_on_dark_copy">#fffafafa</color>
   <color name="color_text_primary_on_light">#ff0f1010</color>
