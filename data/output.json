@@ -336,7 +336,7 @@
       },
       "border-width": {
         "focus": {
-          "value": 8,
+          "value": "4px",
           "type": "borderWidth"
         }
       },
@@ -954,7 +954,7 @@
     },
     "border-width": {
       "focus": {
-        "value": 8,
+        "value": "4px",
         "type": "borderWidth"
       }
     },
