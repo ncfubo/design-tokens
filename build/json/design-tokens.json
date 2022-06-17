@@ -4952,6 +4952,101 @@
       }
     },
     "orange": {
+      "0": {
+        "value": "#110400",
+        "type": "color",
+        "description": "#110400",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "#110400",
+          "type": "color",
+          "description": "#110400"
+        },
+        "name": "0",
+        "attributes": {},
+        "path": [
+          "color",
+          "orange",
+          "0"
+        ]
+      },
+      "20": {
+        "value": "#220801",
+        "type": "color",
+        "description": "#220801",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "#220801",
+          "type": "color",
+          "description": "#220801"
+        },
+        "name": "20",
+        "attributes": {},
+        "path": [
+          "color",
+          "orange",
+          "20"
+        ]
+      },
+      "40": {
+        "value": "#430f01",
+        "type": "color",
+        "description": "#430F01",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "#430f01",
+          "type": "color",
+          "description": "#430F01"
+        },
+        "name": "40",
+        "attributes": {},
+        "path": [
+          "color",
+          "orange",
+          "40"
+        ]
+      },
+      "60": {
+        "value": "#751b03",
+        "type": "color",
+        "description": "#751B03",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "#751b03",
+          "type": "color",
+          "description": "#751B03"
+        },
+        "name": "60",
+        "attributes": {},
+        "path": [
+          "color",
+          "orange",
+          "60"
+        ]
+      },
+      "80": {
+        "value": "#b72a04",
+        "type": "color",
+        "description": "#B72A04",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "#b72a04",
+          "type": "color",
+          "description": "#B72A04"
+        },
+        "name": "80",
+        "attributes": {},
+        "path": [
+          "color",
+          "orange",
+          "80"
+        ]
+      },
       "100": {
         "value": "#fa4616",
         "type": "color",
@@ -5064,101 +5159,6 @@
           "color",
           "orange",
           "200"
-        ]
-      },
-      "000": {
-        "value": "#110400",
-        "type": "color",
-        "description": "#110400",
-        "filePath": "data/output.json",
-        "isSource": true,
-        "original": {
-          "value": "#110400",
-          "type": "color",
-          "description": "#110400"
-        },
-        "name": "000",
-        "attributes": {},
-        "path": [
-          "color",
-          "orange",
-          "000"
-        ]
-      },
-      "020": {
-        "value": "#220801",
-        "type": "color",
-        "description": "#220801",
-        "filePath": "data/output.json",
-        "isSource": true,
-        "original": {
-          "value": "#220801",
-          "type": "color",
-          "description": "#220801"
-        },
-        "name": "020",
-        "attributes": {},
-        "path": [
-          "color",
-          "orange",
-          "020"
-        ]
-      },
-      "040": {
-        "value": "#430f01",
-        "type": "color",
-        "description": "#430F01",
-        "filePath": "data/output.json",
-        "isSource": true,
-        "original": {
-          "value": "#430f01",
-          "type": "color",
-          "description": "#430F01"
-        },
-        "name": "040",
-        "attributes": {},
-        "path": [
-          "color",
-          "orange",
-          "040"
-        ]
-      },
-      "060": {
-        "value": "#751b03",
-        "type": "color",
-        "description": "#751B03",
-        "filePath": "data/output.json",
-        "isSource": true,
-        "original": {
-          "value": "#751b03",
-          "type": "color",
-          "description": "#751B03"
-        },
-        "name": "060",
-        "attributes": {},
-        "path": [
-          "color",
-          "orange",
-          "060"
-        ]
-      },
-      "080": {
-        "value": "#b72a04",
-        "type": "color",
-        "description": "#B72A04",
-        "filePath": "data/output.json",
-        "isSource": true,
-        "original": {
-          "value": "#b72a04",
-          "type": "color",
-          "description": "#B72A04"
-        },
-        "name": "080",
-        "attributes": {},
-        "path": [
-          "color",
-          "orange",
-          "080"
         ]
       }
     },

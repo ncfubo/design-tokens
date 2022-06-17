@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Thu, 16 Jun 2022 20:52:14 GMT
+  Generated on Fri, 17 Jun 2022 16:19:28 GMT
 -->
 <resources>
   <string name="tv_button_primary_color_bg_default">#232424</string>
@@ -242,17 +242,17 @@
   <color name="color_semantic_favorite">#ff2bb1e3</color>
   <color name="color_semantic_live">#fffa4616</color>
   <color name="color_semantic_focus">#fffafafa</color>
+  <color name="color_orange_0">#ff110400</color>
+  <color name="color_orange_20">#ff220801</color>
+  <color name="color_orange_40">#ff430f01</color>
+  <color name="color_orange_60">#ff751b03</color>
+  <color name="color_orange_80">#ffb72a04</color>
   <color name="color_orange_100">#fffa4616</color>
   <color name="color_orange_120">#fffb6e48</color>
   <color name="color_orange_140">#fffca28a</color>
   <color name="color_orange_160">#fffecabc</color>
   <color name="color_orange_180">#fffee4de</color>
   <color name="color_orange_200">#fffff2ee</color>
-  <color name="color_orange_000">#ff110400</color>
-  <color name="color_orange_020">#ff220801</color>
-  <color name="color_orange_040">#ff430f01</color>
-  <color name="color_orange_060">#ff751b03</color>
-  <color name="color_orange_080">#ffb72a04</color>
   <color name="color_blue_100">#ff2bb1e3</color>
   <color name="color_blue_120">#ff67c7eb</color>
   <color name="color_blue_140">#ffa3ddf3</color>
