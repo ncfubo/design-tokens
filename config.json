@@ -31,7 +31,7 @@
       "buildPath": "build/json/",
       "files": [{
         "destination": "design-tokens.json",
-        "format": "json"
+        "format": "json/flat"
       }]
     }
   }
