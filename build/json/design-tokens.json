@@ -4763,24 +4763,6 @@
             "on-dark"
           ]
         },
-        "on-dark-copy": {
-          "value": "#fafafa",
-          "type": "color",
-          "filePath": "data/output.json",
-          "isSource": true,
-          "original": {
-            "value": "#fafafa",
-            "type": "color"
-          },
-          "name": "on-dark-copy",
-          "attributes": {},
-          "path": [
-            "color",
-            "text",
-            "primary",
-            "on-dark-copy"
-          ]
-        },
         "on-light": {
           "value": "#0f1010",
           "type": "color",
@@ -4817,11 +4799,89 @@
             "on-brand"
           ]
         }
+      },
+      "secondary": {
+        "on-dark": {
+          "value": "#bbbebe",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#bbbebe",
+            "type": "color"
+          },
+          "name": "on-dark",
+          "attributes": {},
+          "path": [
+            "color",
+            "text",
+            "secondary",
+            "on-dark"
+          ]
+        }
+      },
+      "inactive": {
+        "on-dark": {
+          "value": "#b1b4b4",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#b1b4b4",
+            "type": "color"
+          },
+          "name": "on-dark",
+          "attributes": {},
+          "path": [
+            "color",
+            "text",
+            "inactive",
+            "on-dark"
+          ]
+        }
+      },
+      "disabled": {
+        "on-dark": {
+          "value": "#929696",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#929696",
+            "type": "color"
+          },
+          "name": "on-dark",
+          "attributes": {},
+          "path": [
+            "color",
+            "text",
+            "disabled",
+            "on-dark"
+          ]
+        }
       }
     },
     "bg": {
       "elevation": {
-        "1": {
+        "0": {
+          "value": "#0f1010",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#0f1010",
+            "type": "color"
+          },
+          "name": "0",
+          "attributes": {},
+          "path": [
+            "color",
+            "bg",
+            "elevation",
+            "0"
+          ]
+        },
+        "10": {
           "value": "#191a1a",
           "type": "color",
           "filePath": "data/output.json",
@@ -4830,16 +4890,16 @@
             "value": "#191a1a",
             "type": "color"
           },
-          "name": "1",
+          "name": "10",
           "attributes": {},
           "path": [
             "color",
             "bg",
             "elevation",
-            "1"
+            "10"
           ]
         },
-        "2": {
+        "20": {
           "value": "#232424",
           "type": "color",
           "filePath": "data/output.json",
@@ -4848,13 +4908,49 @@
             "value": "#232424",
             "type": "color"
           },
-          "name": "2",
+          "name": "20",
           "attributes": {},
           "path": [
             "color",
             "bg",
             "elevation",
-            "2"
+            "20"
+          ]
+        },
+        "30": {
+          "value": "#2d2f2f",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#2d2f2f",
+            "type": "color"
+          },
+          "name": "30",
+          "attributes": {},
+          "path": [
+            "color",
+            "bg",
+            "elevation",
+            "30"
+          ]
+        },
+        "40": {
+          "value": "#373939",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#373939",
+            "type": "color"
+          },
+          "name": "40",
+          "attributes": {},
+          "path": [
+            "color",
+            "bg",
+            "elevation",
+            "40"
           ]
         }
       },
@@ -8039,13 +8135,13 @@
     }
   },
   "drop-shadow": {
-    "xs": {
+    "sm": {
       "value": {
-        "x": 1,
-        "y": 1,
-        "blur": 0,
-        "spread": 0,
-        "color": "#000000",
+        "x": 0,
+        "y": 2,
+        "blur": 2,
+        "spread": -4,
+        "color": "#00000033",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -8053,20 +8149,20 @@
       "isSource": true,
       "original": {
         "value": {
-          "x": 1,
-          "y": 1,
-          "blur": 0,
-          "spread": 0,
-          "color": "#000000",
+          "x": 0,
+          "y": 2,
+          "blur": 2,
+          "spread": -4,
+          "color": "#00000033",
           "type": "dropShadow"
         },
         "type": "boxShadow"
       },
-      "name": "xs",
+      "name": "sm",
       "attributes": {},
       "path": [
         "drop-shadow",
-        "xs"
+        "sm"
       ]
     }
   },

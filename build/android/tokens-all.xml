@@ -2,11 +2,7 @@
 
 <!--
   Do not edit directly
-<<<<<<< HEAD
-  Generated on Tue, 21 Jun 2022 18:01:51 GMT
-=======
-  Generated on Fri, 17 Jun 2022 16:19:28 GMT
->>>>>>> 5f66fd23ecb870de00b8e867e7cb08419ef105bf
+  Generated on Tue, 21 Jun 2022 18:08:38 GMT
 -->
 <resources>
   <string name="tv_button_primary_color_bg_default">#232424</string>
@@ -236,11 +232,16 @@
   <string name="tv_typography_paragraph_firetv">[object Object]</string>
   <string name="tv_typography_paragraph_smarttv">[object Object]</string>
   <color name="color_text_primary_on_dark">#fffafafa</color>
-  <color name="color_text_primary_on_dark_copy">#fffafafa</color>
   <color name="color_text_primary_on_light">#ff0f1010</color>
   <color name="color_text_primary_on_brand">#fffafafa</color>
-  <color name="color_bg_elevation_1">#ff191a1a</color>
-  <color name="color_bg_elevation_2">#ff232424</color>
+  <color name="color_text_secondary_on_dark">#ffbbbebe</color>
+  <color name="color_text_inactive_on_dark">#ffb1b4b4</color>
+  <color name="color_text_disabled_on_dark">#ff929696</color>
+  <color name="color_bg_elevation_0">#ff0f1010</color>
+  <color name="color_bg_elevation_10">#ff191a1a</color>
+  <color name="color_bg_elevation_20">#ff232424</color>
+  <color name="color_bg_elevation_30">#ff2d2f2f</color>
+  <color name="color_bg_elevation_40">#ff373939</color>
   <color name="color_bg_placeholder">#ffa7aaaa</color>
   <color name="color_icon_primary_on_dark">#fffafafa</color>
   <color name="color_semantic_favorite">#ff2bb1e3</color>
@@ -416,7 +417,7 @@
   <string name="border_width_thin">2px</string>
   <string name="border_width_thick">4px</string>
   <string name="border_width_x_thick">8</string>
-  <string name="drop_shadow_xs">[object Object]</string>
+  <string name="drop_shadow_sm">[object Object]</string>
   <string name="space_xxs">4px</string>
   <string name="space_xs">8px</string>
   <string name="space_sm">16px</string>
