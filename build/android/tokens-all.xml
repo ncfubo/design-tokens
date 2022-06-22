@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 21 Jun 2022 18:36:05 GMT
+  Generated on Wed, 22 Jun 2022 15:29:22 GMT
 -->
 <resources>
   <string name="tv_button_primary_color_bg_default">#232424</string>
@@ -433,6 +433,5 @@
   <string name="opacity_80">80%</string>
   <string name="opacity_100">100%</string>
   <string name="text_align_left">left</string>
-  <string name="test">1</string>
   
 </resources>
