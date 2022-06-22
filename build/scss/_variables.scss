@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Wed, 22 Jun 2022 15:29:22 GMT
+// Generated on Wed, 22 Jun 2022 16:02:34 GMT
 
 $tv-button-primary-color-bg-default: #232424;
 $tv-button-primary-color-text-default: #fafafa;
@@ -60,8 +60,8 @@ $tv-card-live-tv-border-radius: 8px;
 $tv-card-color-header-bg-default: #191a1a;
 $tv-card-color-header-bg-focus: #fafafa;
 $tv-card-color-icon-fav-active: #2bb1e3;
-$tv-card-color-scrim-overlay-default: linear-gradient(180deg, #0000000d 0.25%, #0000008b 49.73%, #000000 100%);
-$tv-card-color-scrim-overlay-focus: #000000cc;
+$tv-card-color-scrim-overlay-default: linear-gradient(0deg, #0e0e1b 0%, #04020bc7 30.73%, #04020b59 63.02%, #04020b26 82.81%, #04020b00 100%);
+$tv-card-color-scrim-overlay-focus: #04020bbf;
 $tv-card-color-border-focus: #fafafa;
 $tv-card-color-base-bg-default: #191a1a;
 $tv-card-color-base-bg-focus: #fafafa;
@@ -241,9 +241,13 @@ $color-bg-elevation-30: #2d2f2f;
 $color-bg-elevation-40: #373939;
 $color-bg-placeholder: #a7aaaa;
 $color-icon-primary-on-dark: #fafafa;
+$color-semantic-record: #e02e2e;
 $color-semantic-favorite: #2bb1e3;
 $color-semantic-live: #fa4616;
 $color-semantic-focus: #fafafa;
+$color-semantic-success-darker: #008a5a;
+$color-semantic-success-default: #2ad599;
+$color-semantic-success-lighter: #7eeac4;
 $color-orange-0: #110400;
 $color-orange-20: #220801;
 $color-orange-40: #430f01;
@@ -353,8 +357,12 @@ $color-gradients-sunset: #000000;
 $color-gradients-dusk: #000000;
 $color-gradients-dawn: #000000;
 $color-gradients-blue-gradient: #000000;
-$color-scrim-fade: #000000;
-$color-scrim-solid: rgba(0, 0, 0, 0.8);
+$color-scrim-overlay-darker: rgba(4, 2, 11, 0.75);
+$color-scrim-overlay-mid: rgba(4, 2, 11, 0.6);
+$color-scrim-overlay-lighter: rgba(4, 2, 11, 0.2);
+$color-scrim-fade-bottom: #000000;
+$color-scrim-fade-ltr: #000000;
+$color-scrim-fade-rtl: #000000;
 $action-border-radius: 100%;
 $font-face-primary: Qanelas;
 $font-face-sys-android: Roboto;

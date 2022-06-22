@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 22 Jun 2022 15:29:22 GMT
+  Generated on Wed, 22 Jun 2022 16:02:34 GMT
 -->
 <resources>
   <color name="tv_button_primary_color_bg_default">#232424</color>
@@ -21,8 +21,8 @@
   <color name="tv_card_color_header_bg_default">#191a1a</color>
   <color name="tv_card_color_header_bg_focus">#fafafa</color>
   <color name="tv_card_color_icon_fav_active">#2bb1e3</color>
-  <color name="tv_card_color_scrim_overlay_default">linear-gradient(180deg, #0000000d 0.25%, #0000008b 49.73%, #000000 100%)</color>
-  <color name="tv_card_color_scrim_overlay_focus">#000000cc</color>
+  <color name="tv_card_color_scrim_overlay_default">linear-gradient(0deg, #0e0e1b 0%, #04020bc7 30.73%, #04020b59 63.02%, #04020b26 82.81%, #04020b00 100%)</color>
+  <color name="tv_card_color_scrim_overlay_focus">#04020bbf</color>
   <color name="tv_card_color_border_focus">#fafafa</color>
   <color name="tv_card_color_base_bg_default">#191a1a</color>
   <color name="tv_card_color_base_bg_focus">#fafafa</color>
@@ -41,9 +41,13 @@
   <color name="color_bg_elevation_40">#ff373939</color>
   <color name="color_bg_placeholder">#ffa7aaaa</color>
   <color name="color_icon_primary_on_dark">#fffafafa</color>
+  <color name="color_semantic_record">#ffe02e2e</color>
   <color name="color_semantic_favorite">#ff2bb1e3</color>
   <color name="color_semantic_live">#fffa4616</color>
   <color name="color_semantic_focus">#fffafafa</color>
+  <color name="color_semantic_success_darker">#ff008a5a</color>
+  <color name="color_semantic_success_default">#ff2ad599</color>
+  <color name="color_semantic_success_lighter">#ff7eeac4</color>
   <color name="color_orange_0">#ff110400</color>
   <color name="color_orange_20">#ff220801</color>
   <color name="color_orange_40">#ff430f01</color>
@@ -153,7 +157,11 @@
   <color name="color_gradients_dusk">#ff000000</color>
   <color name="color_gradients_dawn">#ff000000</color>
   <color name="color_gradients_blue_gradient">#ff000000</color>
-  <color name="color_scrim_fade">#ff000000</color>
-  <color name="color_scrim_solid">#cc000000</color>
+  <color name="color_scrim_overlay_darker">#bf04020b</color>
+  <color name="color_scrim_overlay_mid">#9904020b</color>
+  <color name="color_scrim_overlay_lighter">#3304020b</color>
+  <color name="color_scrim_fade_bottom">#ff000000</color>
+  <color name="color_scrim_fade_ltr">#ff000000</color>
+  <color name="color_scrim_fade_rtl">#ff000000</color>
   
 </resources>

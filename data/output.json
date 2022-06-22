@@ -297,11 +297,11 @@
         },
         "scrim-overlay": {
           "default": {
-            "value": "linear-gradient(180deg, #0000000d 0.25%, #0000008b 49.73%, #000000 100%)",
+            "value": "linear-gradient(0deg, #0e0e1b 0%, #04020bc7 30.73%, #04020b59 63.02%, #04020b26 82.81%, #04020b00 100%)",
             "type": "color"
           },
           "focus": {
-            "value": "#000000cc",
+            "value": "#04020bbf",
             "type": "color"
           }
         },
@@ -1382,6 +1382,10 @@
       }
     },
     "semantic": {
+      "record": {
+        "value": "#e02e2e",
+        "type": "color"
+      },
       "favorite": {
         "value": "#2bb1e3",
         "type": "color"
@@ -1393,6 +1397,20 @@
       "focus": {
         "value": "#fafafa",
         "type": "color"
+      },
+      "success": {
+        "darker": {
+          "value": "#008A5A",
+          "type": "color"
+        },
+        "default": {
+          "value": "#2AD599",
+          "type": "color"
+        },
+        "lighter": {
+          "value": "#7EEAC4",
+          "type": "color"
+        }
       }
     },
     "orange": {
@@ -1944,13 +1962,33 @@
       }
     },
     "scrim": {
-      "fade": {
-        "value": "linear-gradient(180deg, #0000000d 0.25%, #0000008b 49.73%, #000000 100%)",
-        "type": "color"
+      "overlay": {
+        "darker": {
+          "value": "#04020bbf",
+          "type": "color"
+        },
+        "mid": {
+          "value": "#04020b99",
+          "type": "color"
+        },
+        "lighter": {
+          "value": "#04020b33",
+          "type": "color"
+        }
       },
-      "solid": {
-        "value": "#000000cc",
-        "type": "color"
+      "fade": {
+        "bottom": {
+          "value": "linear-gradient(0deg, #0e0e1b 0%, #04020bc7 30.73%, #04020b59 63.02%, #04020b26 82.81%, #04020b00 100%)",
+          "type": "color"
+        },
+        "ltr": {
+          "value": "linear-gradient(90deg, #0b0203 0%, #04020bc7 37.07%, #04020b4f 75.53%, #04020b29 87.21%, #04020b00 100%)",
+          "type": "color"
+        },
+        "rtl": {
+          "value": "linear-gradient(-90deg, #04020b 0%, #04020bc7 37.07%, #04020b4f 75.53%, #04020b29 87.21%, #04020b00 100%)",
+          "type": "color"
+        }
       }
     }
   },
