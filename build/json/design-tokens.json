@@ -7107,8 +7107,8 @@
         "white"
       ]
     },
-    "Gradients": {
-      "Sunset": {
+    "gradient": {
+      "sunset": {
         "value": "linear-gradient(135deg, #fa4616 0%, #721e4e 100%)",
         "type": "color",
         "filePath": "data/output.json",
@@ -7117,15 +7117,15 @@
           "value": "linear-gradient(135deg, #fa4616 0%, #721e4e 100%)",
           "type": "color"
         },
-        "name": "Sunset",
+        "name": "sunset",
         "attributes": {},
         "path": [
           "color",
-          "Gradients",
-          "Sunset"
+          "gradient",
+          "sunset"
         ]
       },
-      "Dusk": {
+      "dusk": {
         "value": "linear-gradient(135deg, #6a11cb 0%, #2575fc 100%)",
         "type": "color",
         "filePath": "data/output.json",
@@ -7134,15 +7134,15 @@
           "value": "linear-gradient(135deg, #6a11cb 0%, #2575fc 100%)",
           "type": "color"
         },
-        "name": "Dusk",
+        "name": "dusk",
         "attributes": {},
         "path": [
           "color",
-          "Gradients",
-          "Dusk"
+          "gradient",
+          "dusk"
         ]
       },
-      "Dawn": {
+      "dawn": {
         "value": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
         "type": "color",
         "filePath": "data/output.json",
@@ -7151,29 +7151,29 @@
           "value": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
           "type": "color"
         },
-        "name": "Dawn",
+        "name": "dawn",
         "attributes": {},
         "path": [
           "color",
-          "Gradients",
-          "Dawn"
+          "gradient",
+          "dawn"
         ]
       },
-      "blue-gradient": {
-        "value": "linear-gradient(135deg, #1c7ae4 0%, #145aa8 100%)",
+      "slate": {
+        "value": "linear-gradient(135deg, #424255 0%, #222234 100%)",
         "type": "color",
         "filePath": "data/output.json",
         "isSource": true,
         "original": {
-          "value": "linear-gradient(135deg, #1c7ae4 0%, #145aa8 100%)",
+          "value": "linear-gradient(135deg, #424255 0%, #222234 100%)",
           "type": "color"
         },
-        "name": "blue-gradient",
+        "name": "slate",
         "attributes": {},
         "path": [
           "color",
-          "Gradients",
-          "blue-gradient"
+          "gradient",
+          "slate"
         ]
       }
     },
@@ -7287,6 +7287,450 @@
             "scrim",
             "fade",
             "rtl"
+          ]
+        }
+      }
+    },
+    "smoke": {
+      "0": {
+        "value": " #0E0E1B",
+        "type": "color",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": " #0E0E1B",
+          "type": "color"
+        },
+        "name": "0",
+        "attributes": {},
+        "path": [
+          "color",
+          "smoke",
+          "0"
+        ]
+      },
+      "10": {
+        "value": "#171726",
+        "type": "color",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "#171726",
+          "type": "color"
+        },
+        "name": "10",
+        "attributes": {},
+        "path": [
+          "color",
+          "smoke",
+          "10"
+        ]
+      },
+      "20": {
+        "value": "#222234",
+        "type": "color",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "#222234",
+          "type": "color"
+        },
+        "name": "20",
+        "attributes": {},
+        "path": [
+          "color",
+          "smoke",
+          "20"
+        ]
+      },
+      "30": {
+        "value": "#333348",
+        "type": "color",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "#333348",
+          "type": "color"
+        },
+        "name": "30",
+        "attributes": {},
+        "path": [
+          "color",
+          "smoke",
+          "30"
+        ]
+      },
+      "40": {
+        "value": "#434356",
+        "type": "color",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "#434356",
+          "type": "color"
+        },
+        "name": "40",
+        "attributes": {},
+        "path": [
+          "color",
+          "smoke",
+          "40"
+        ]
+      },
+      "50": {
+        "value": "#535365",
+        "type": "color",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "#535365",
+          "type": "color"
+        },
+        "name": "50",
+        "attributes": {},
+        "path": [
+          "color",
+          "smoke",
+          "50"
+        ]
+      },
+      "60": {
+        "value": "#636374",
+        "type": "color",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "#636374",
+          "type": "color"
+        },
+        "name": "60",
+        "attributes": {},
+        "path": [
+          "color",
+          "smoke",
+          "60"
+        ]
+      },
+      "70": {
+        "value": "#737387",
+        "type": "color",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "#737387",
+          "type": "color"
+        },
+        "name": "70",
+        "attributes": {},
+        "path": [
+          "color",
+          "smoke",
+          "70"
+        ]
+      },
+      "80": {
+        "value": "#8A8A9E",
+        "type": "color",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "#8A8A9E",
+          "type": "color"
+        },
+        "name": "80",
+        "attributes": {},
+        "path": [
+          "color",
+          "smoke",
+          "80"
+        ]
+      },
+      "90": {
+        "value": "#A0A0B6",
+        "type": "color",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "#A0A0B6",
+          "type": "color"
+        },
+        "name": "90",
+        "attributes": {},
+        "path": [
+          "color",
+          "smoke",
+          "90"
+        ]
+      },
+      "100": {
+        "value": "#B2B2C7",
+        "type": "color",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "#B2B2C7",
+          "type": "color"
+        },
+        "name": "100",
+        "attributes": {},
+        "path": [
+          "color",
+          "smoke",
+          "100"
+        ]
+      },
+      "110": {
+        "value": "#C9C9DE",
+        "type": "color",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "#C9C9DE",
+          "type": "color"
+        },
+        "name": "110",
+        "attributes": {},
+        "path": [
+          "color",
+          "smoke",
+          "110"
+        ]
+      },
+      "120": {
+        "value": "#DDDDEE",
+        "type": "color",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "#DDDDEE",
+          "type": "color"
+        },
+        "name": "120",
+        "attributes": {},
+        "path": [
+          "color",
+          "smoke",
+          "120"
+        ]
+      },
+      "130": {
+        "value": " #EAEAF6",
+        "type": "color",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": " #EAEAF6",
+          "type": "color"
+        },
+        "name": "130",
+        "attributes": {},
+        "path": [
+          "color",
+          "smoke",
+          "130"
+        ]
+      },
+      "140": {
+        "value": "#F5F5FF",
+        "type": "color",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "#F5F5FF",
+          "type": "color"
+        },
+        "name": "140",
+        "attributes": {},
+        "path": [
+          "color",
+          "smoke",
+          "140"
+        ]
+      },
+      "150": {
+        "value": "#FEFEFF",
+        "type": "color",
+        "filePath": "data/output.json",
+        "isSource": true,
+        "original": {
+          "value": "#FEFEFF",
+          "type": "color"
+        },
+        "name": "150",
+        "attributes": {},
+        "path": [
+          "color",
+          "smoke",
+          "150"
+        ]
+      }
+    },
+    "brand": {
+      "primary": {
+        "darker": {
+          "value": "#EA3A07",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#EA3A07",
+            "type": "color"
+          },
+          "name": "darker",
+          "attributes": {},
+          "path": [
+            "color",
+            "brand",
+            "primary",
+            "darker"
+          ]
+        },
+        "default": {
+          "value": "#FF5524",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#FF5524",
+            "type": "color"
+          },
+          "name": "default",
+          "attributes": {},
+          "path": [
+            "color",
+            "brand",
+            "primary",
+            "default"
+          ]
+        },
+        "lighter": {
+          "value": "#FF987B",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#FF987B",
+            "type": "color"
+          },
+          "name": "lighter",
+          "attributes": {},
+          "path": [
+            "color",
+            "brand",
+            "primary",
+            "lighter"
+          ]
+        }
+      },
+      "secondary": {
+        "darker": {
+          "value": "#0C34A8",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#0C34A8",
+            "type": "color"
+          },
+          "name": "darker",
+          "attributes": {},
+          "path": [
+            "color",
+            "brand",
+            "secondary",
+            "darker"
+          ]
+        },
+        "default": {
+          "value": "#2A55D2",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#2A55D2",
+            "type": "color"
+          },
+          "name": "default",
+          "attributes": {},
+          "path": [
+            "color",
+            "brand",
+            "secondary",
+            "default"
+          ]
+        },
+        "lighter": {
+          "value": "#99AFF1",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#99AFF1",
+            "type": "color"
+          },
+          "name": "lighter",
+          "attributes": {},
+          "path": [
+            "color",
+            "brand",
+            "secondary",
+            "lighter"
+          ]
+        }
+      },
+      "tertiary": {
+        "darker": {
+          "value": "#2F00B8",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#2F00B8",
+            "type": "color"
+          },
+          "name": "darker",
+          "attributes": {},
+          "path": [
+            "color",
+            "brand",
+            "tertiary",
+            "darker"
+          ]
+        },
+        "default": {
+          "value": "#460EE8",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#460EE8",
+            "type": "color"
+          },
+          "name": "default",
+          "attributes": {},
+          "path": [
+            "color",
+            "brand",
+            "tertiary",
+            "default"
+          ]
+        },
+        "lighter": {
+          "value": "#7144F4",
+          "type": "color",
+          "filePath": "data/output.json",
+          "isSource": true,
+          "original": {
+            "value": "#7144F4",
+            "type": "color"
+          },
+          "name": "lighter",
+          "attributes": {},
+          "path": [
+            "color",
+            "brand",
+            "tertiary",
+            "lighter"
           ]
         }
       }

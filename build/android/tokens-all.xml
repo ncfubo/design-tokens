@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 22 Jun 2022 16:02:34 GMT
+  Generated on Wed, 22 Jun 2022 17:53:18 GMT
 -->
 <resources>
   <string name="tv_button_primary_color_bg_default">#232424</string>
@@ -356,16 +356,41 @@
   <color name="color_grey_080">#ff373939</color>
   <color name="color_black">#ff000000</color>
   <color name="color_white">#ffffffff</color>
-  <color name="color_gradients_sunset">#ff000000</color>
-  <color name="color_gradients_dusk">#ff000000</color>
-  <color name="color_gradients_dawn">#ff000000</color>
-  <color name="color_gradients_blue_gradient">#ff000000</color>
+  <color name="color_gradient_sunset">#ff000000</color>
+  <color name="color_gradient_dusk">#ff000000</color>
+  <color name="color_gradient_dawn">#ff000000</color>
+  <color name="color_gradient_slate">#ff000000</color>
   <color name="color_scrim_overlay_darker">#bf04020b</color>
   <color name="color_scrim_overlay_mid">#9904020b</color>
   <color name="color_scrim_overlay_lighter">#3304020b</color>
   <color name="color_scrim_fade_bottom">#ff000000</color>
   <color name="color_scrim_fade_ltr">#ff000000</color>
   <color name="color_scrim_fade_rtl">#ff000000</color>
+  <color name="color_smoke_0">#ff0e0e1b</color>
+  <color name="color_smoke_10">#ff171726</color>
+  <color name="color_smoke_20">#ff222234</color>
+  <color name="color_smoke_30">#ff333348</color>
+  <color name="color_smoke_40">#ff434356</color>
+  <color name="color_smoke_50">#ff535365</color>
+  <color name="color_smoke_60">#ff636374</color>
+  <color name="color_smoke_70">#ff737387</color>
+  <color name="color_smoke_80">#ff8a8a9e</color>
+  <color name="color_smoke_90">#ffa0a0b6</color>
+  <color name="color_smoke_100">#ffb2b2c7</color>
+  <color name="color_smoke_110">#ffc9c9de</color>
+  <color name="color_smoke_120">#ffddddee</color>
+  <color name="color_smoke_130">#ffeaeaf6</color>
+  <color name="color_smoke_140">#fff5f5ff</color>
+  <color name="color_smoke_150">#fffefeff</color>
+  <color name="color_brand_primary_darker">#ffea3a07</color>
+  <color name="color_brand_primary_default">#ffff5524</color>
+  <color name="color_brand_primary_lighter">#ffff987b</color>
+  <color name="color_brand_secondary_darker">#ff0c34a8</color>
+  <color name="color_brand_secondary_default">#ff2a55d2</color>
+  <color name="color_brand_secondary_lighter">#ff99aff1</color>
+  <color name="color_brand_tertiary_darker">#ff2f00b8</color>
+  <color name="color_brand_tertiary_default">#ff460ee8</color>
+  <color name="color_brand_tertiary_lighter">#ff7144f4</color>
   <string name="action_border_radius">100%</string>
   <string name="font_face_primary">Qanelas</string>
   <string name="font_face_sys_android">Roboto</string>
